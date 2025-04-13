@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_031c5458b6f12969b46b579e2ac279ec {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-ant-path@1.1.2/dist/leaflet-ant-path.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_031c5458b6f12969b46b579e2ac279ec" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_031c5458b6f12969b46b579e2ac279ec = L.map(
+                "map_031c5458b6f12969b46b579e2ac279ec",
+                {
+                    center: [46.7804, 3.73496975],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 6,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_47f88ad21d67e1f023d1248cb7a6f4e6 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_47f88ad21d67e1f023d1248cb7a6f4e6.addTo(map_031c5458b6f12969b46b579e2ac279ec);
+        
+    
+            var marker_faa919dcb9a50b9f43a3fcf10058d1e3 = L.marker(
+                [46.265565, 1.374143],
+                {
+}
+            ).addTo(map_031c5458b6f12969b46b579e2ac279ec);
+        
+    
+            var icon_f90eb37f23abc3f5fe4fe653fca3ad82 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "book",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_96b990b7cd25acb5cac0b1b0a02df57b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9c3540396e192244cd0c544f0916c659 = $(`<div id="html_9c3540396e192244cd0c544f0916c659" style="width: 100.0%; height: 100.0%;">1. Bibliothèque de Arnac La Poste</div>`)[0];
+                popup_96b990b7cd25acb5cac0b1b0a02df57b.setContent(html_9c3540396e192244cd0c544f0916c659);
+            
+        
+
+        marker_faa919dcb9a50b9f43a3fcf10058d1e3.bindPopup(popup_96b990b7cd25acb5cac0b1b0a02df57b)
+        ;
+
+        
+    
+    
+                marker_faa919dcb9a50b9f43a3fcf10058d1e3.setIcon(icon_f90eb37f23abc3f5fe4fe653fca3ad82);
+            
+    
+            var marker_1063bf0e0171fa224d361652ec01e424 = L.marker(
+                [47.281471, 3.490676],
+                {
+}
+            ).addTo(map_031c5458b6f12969b46b579e2ac279ec);
+        
+    
+            var icon_03f70d5f14c3f3c2c937e9300ded23d6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "book",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_dbcaab807e401edd9eb1fc5577019297 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a82ba8c40cfe962c17be40523621ac81 = $(`<div id="html_a82ba8c40cfe962c17be40523621ac81" style="width: 100.0%; height: 100.0%;">2. Bibliothèque Municipale de Brinon-sur-Beuvron</div>`)[0];
+                popup_dbcaab807e401edd9eb1fc5577019297.setContent(html_a82ba8c40cfe962c17be40523621ac81);
+            
+        
+
+        marker_1063bf0e0171fa224d361652ec01e424.bindPopup(popup_dbcaab807e401edd9eb1fc5577019297)
+        ;
+
+        
+    
+    
+                marker_1063bf0e0171fa224d361652ec01e424.setIcon(icon_03f70d5f14c3f3c2c937e9300ded23d6);
+            
+    
+            var marker_3e05e09c4180af2dc8c786e9c1473492 = L.marker(
+                [47.019166, 4.911014],
+                {
+}
+            ).addTo(map_031c5458b6f12969b46b579e2ac279ec);
+        
+    
+            var icon_28b480da7e2e2e3d5b99fcdec3bfb281 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "book",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b614531a5895ab028f8b3d47a856db32 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_28a454be006e4654b0621c5911ad1dfb = $(`<div id="html_28a454be006e4654b0621c5911ad1dfb" style="width: 100.0%; height: 100.0%;">3. Bibliothèque - Foyer Rural</div>`)[0];
+                popup_b614531a5895ab028f8b3d47a856db32.setContent(html_28a454be006e4654b0621c5911ad1dfb);
+            
+        
+
+        marker_3e05e09c4180af2dc8c786e9c1473492.bindPopup(popup_b614531a5895ab028f8b3d47a856db32)
+        ;
+
+        
+    
+    
+                marker_3e05e09c4180af2dc8c786e9c1473492.setIcon(icon_28b480da7e2e2e3d5b99fcdec3bfb281);
+            
+    
+            var marker_ea6ffd59944b3321e0184b6917a140cd = L.marker(
+                [46.555398, 5.164046],
+                {
+}
+            ).addTo(map_031c5458b6f12969b46b579e2ac279ec);
+        
+    
+            var icon_4d772ed2d6aefbd73bed11d270ad0c86 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "book",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4bbe398861b9db817c7443c9daee131a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c95bc6987037af304b146fdf436db9b6 = $(`<div id="html_c95bc6987037af304b146fdf436db9b6" style="width: 100.0%; height: 100.0%;">4. Bibliothèque Municipale</div>`)[0];
+                popup_4bbe398861b9db817c7443c9daee131a.setContent(html_c95bc6987037af304b146fdf436db9b6);
+            
+        
+
+        marker_ea6ffd59944b3321e0184b6917a140cd.bindPopup(popup_4bbe398861b9db817c7443c9daee131a)
+        ;
+
+        
+    
+    
+                marker_ea6ffd59944b3321e0184b6917a140cd.setIcon(icon_4d772ed2d6aefbd73bed11d270ad0c86);
+            
+    
+            ant_path_de74b1150012d3d57c4e95973bc7493b = L.polyline.antPath(
+              [[46.265565, 1.374143], [47.281471, 3.490676], [47.019166, 4.911014], [46.555398, 5.164046]],
+              {
+  "stroke": true,
+  "color": "red",
+  "weight": 4,
+  "opacity": 0.5,
+  "lineCap": "round",
+  "lineJoin": "round",
+  "dashArray": [
+10,
+20,
+],
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "red",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "bubblingMouseEvents": true,
+  "smoothFactor": 1.0,
+  "noClip": false,
+  "paused": false,
+  "reverse": false,
+  "hardwareAcceleration": false,
+  "delay": 400,
+  "pulseColor": "#FFFFFF",
+}
+        ).addTo(map_031c5458b6f12969b46b579e2ac279ec);
+        
+</script>
+</html>

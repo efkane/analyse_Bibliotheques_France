@@ -1,0 +1,2115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-26">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="ville" type="string" />
+      <attribute id="1" title="region" type="string" />
+      <attribute id="2" title="latitude" type="double" />
+      <attribute id="3" title="longitude" type="double" />
+      <attribute id="4" title="surface" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Coordination des médiathèques du Quercy Caussadais" label="Coordination des médiathèques du Quercy Caussadais">
+        <attvalues>
+          <attvalue for="0" value="Caussade" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="44.153949" />
+          <attvalue for="3" value="1.527161" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque De Clessé" label="Bibliothèque De Clessé">
+        <attvalues>
+          <attvalue for="0" value="Clessé" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.716557" />
+          <attvalue for="3" value="-0.405016" />
+          <attvalue for="4" value="10.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Arnac La Poste" label="Bibliothèque de Arnac La Poste">
+        <attvalues>
+          <attvalue for="0" value="Arnac-la-Poste" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.265565" />
+          <attvalue for="3" value="1.374143" />
+          <attvalue for="4" value="72.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque  municipale" label="Médiathèque  municipale">
+        <attvalues>
+          <attvalue for="0" value="Saïx" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.582817" />
+          <attvalue for="3" value="2.18104" />
+          <attvalue for="4" value="120.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque de Villars le Pautel" label="Bibliotheque de Villars le Pautel">
+        <attvalues>
+          <attvalue for="0" value="Villars-le-Pautel" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="47.894795" />
+          <attvalue for="3" value="5.934542" />
+          <attvalue for="4" value="60.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale" label="Bibliothèque Municipale">
+        <attvalues>
+          <attvalue for="0" value="Haimps" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="45.86779" />
+          <attvalue for="3" value="-0.263764" />
+          <attvalue for="4" value="80.0" />
+        </attvalues>
+      </node>
+      <node id="MEDIATHEQUE" label="MEDIATHEQUE">
+        <attvalues>
+          <attvalue for="0" value="Saint-Malo" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.647374" />
+          <attvalue for="3" value="-2.006683" />
+          <attvalue for="4" value="2678.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Colombiers" label="Médiathèque de Colombiers">
+        <attvalues>
+          <attvalue for="0" value="Colombiers" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.313358" />
+          <attvalue for="3" value="3.141969" />
+          <attvalue for="4" value="285.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque intercommunale" label="Médiathèque intercommunale">
+        <attvalues>
+          <attvalue for="0" value="Martigné-Ferchaud" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="47.831663" />
+          <attvalue for="3" value="-1.320654" />
+          <attvalue for="4" value="250.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque Kalliopê" label="Médiathèque Kalliopê">
+        <attvalues>
+          <attvalue for="0" value="Magalas" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.471804" />
+          <attvalue for="3" value="3.224881" />
+          <attvalue for="4" value="200.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque Municipale" label="Médiathèque Municipale">
+        <attvalues>
+          <attvalue for="0" value="Pirey" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="47.256348" />
+          <attvalue for="3" value="5.962757" />
+          <attvalue for="4" value="230.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque - Foyer Rural" label="Bibliothèque - Foyer Rural">
+        <attvalues>
+          <attvalue for="0" value="Ruffey-lès-Beaune" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="47.019166" />
+          <attvalue for="3" value="4.911014" />
+          <attvalue for="4" value="63.0" />
+        </attvalues>
+      </node>
+      <node id="Point lecture de Rountzenheim-Auenheim," label="Point lecture de Rountzenheim-Auenheim,">
+        <attvalues>
+          <attvalue for="0" value="Rountzenheim-Auenheim" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="48.817278" />
+          <attvalue for="3" value="8.009476" />
+          <attvalue for="4" value="79.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Torcy le Grand" label="Bibliothèque de Torcy le Grand">
+        <attvalues>
+          <attvalue for="0" value="Torcy-le-Grand" />
+          <attvalue for="1" value="Normandie" />
+          <attvalue for="2" value="49.791422" />
+          <attvalue for="3" value="1.175162" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Mairie de Rocles" label="Mairie de Rocles">
+        <attvalues>
+          <attvalue for="0" value="Rocles" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="46.425338" />
+          <attvalue for="3" value="3.030673" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque De Mougon" label="Bibliothèque De Mougon">
+        <attvalues>
+          <attvalue for="0" value="Aigondigné" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.292193" />
+          <attvalue for="3" value="-0.289413" />
+          <attvalue for="4" value="100.0" />
+        </attvalues>
+      </node>
+      <node id="Ludothèque-Bibliothèque de Thiolières" label="Ludothèque-Bibliothèque de Thiolières">
+        <attvalues>
+          <attvalue for="0" value="Thiolières" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.585536" />
+          <attvalue for="3" value="3.690762" />
+          <attvalue for="4" value="60.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Associative Saint-Guénolé" label="Bibliothèque Associative Saint-Guénolé">
+        <attvalues>
+          <attvalue for="0" value="Île-de-Sein" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.038341" />
+          <attvalue for="3" value="-4.85049" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque" label="Médiathèque">
+        <attvalues>
+          <attvalue for="0" value="Chaussenac" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.171786" />
+          <attvalue for="3" value="2.278286" />
+          <attvalue for="4" value="30.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque Charlotte Delbo" label="Bibliotheque Charlotte Delbo">
+        <attvalues>
+          <attvalue for="0" value="Montrem" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="45.150333" />
+          <attvalue for="3" value="0.574284" />
+          <attvalue for="4" value="60.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale" label="Bibliothèque municipale">
+        <attvalues>
+          <attvalue for="0" value="Givenchy-lès-la-Bassée" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="50.529143" />
+          <attvalue for="3" value="2.75746" />
+          <attvalue for="4" value="122.0" />
+        </attvalues>
+      </node>
+      <node id="Plaisance du Gers" label="Plaisance du Gers">
+        <attvalues>
+          <attvalue for="0" value="Plaisance" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.606648" />
+          <attvalue for="3" value="0.047421" />
+          <attvalue for="4" value="160.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale de Brinon-sur-Beuvron" label="Bibliothèque Municipale de Brinon-sur-Beuvron">
+        <attvalues>
+          <attvalue for="0" value="Brinon-sur-Beuvron" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="47.281471" />
+          <attvalue for="3" value="3.490676" />
+          <attvalue for="4" value="34.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Villedômer" label="Bibliothèque de Villedômer">
+        <attvalues>
+          <attvalue for="0" value="Villedômer" />
+          <attvalue for="1" value="Centre-Val de Loire" />
+          <attvalue for="2" value="47.545978" />
+          <attvalue for="3" value="0.88831" />
+          <attvalue for="4" value="101.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Marigné" label="Bibliothèque de Marigné">
+        <attvalues>
+          <attvalue for="0" value="Les Hauts d'Anjou" />
+          <attvalue for="1" value="Pays de la Loire" />
+          <attvalue for="2" value="47.697239" />
+          <attvalue for="3" value="-0.535694" />
+          <attvalue for="4" value="50.0" />
+        </attvalues>
+      </node>
+      <node id="Mairie - Bibliothèque" label="Mairie - Bibliothèque">
+        <attvalues>
+          <attvalue for="0" value="Sainte-Colombe-sur-Seine" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="47.87118" />
+          <attvalue for="3" value="4.541831" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Les Mazurières" label="Bibliothèque Les Mazurières">
+        <attvalues>
+          <attvalue for="0" value="Rueil-Malmaison" />
+          <attvalue for="1" value="Île-de-France" />
+          <attvalue for="2" value="48.865725" />
+          <attvalue for="3" value="2.194441" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque d'Aydius" label="Bibliothèque d'Aydius">
+        <attvalues>
+          <attvalue for="0" value="Aydius" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="43.003337" />
+          <attvalue for="3" value="-0.535999" />
+          <attvalue for="4" value="30.0" />
+        </attvalues>
+      </node>
+      <node id="Mediatheque Municipale" label="Mediatheque Municipale">
+        <attvalues>
+          <attvalue for="0" value="Ydes" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.346385" />
+          <attvalue for="3" value="2.435707" />
+          <attvalue for="4" value="375.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque St-Vran" label="Bibliothèque St-Vran">
+        <attvalues>
+          <attvalue for="0" value="Saint-Vran" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.242323" />
+          <attvalue for="3" value="-2.461462" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Mediatheque Intercommunale Pierre Sourbie Lauzerte" label="Mediatheque Intercommunale Pierre Sourbie Lauzerte">
+        <attvalues>
+          <attvalue for="0" value="Lauzerte" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="44.25646" />
+          <attvalue for="3" value="1.138555" />
+          <attvalue for="4" value="300.0" />
+        </attvalues>
+      </node>
+      <node id="Mediathèque Jacques Prévert" label="Mediathèque Jacques Prévert">
+        <attvalues>
+          <attvalue for="0" value="Montbard" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="47.622439" />
+          <attvalue for="3" value="4.338739" />
+          <attvalue for="4" value="750.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque Municipale" label="Bibliotheque Municipale">
+        <attvalues>
+          <attvalue for="0" value="Soucy" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="48.248447" />
+          <attvalue for="3" value="3.325688" />
+          <attvalue for="4" value="120.0" />
+        </attvalues>
+      </node>
+      <node id="Espace Culturel de Bouzonville" label="Espace Culturel de Bouzonville">
+        <attvalues>
+          <attvalue for="0" value="Bouzonville" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="49.291111" />
+          <attvalue for="3" value="6.531954" />
+          <attvalue for="4" value="350.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque intercommunale  Sars Poteries" label="Médiathèque intercommunale  Sars Poteries">
+        <attvalues>
+          <attvalue for="0" value="Sars-Poteries" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="50.169218" />
+          <attvalue for="3" value="4.026565" />
+          <attvalue for="4" value="80.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale de La Digne-d'Aval" label="Bibliothèque municipale de La Digne-d'Aval">
+        <attvalues>
+          <attvalue for="0" value="La Digne-d'Aval" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.046396" />
+          <attvalue for="3" value="2.17921" />
+          <attvalue for="4" value="25.0" />
+        </attvalues>
+      </node>
+      <node id="CCMA - bibliothèque de Saint-Cyr-en-Pail" label="CCMA - bibliothèque de Saint-Cyr-en-Pail">
+        <attvalues>
+          <attvalue for="0" value="Saint-Cyr-en-Pail" />
+          <attvalue for="1" value="Pays de la Loire" />
+          <attvalue for="2" value="48.441145" />
+          <attvalue for="3" value="-0.24362" />
+          <attvalue for="4" value="35.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque Municipale de Friville-Escarbotin" label="Bibliotheque Municipale de Friville-Escarbotin">
+        <attvalues>
+          <attvalue for="0" value="Friville-Escarbotin" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="50.089871" />
+          <attvalue for="3" value="1.548289" />
+          <attvalue for="4" value="442.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque" label="Bibliothèque">
+        <attvalues>
+          <attvalue for="0" value="Le Pizou" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="45.038827" />
+          <attvalue for="3" value="0.072194" />
+          <attvalue for="4" value="110.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Jobourg" label="Bibliothèque de Jobourg">
+        <attvalues>
+          <attvalue for="0" value="La Hague" />
+          <attvalue for="1" value="Normandie" />
+          <attvalue for="2" value="49.683818" />
+          <attvalue for="3" value="-1.903658" />
+          <attvalue for="4" value="220.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Nouvion" label="Médiathèque de Nouvion">
+        <attvalues>
+          <attvalue for="0" value="Nouvion" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="50.213496" />
+          <attvalue for="3" value="1.773718" />
+          <attvalue for="4" value="157.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Louis Aragon" label="Bibliothèque Louis Aragon">
+        <attvalues>
+          <attvalue for="0" value="Châtenay-Malabry" />
+          <attvalue for="1" value="Île-de-France" />
+          <attvalue for="2" value="48.762718" />
+          <attvalue for="3" value="2.260899" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale de Cossaye" label="Bibliothèque Municipale de Cossaye">
+        <attvalues>
+          <attvalue for="0" value="Cossaye" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="46.749234" />
+          <attvalue for="3" value="3.484124" />
+          <attvalue for="4" value="40.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale de La Pesse" label="Bibliothèque municipale de La Pesse">
+        <attvalues>
+          <attvalue for="0" value="La Pesse" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="46.284663" />
+          <attvalue for="3" value="5.847358" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Ozouer-Le-Voulgis" label="Bibliothèque de Ozouer-Le-Voulgis">
+        <attvalues>
+          <attvalue for="0" value="Ozouer-le-Voulgis" />
+          <attvalue for="1" value="Île-de-France" />
+          <attvalue for="2" value="48.659315" />
+          <attvalue for="3" value="2.771173" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale de Dounoux" label="Bibliothèque municipale de Dounoux">
+        <attvalues>
+          <attvalue for="0" value="Dounoux" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="48.107132" />
+          <attvalue for="3" value="6.443536" />
+          <attvalue for="4" value="23.0" />
+        </attvalues>
+      </node>
+      <node id="Relais lecture de Cuttoli" label="Relais lecture de Cuttoli">
+        <attvalues>
+          <attvalue for="0" value="Cuttoli-Corticchiato" />
+          <attvalue for="1" value="Corse" />
+          <attvalue for="2" value="41.968173" />
+          <attvalue for="3" value="8.845931" />
+          <attvalue for="4" value="30.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Beaumont-Hague" label="Bibliothèque de Beaumont-Hague">
+        <attvalues>
+          <attvalue for="0" value="La Hague" />
+          <attvalue for="1" value="Normandie" />
+          <attvalue for="2" value="49.667244" />
+          <attvalue for="3" value="-1.831557" />
+          <attvalue for="4" value="160.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Louroux de Bouble" label="Bibliothèque de Louroux de Bouble">
+        <attvalues>
+          <attvalue for="0" value="Louroux-de-Bouble" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="46.226382" />
+          <attvalue for="3" value="2.966805" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Mediatheque intercommunale de Montmirail" label="Mediatheque intercommunale de Montmirail">
+        <attvalues>
+          <attvalue for="0" value="Montmirail" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="48.838726" />
+          <attvalue for="3" value="3.584022" />
+          <attvalue for="4" value="273.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de l'Accolade" label="Médiathèque de l'Accolade">
+        <attvalues>
+          <attvalue for="0" value="Chevaigné" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.212017" />
+          <attvalue for="3" value="-1.630248" />
+          <attvalue for="4" value="240.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Saint-Jean de Ceyrargues" label="Bibliothèque de Saint-Jean de Ceyrargues">
+        <attvalues>
+          <attvalue for="0" value="Saint-Jean-de-Ceyrargues" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="44.050996" />
+          <attvalue for="3" value="4.227185" />
+          <attvalue for="4" value="80.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque Saint Meard" label="Bibliotheque Saint Meard">
+        <attvalues>
+          <attvalue for="0" value="Saint-Méard" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="45.664407" />
+          <attvalue for="3" value="1.548543" />
+          <attvalue for="4" value="159.0" />
+        </attvalues>
+      </node>
+      <node id="Mairie de La Ferté-Hauterive" label="Mairie de La Ferté-Hauterive">
+        <attvalues>
+          <attvalue for="0" value="La Ferté-Hauterive" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="46.397247" />
+          <attvalue for="3" value="3.340862" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Médiatheque Maison du Savoir" label="Médiatheque Maison du Savoir">
+        <attvalues>
+          <attvalue for="0" value="Saint-Laurent-de-Neste" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.079769" />
+          <attvalue for="3" value="0.4811" />
+          <attvalue for="4" value="165.0" />
+        </attvalues>
+      </node>
+      <node id="Mediatheque Communautaire de Douchy-les-MInes" label="Mediatheque Communautaire de Douchy-les-MInes">
+        <attvalues>
+          <attvalue for="0" value="Douchy-les-Mines" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="50.299953" />
+          <attvalue for="3" value="3.390332" />
+          <attvalue for="4" value="1100.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Presles-en-Brie" label="Médiathèque de Presles-en-Brie">
+        <attvalues>
+          <attvalue for="0" value="Presles-en-Brie" />
+          <attvalue for="1" value="Île-de-France" />
+          <attvalue for="2" value="48.71574" />
+          <attvalue for="3" value="2.737263" />
+          <attvalue for="4" value="326.0" />
+        </attvalues>
+      </node>
+      <node id="Réseau des bibliothèques Brionnais Sud Bourgone" label="Réseau des bibliothèques Brionnais Sud Bourgone">
+        <attvalues>
+          <attvalue for="0" value="Chauffailles" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="46.207258" />
+          <attvalue for="3" value="4.33974" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Ribeauvillé" label="Médiathèque de Ribeauvillé">
+        <attvalues>
+          <attvalue for="0" value="Ribeauvillé" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="48.194617" />
+          <attvalue for="3" value="7.321402" />
+          <attvalue for="4" value="500.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale de La Couyère" label="Bibliothèque municipale de La Couyère">
+        <attvalues>
+          <attvalue for="0" value="La Couyère" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="47.890112" />
+          <attvalue for="3" value="-1.505305" />
+          <attvalue for="4" value="100.0" />
+        </attvalues>
+      </node>
+      <node id="Point lecture de Castillon-Debats" label="Point lecture de Castillon-Debats">
+        <attvalues>
+          <attvalue for="0" value="Castillon-Debats" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.729343" />
+          <attvalue for="3" value="0.217135" />
+          <attvalue for="4" value="28.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque communale St-Sorlin-en-Valloire" label="Bibliothèque communale St-Sorlin-en-Valloire">
+        <attvalues>
+          <attvalue for="0" value="Saint-Sorlin-en-Valloire" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.288617" />
+          <attvalue for="3" value="4.949756" />
+          <attvalue for="4" value="52.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque Ludothèque" label="Médiathèque Ludothèque">
+        <attvalues>
+          <attvalue for="0" value="Landéda" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.586921" />
+          <attvalue for="3" value="-4.57161" />
+          <attvalue for="4" value="300.0" />
+        </attvalues>
+      </node>
+      <node id="CCMA - Bibliothèque de Lignières-Orgères" label="CCMA - Bibliothèque de Lignières-Orgères">
+        <attvalues>
+          <attvalue for="0" value="Lignières-Orgères" />
+          <attvalue for="1" value="Pays de la Loire" />
+          <attvalue for="2" value="48.553832" />
+          <attvalue for="3" value="-0.234069" />
+          <attvalue for="4" value="45.0" />
+        </attvalues>
+      </node>
+      <node id="BIBLIOTHEQUE de GENCAY" label="BIBLIOTHEQUE de GENCAY">
+        <attvalues>
+          <attvalue for="0" value="Gençay" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.372336" />
+          <attvalue for="3" value="0.405502" />
+          <attvalue for="4" value="120.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale d'Evry Gregy sur Yerre" label="Bibliothèque Municipale d'Evry Gregy sur Yerre">
+        <attvalues>
+          <attvalue for="0" value="Évry-Grégy-sur-Yerre" />
+          <attvalue for="1" value="Île-de-France" />
+          <attvalue for="2" value="48.655708" />
+          <attvalue for="3" value="2.63901" />
+          <attvalue for="4" value="45.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Fiancey" label="Bibliothèque de Fiancey">
+        <attvalues>
+          <attvalue for="0" value="Saint-Égrève" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.224111" />
+          <attvalue for="3" value="5.689893" />
+          <attvalue for="4" value="191.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque Colette Vivier" label="Bibliotheque Colette Vivier">
+        <attvalues>
+          <attvalue for="0" value="Saint-Jean-de-la-Ruelle" />
+          <attvalue for="1" value="Centre-Val de Loire" />
+          <attvalue for="2" value="47.902535" />
+          <attvalue for="3" value="1.870504" />
+          <attvalue for="4" value="128.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque municipale" label="Médiathèque municipale">
+        <attvalues>
+          <attvalue for="0" value="Anzin-Saint-Aubin" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="50.312263" />
+          <attvalue for="3" value="2.747444" />
+          <attvalue for="4" value="400.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale de Susville" label="Bibliothèque Municipale de Susville">
+        <attvalues>
+          <attvalue for="0" value="Susville" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="44.927565" />
+          <attvalue for="3" value="5.772834" />
+          <attvalue for="4" value="80.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque de Treuzy-Levelay" label="Bibliotheque de Treuzy-Levelay">
+        <attvalues>
+          <attvalue for="0" value="Treuzy-Levelay" />
+          <attvalue for="1" value="Île-de-France" />
+          <attvalue for="2" value="48.27314" />
+          <attvalue for="3" value="2.811165" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Réseau du Haut Poitou" label="Réseau du Haut Poitou">
+        <attvalues>
+          <attvalue for="0" value="Neuville-de-Poitou" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.681356" />
+          <attvalue for="3" value="0.26241" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Maël-Pestivien" label="Bibliothèque de Maël-Pestivien">
+        <attvalues>
+          <attvalue for="0" value="Maël-Pestivien" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.395413" />
+          <attvalue for="3" value="-3.295143" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Reignac-sur-Indre" label="Bibliothèque de Reignac-sur-Indre">
+        <attvalues>
+          <attvalue for="0" value="Reignac-sur-Indre" />
+          <attvalue for="1" value="Centre-Val de Loire" />
+          <attvalue for="2" value="47.22781" />
+          <attvalue for="3" value="0.912851" />
+          <attvalue for="4" value="42.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Pacé" label="Médiathèque de Pacé">
+        <attvalues>
+          <attvalue for="0" value="Pacé" />
+          <attvalue for="1" value="Normandie" />
+          <attvalue for="2" value="48.445087" />
+          <attvalue for="3" value="-0.00084" />
+          <attvalue for="4" value="123.0" />
+        </attvalues>
+      </node>
+      <node id="Point Lecture de Gondrin" label="Point Lecture de Gondrin">
+        <attvalues>
+          <attvalue for="0" value="Gondrin" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.886717" />
+          <attvalue for="3" value="0.237794" />
+          <attvalue for="4" value="45.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Boma" label="Médiathèque de Boma">
+        <attvalues>
+          <attvalue for="0" value="Saint-Denis-de-Pile" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="44.992229" />
+          <attvalue for="3" value="-0.205337" />
+          <attvalue for="4" value="700.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale de Rodome" label="Bibliothèque municipale de Rodome">
+        <attvalues>
+          <attvalue for="0" value="Rodome" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="42.806537" />
+          <attvalue for="3" value="2.069097" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale De Lalande En Son" label="Bibliothèque Municipale De Lalande En Son">
+        <attvalues>
+          <attvalue for="0" value="Lalande-en-Son" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="49.390508" />
+          <attvalue for="3" value="1.782243" />
+          <attvalue for="4" value="200.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Castres-Sidobre" label="Médiathèque de Castres-Sidobre">
+        <attvalues>
+          <attvalue for="0" value="Castres" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.60731" />
+          <attvalue for="3" value="2.25219" />
+          <attvalue for="4" value="4633.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque (Antenne de la Bdp)" label="Bibliothèque (Antenne de la Bdp)">
+        <attvalues>
+          <attvalue for="0" value="Valserhône" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="46.122378" />
+          <attvalue for="3" value="5.80964" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="BIBLIOTHEQUE LA PYRAMIDE" label="BIBLIOTHEQUE LA PYRAMIDE">
+        <attvalues>
+          <attvalue for="0" value="Vénissieux" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.691706" />
+          <attvalue for="3" value="4.872462" />
+          <attvalue for="4" value="55.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Saint Eloi" label="Médiathèque de Saint Eloi">
+        <attvalues>
+          <attvalue for="0" value="Poitiers" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.589847" />
+          <attvalue for="3" value="0.38292" />
+          <attvalue for="4" value="800.0" />
+        </attvalues>
+      </node>
+      <node id="Le relais de la Poste" label="Le relais de la Poste">
+        <attvalues>
+          <attvalue for="0" value="Hèches" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.018962" />
+          <attvalue for="3" value="0.372487" />
+          <attvalue for="4" value="55.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Du Vigeant" label="Bibliothèque Du Vigeant">
+        <attvalues>
+          <attvalue for="0" value="Le Vigeant" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.225142" />
+          <attvalue for="3" value="0.652187" />
+          <attvalue for="4" value="90.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale Plessala" label="Bibliothèque Municipale Plessala">
+        <attvalues>
+          <attvalue for="0" value="Le Mené" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.276343" />
+          <attvalue for="3" value="-2.619677" />
+          <attvalue for="4" value="30.0" />
+        </attvalues>
+      </node>
+      <node id="BIBLIOTHEQUE" label="BIBLIOTHEQUE">
+        <attvalues>
+          <attvalue for="0" value="Macey" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="48.292843" />
+          <attvalue for="3" value="3.914725" />
+          <attvalue for="4" value="65.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Sénergues" label="Bibliothèque de Sénergues">
+        <attvalues>
+          <attvalue for="0" value="Sénergues" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="44.599056" />
+          <attvalue for="3" value="2.462014" />
+          <attvalue for="4" value="10.0" />
+        </attvalues>
+      </node>
+      <node id="Point lecture d'Avolsheim" label="Point lecture d'Avolsheim">
+        <attvalues>
+          <attvalue for="0" value="Avolsheim" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="48.561896" />
+          <attvalue for="3" value="7.509656" />
+          <attvalue for="4" value="150.0" />
+        </attvalues>
+      </node>
+      <node id="Médiatheque Municipale" label="Médiatheque Municipale">
+        <attvalues>
+          <attvalue for="0" value="Villaudric" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.827703" />
+          <attvalue for="3" value="1.428034" />
+          <attvalue for="4" value="100.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Carrère" label="Bibliothèque de Carrère">
+        <attvalues>
+          <attvalue for="0" value="Carrère" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="43.482143" />
+          <attvalue for="3" value="-0.274944" />
+          <attvalue for="4" value="60.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale de Bazainville" label="Bibliothèque Municipale de Bazainville">
+        <attvalues>
+          <attvalue for="0" value="Bazainville" />
+          <attvalue for="1" value="Île-de-France" />
+          <attvalue for="2" value="48.805328" />
+          <attvalue for="3" value="1.672609" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Point lecture de Westhouse" label="Point lecture de Westhouse">
+        <attvalues>
+          <attvalue for="0" value="Westhouse" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="48.396506" />
+          <attvalue for="3" value="7.589569" />
+          <attvalue for="4" value="50.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque Jacques Prévert" label="Médiathèque Jacques Prévert">
+        <attvalues>
+          <attvalue for="0" value="Breuil-le-Sec" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="49.37608" />
+          <attvalue for="3" value="2.452105" />
+          <attvalue for="4" value="130.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Mennechet de Barival" label="Bibliothèque Mennechet de Barival">
+        <attvalues>
+          <attvalue for="0" value="Chiry-Ourscamp" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="49.545443" />
+          <attvalue for="3" value="2.950059" />
+          <attvalue for="4" value="100.0" />
+        </attvalues>
+      </node>
+      <node id="Bucy-le-Long" label="Bucy-le-Long">
+        <attvalues>
+          <attvalue for="0" value="Bucy-le-Long" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="49.390484" />
+          <attvalue for="3" value="3.396492" />
+          <attvalue for="4" value="172.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" label="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre">
+        <attvalues>
+          <attvalue for="0" value="Ribemont-sur-Ancre" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="49.957909" />
+          <attvalue for="3" value="2.558255" />
+          <attvalue for="4" value="420.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque municipale L'ourse" label="Médiathèque municipale L'ourse">
+        <attvalues>
+          <attvalue for="0" value="Dinard" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.628696" />
+          <attvalue for="3" value="-2.063128" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Barenton" label="Bibliothèque de Barenton">
+        <attvalues>
+          <attvalue for="0" value="Barenton" />
+          <attvalue for="1" value="Normandie" />
+          <attvalue for="2" value="48.59959" />
+          <attvalue for="3" value="-0.83177" />
+          <attvalue for="4" value="155.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque De Marpiré" label="Bibliothèque De Marpiré">
+        <attvalues>
+          <attvalue for="0" value="Marpiré" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.143565" />
+          <attvalue for="3" value="-1.339612" />
+          <attvalue for="4" value="100.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque Municipale Saint-Etienne les Orgues" label="Bibliotheque Municipale Saint-Etienne les Orgues">
+        <attvalues>
+          <attvalue for="0" value="Saint-Étienne-les-Orgues" />
+          <attvalue for="1" value="Provence-Alpes-Côte d'Azur" />
+          <attvalue for="2" value="44.043225" />
+          <attvalue for="3" value="5.782134" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque Andrée Chedid" label="Médiathèque Andrée Chedid">
+        <attvalues>
+          <attvalue for="0" value="Villemoisson-sur-Orge" />
+          <attvalue for="1" value="Île-de-France" />
+          <attvalue for="2" value="48.661947" />
+          <attvalue for="3" value="2.337985" />
+          <attvalue for="4" value="390.0" />
+        </attvalues>
+      </node>
+      <node id="Relais Lecture" label="Relais Lecture">
+        <attvalues>
+          <attvalue for="0" value="Saint-Maurice-en-Rivière" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="46.852087" />
+          <attvalue for="3" value="5.01255" />
+          <attvalue for="4" value="46.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Plévin" label="Bibliothèque de Plévin">
+        <attvalues>
+          <attvalue for="0" value="Plévin" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="48.226097" />
+          <attvalue for="3" value="-3.505687" />
+          <attvalue for="4" value="80.0" />
+        </attvalues>
+      </node>
+      <node id="Mairie de Paray-sous-Briailles" label="Mairie de Paray-sous-Briailles">
+        <attvalues>
+          <attvalue for="0" value="Paray-sous-Briailles" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="46.288975" />
+          <attvalue for="3" value="3.367364" />
+          <attvalue for="4" value="25.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de la Noue" label="Bibliothèque de la Noue">
+        <attvalues>
+          <attvalue for="0" value="Navour-sur-Grosne" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="46.367898" />
+          <attvalue for="3" value="4.567675" />
+          <attvalue for="4" value="60.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Sigoyer" label="Bibliothèque de Sigoyer">
+        <attvalues>
+          <attvalue for="0" value="Sigoyer" />
+          <attvalue for="1" value="Provence-Alpes-Côte d'Azur" />
+          <attvalue for="2" value="44.478387" />
+          <attvalue for="3" value="5.977371" />
+          <attvalue for="4" value="120.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Graval" label="Bibliothèque de Graval">
+        <attvalues>
+          <attvalue for="0" value="Graval" />
+          <attvalue for="1" value="Normandie" />
+          <attvalue for="2" value="49.730028" />
+          <attvalue for="3" value="1.542181" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque Intercommunale du Pays de Falaise" label="Médiathèque Intercommunale du Pays de Falaise">
+        <attvalues>
+          <attvalue for="0" value="Morteaux-Coulibœuf" />
+          <attvalue for="1" value="Normandie" />
+          <attvalue for="2" value="48.929684" />
+          <attvalue for="3" value="-0.081996" />
+          <attvalue for="4" value="176.0" />
+        </attvalues>
+      </node>
+      <node id="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" label="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)">
+        <attvalues>
+          <attvalue for="0" value="Prée-d'Anjou" />
+          <attvalue for="1" value="Pays de la Loire" />
+          <attvalue for="2" value="47.841939" />
+          <attvalue for="3" value="-0.817264" />
+          <attvalue for="4" value="35.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque - Salvizinet" label="Bibliothèque - Salvizinet">
+        <attvalues>
+          <attvalue for="0" value="Salvizinet" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.75984" />
+          <attvalue for="3" value="4.274727" />
+          <attvalue for="4" value="12.0" />
+        </attvalues>
+      </node>
+      <node id="Espace culturel Robert Talbot" label="Espace culturel Robert Talbot">
+        <attvalues>
+          <attvalue for="0" value="Saint-Jean-de-Sauves" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.842359" />
+          <attvalue for="3" value="0.09163" />
+          <attvalue for="4" value="65.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale de Fleurat" label="Bibliothèque municipale de Fleurat">
+        <attvalues>
+          <attvalue for="0" value="Fleurat" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.23348" />
+          <attvalue for="3" value="1.683618" />
+          <attvalue for="4" value="30.0" />
+        </attvalues>
+      </node>
+      <node id="Point lecture" label="Point lecture">
+        <attvalues>
+          <attvalue for="0" value="Courcôme" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="45.988561" />
+          <attvalue for="3" value="0.149969" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Lassay-les-Châteaux / CC Mayenne" label="Médiathèque de Lassay-les-Châteaux / CC Mayenne">
+        <attvalues>
+          <attvalue for="0" value="Lassay-les-Châteaux" />
+          <attvalue for="1" value="Pays de la Loire" />
+          <attvalue for="2" value="48.43647" />
+          <attvalue for="3" value="-0.495277" />
+          <attvalue for="4" value="240.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon" label="Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon">
+        <attvalues>
+          <attvalue for="0" value="Rives-en-Seine" />
+          <attvalue for="1" value="Normandie" />
+          <attvalue for="2" value="49.527652" />
+          <attvalue for="3" value="0.76679" />
+          <attvalue for="4" value="100.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Marc Sangnier" label="Bibliothèque Marc Sangnier">
+        <attvalues>
+          <attvalue for="0" value="Mont-Saint-Aignan" />
+          <attvalue for="1" value="Normandie" />
+          <attvalue for="2" value="49.463049" />
+          <attvalue for="3" value="1.071156" />
+          <attvalue for="4" value="300.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale de brens" label="Bibliothèque municipale de brens">
+        <attvalues>
+          <attvalue for="0" value="Brens" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.71844" />
+          <attvalue for="3" value="5.695925" />
+          <attvalue for="4" value="37.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de La Loupe" label="Bibliothèque de La Loupe">
+        <attvalues>
+          <attvalue for="0" value="La Loupe" />
+          <attvalue for="1" value="Centre-Val de Loire" />
+          <attvalue for="2" value="48.475526" />
+          <attvalue for="3" value="1.016558" />
+          <attvalue for="4" value="394.0" />
+        </attvalues>
+      </node>
+      <node id="Les Amis Du Livre" label="Les Amis Du Livre">
+        <attvalues>
+          <attvalue for="0" value="Taupont" />
+          <attvalue for="1" value="Bretagne" />
+          <attvalue for="2" value="47.956976" />
+          <attvalue for="3" value="-2.437443" />
+          <attvalue for="4" value="88.0" />
+        </attvalues>
+      </node>
+      <node id="Ludotrot" label="Ludotrot">
+        <attvalues>
+          <attvalue for="0" value="Poitiers" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.68462" />
+          <attvalue for="3" value="0.372276" />
+          <attvalue for="4" value="137.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque communale Grignan" label="Bibliothèque communale Grignan">
+        <attvalues>
+          <attvalue for="0" value="Grignan" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="44.420271" />
+          <attvalue for="3" value="4.90915" />
+          <attvalue for="4" value="98.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Génolhac" label="Bibliothèque de Génolhac">
+        <attvalues>
+          <attvalue for="0" value="Génolhac" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="44.335894" />
+          <attvalue for="3" value="3.957695" />
+          <attvalue for="4" value="50.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale de Bourg-Saint-Bernard" label="Bibliothèque municipale de Bourg-Saint-Bernard">
+        <attvalues>
+          <attvalue for="0" value="Bourg-Saint-Bernard" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="43.607904" />
+          <attvalue for="3" value="1.692218" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque De La Ville-Dieu-Du-Temple" label="Bibliothèque De La Ville-Dieu-Du-Temple">
+        <attvalues>
+          <attvalue for="0" value="La Ville-Dieu-du-Temple" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="44.03416" />
+          <attvalue for="3" value="1.217608" />
+          <attvalue for="4" value="75.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque De Melleran" label="Bibliothèque De Melleran">
+        <attvalues>
+          <attvalue for="0" value="Melleran" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.129025" />
+          <attvalue for="3" value="-0.002959" />
+          <attvalue for="4" value="90.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque Municipale de Saint Eloi" label="Médiathèque Municipale de Saint Eloi">
+        <attvalues>
+          <attvalue for="0" value="Saint-Éloi" />
+          <attvalue for="1" value="Bourgogne-Franche-Comté" />
+          <attvalue for="2" value="46.980922" />
+          <attvalue for="3" value="3.22215" />
+          <attvalue for="4" value="150.0" />
+        </attvalues>
+      </node>
+      <node id="Point lecture de Cieux" label="Point lecture de Cieux">
+        <attvalues>
+          <attvalue for="0" value="Cieux" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="45.990908" />
+          <attvalue for="3" value="1.047285" />
+          <attvalue for="4" value="40.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Saint-Vincent-des-Landes" label="Médiathèque de Saint-Vincent-des-Landes">
+        <attvalues>
+          <attvalue for="0" value="Saint-Vincent-des-Landes" />
+          <attvalue for="1" value="Pays de la Loire" />
+          <attvalue for="2" value="47.655409" />
+          <attvalue for="3" value="-1.497669" />
+          <attvalue for="4" value="41.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque Nicolas-Jenson" label="Médiathèque Nicolas-Jenson">
+        <attvalues>
+          <attvalue for="0" value="Sommevoire" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="48.410353" />
+          <attvalue for="3" value="4.839612" />
+          <attvalue for="4" value="90.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Assia Djebar" label="Bibliothèque Assia Djebar">
+        <attvalues>
+          <attvalue for="0" value="Paris" />
+          <attvalue for="1" value="Île-de-France" />
+          <attvalue for="2" value="48.849256" />
+          <attvalue for="3" value="2.412159" />
+          <attvalue for="4" value="1038.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale d'Osani" label="Bibliothèque municipale d'Osani">
+        <attvalues>
+          <attvalue for="0" value="Osani" />
+          <attvalue for="1" value="Corse" />
+          <attvalue for="2" value="42.322898" />
+          <attvalue for="3" value="8.631187" />
+          <attvalue for="4" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque de Creuzier Le Vieux" label="Bibliotheque de Creuzier Le Vieux">
+        <attvalues>
+          <attvalue for="0" value="Creuzier-le-Vieux" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="46.157005" />
+          <attvalue for="3" value="3.434999" />
+          <attvalue for="4" value="80.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Châteauvieux" label="Bibliothèque de Châteauvieux">
+        <attvalues>
+          <attvalue for="0" value="Châteauvieux" />
+          <attvalue for="1" value="Centre-Val de Loire" />
+          <attvalue for="2" value="47.230601" />
+          <attvalue for="3" value="1.382635" />
+          <attvalue for="4" value="60.0" />
+        </attvalues>
+      </node>
+      <node id="Réseau du pays de Forcalquier" label="Réseau du pays de Forcalquier">
+        <attvalues>
+          <attvalue for="0" value="Forcalquier" />
+          <attvalue for="1" value="Provence-Alpes-Côte d'Azur" />
+          <attvalue for="2" value="43.958374" />
+          <attvalue for="3" value="5.776292" />
+          <attvalue for="4" value="300.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Jaure" label="Bibliothèque de Jaure">
+        <attvalues>
+          <attvalue for="0" value="Jaure" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="45.053771" />
+          <attvalue for="3" value="0.552229" />
+          <attvalue for="4" value="10.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque municipale" label="Bibliotheque municipale">
+        <attvalues>
+          <attvalue for="0" value="Saint-Front" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="44.980813" />
+          <attvalue for="3" value="4.161437" />
+          <attvalue for="4" value="30.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Tallende" label="Bibliothèque de Tallende">
+        <attvalues>
+          <attvalue for="0" value="Tallende" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.659406" />
+          <attvalue for="3" value="3.129663" />
+          <attvalue for="4" value="65.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Château-Arnoux" label="Médiathèque de Château-Arnoux">
+        <attvalues>
+          <attvalue for="0" value="Château-Arnoux-Saint-Auban" />
+          <attvalue for="1" value="Provence-Alpes-Côte d'Azur" />
+          <attvalue for="2" value="44.069939" />
+          <attvalue for="3" value="6.001068" />
+          <attvalue for="4" value="727.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Valliguières" label="Bibliothèque de Valliguières">
+        <attvalues>
+          <attvalue for="0" value="Valliguières" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="44.007075" />
+          <attvalue for="3" value="4.58419" />
+          <attvalue for="4" value="40.0" />
+        </attvalues>
+      </node>
+      <node id="Mediatheque Ludovic Massé" label="Mediatheque Ludovic Massé">
+        <attvalues>
+          <attvalue for="0" value="Céret" />
+          <attvalue for="1" value="Occitanie" />
+          <attvalue for="2" value="42.484995" />
+          <attvalue for="3" value="2.747302" />
+          <attvalue for="4" value="1075.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque municipale Buis-les-Baronnies" label="Médiathèque municipale Buis-les-Baronnies">
+        <attvalues>
+          <attvalue for="0" value="Buis-les-Baronnies" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="44.275969" />
+          <attvalue for="3" value="5.272643" />
+          <attvalue for="4" value="160.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque municipale Bernard-Monge" label="Bibliothèque municipale Bernard-Monge">
+        <attvalues>
+          <attvalue for="0" value="Allauch" />
+          <attvalue for="1" value="Provence-Alpes-Côte d'Azur" />
+          <attvalue for="2" value="43.334699" />
+          <attvalue for="3" value="5.48283" />
+          <attvalue for="4" value="562.0" />
+        </attvalues>
+      </node>
+      <node id="Médiathèque de Nexon" label="Médiathèque de Nexon">
+        <attvalues>
+          <attvalue for="0" value="Nexon" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="45.682932" />
+          <attvalue for="3" value="1.181545" />
+          <attvalue for="4" value="450.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque Municipale de Tauxigny-Saint-Bauld" label="Bibliotheque Municipale de Tauxigny-Saint-Bauld">
+        <attvalues>
+          <attvalue for="0" value="Tauxigny-Saint-Bauld" />
+          <attvalue for="1" value="Centre-Val de Loire" />
+          <attvalue for="2" value="47.212693" />
+          <attvalue for="3" value="0.834503" />
+          <attvalue for="4" value="100.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque Municipale De Staple" label="Bibliotheque Municipale De Staple">
+        <attvalues>
+          <attvalue for="0" value="Staple" />
+          <attvalue for="1" value="Hauts-de-France" />
+          <attvalue for="2" value="50.749402" />
+          <attvalue for="3" value="2.455335" />
+          <attvalue for="4" value="34.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Cadillac" label="Bibliothèque de Cadillac">
+        <attvalues>
+          <attvalue for="0" value="Cadillac" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="44.638322" />
+          <attvalue for="3" value="-0.316264" />
+          <attvalue for="4" value="35.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque De Chiche" label="Bibliotheque De Chiche">
+        <attvalues>
+          <attvalue for="0" value="Chiché" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="46.795702" />
+          <attvalue for="3" value="-0.355735" />
+          <attvalue for="4" value="105.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale de Vatilieu" label="Bibliothèque Municipale de Vatilieu">
+        <attvalues>
+          <attvalue for="0" value="Vatilieu" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.256252" />
+          <attvalue for="3" value="5.409503" />
+          <attvalue for="4" value="36.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliotheque Intercommunale - Le Blanc" label="Bibliotheque Intercommunale - Le Blanc">
+        <attvalues>
+          <attvalue for="0" value="Le Blanc" />
+          <attvalue for="1" value="Centre-Val de Loire" />
+          <attvalue for="2" value="46.638636" />
+          <attvalue for="3" value="1.059885" />
+          <attvalue for="4" value="382.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque d'Ascain" label="Bibliothèque d'Ascain">
+        <attvalues>
+          <attvalue for="0" value="Ascain" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="43.346884" />
+          <attvalue for="3" value="-1.624425" />
+          <attvalue for="4" value="82.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Bibliomotte" label="Bibliothèque Bibliomotte">
+        <attvalues>
+          <attvalue for="0" value="Saint-Jean-de-Galaure" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.200403" />
+          <attvalue for="3" value="4.911417" />
+          <attvalue for="4" value="45.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Municipale d'Anthon" label="Bibliothèque Municipale d'Anthon">
+        <attvalues>
+          <attvalue for="0" value="Anthon" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="45.788582" />
+          <attvalue for="3" value="5.169818" />
+          <attvalue for="4" value="162.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Page à Page" label="Bibliothèque Page à Page">
+        <attvalues>
+          <attvalue for="0" value="Sainte-Foy" />
+          <attvalue for="1" value="Pays de la Loire" />
+          <attvalue for="2" value="46.546023" />
+          <attvalue for="3" value="-1.671717" />
+          <attvalue for="4" value="118.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Sault-de-Navailles" label="Bibliothèque de Sault-de-Navailles">
+        <attvalues>
+          <attvalue for="0" value="Sault-de-Navailles" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="43.546153" />
+          <attvalue for="3" value="-0.678287" />
+          <attvalue for="4" value="80.0" />
+        </attvalues>
+      </node>
+      <node id="Mairie de Troche" label="Mairie de Troche">
+        <attvalues>
+          <attvalue for="0" value="Troche" />
+          <attvalue for="1" value="Nouvelle-Aquitaine" />
+          <attvalue for="2" value="45.388742" />
+          <attvalue for="3" value="1.438322" />
+          <attvalue for="4" value="50.0" />
+        </attvalues>
+      </node>
+      <node id="Point lecture d'Aschbach" label="Point lecture d'Aschbach">
+        <attvalues>
+          <attvalue for="0" value="Aschbach" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="48.934459" />
+          <attvalue for="3" value="7.987216" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque Bernard Pivot" label="Bibliothèque Bernard Pivot">
+        <attvalues>
+          <attvalue for="0" value="Quincié-en-Beaujolais" />
+          <attvalue for="1" value="Auvergne-Rhône-Alpes" />
+          <attvalue for="2" value="46.11801" />
+          <attvalue for="3" value="4.616394" />
+          <attvalue for="4" value="140.0" />
+        </attvalues>
+      </node>
+      <node id="Bibliothèque de Arcis le Ponsart" label="Bibliothèque de Arcis le Ponsart">
+        <attvalues>
+          <attvalue for="0" value="Arcis-le-Ponsart" />
+          <attvalue for="1" value="Grand Est" />
+          <attvalue for="2" value="49.234732" />
+          <attvalue for="3" value="3.694489" />
+          <attvalue for="4" value="NaN" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Coordination des médiathèques du Quercy Caussadais" target="Médiathèque  municipale" id="0" weight="82.34480283663277" />
+      <edge source="Coordination des médiathèques du Quercy Caussadais" target="Mediatheque Intercommunale Pierre Sourbie Lauzerte" id="1" weight="33.0064326451334" />
+      <edge source="Coordination des médiathèques du Quercy Caussadais" target="Médiathèque de Castres-Sidobre" id="2" weight="84.0906380704495" />
+      <edge source="Coordination des médiathèques du Quercy Caussadais" target="Bibliothèque de Sénergues" id="3" weight="89.2745831994485" />
+      <edge source="Coordination des médiathèques du Quercy Caussadais" target="Médiatheque Municipale" id="4" weight="37.13358284707497" />
+      <edge source="Coordination des médiathèques du Quercy Caussadais" target="Bibliothèque municipale de Bourg-Saint-Bernard" id="5" weight="62.141897340433914" />
+      <edge source="Coordination des médiathèques du Quercy Caussadais" target="Bibliothèque De La Ville-Dieu-Du-Temple" id="6" weight="28.081036464429623" />
+      <edge source="Bibliothèque De Clessé" target="Bibliothèque Municipale" id="7" weight="95.00062251987994" />
+      <edge source="Bibliothèque De Clessé" target="Bibliothèque De Mougon" id="8" weight="48.00949485234863" />
+      <edge source="Bibliothèque De Clessé" target="BIBLIOTHEQUE de GENCAY" id="9" weight="72.85198815006554" />
+      <edge source="Bibliothèque De Clessé" target="Réseau du Haut Poitou" id="10" weight="51.048766948252904" />
+      <edge source="Bibliothèque De Clessé" target="Médiathèque de Saint Eloi" id="11" weight="61.767869350419076" />
+      <edge source="Bibliothèque De Clessé" target="Bibliothèque Du Vigeant" id="12" weight="97.67627586240485" />
+      <edge source="Bibliothèque De Clessé" target="Espace culturel Robert Talbot" id="13" weight="40.32237358789411" />
+      <edge source="Bibliothèque De Clessé" target="Point lecture" id="14" weight="91.47138283701446" />
+      <edge source="Bibliothèque De Clessé" target="Ludotrot" id="15" weight="59.3813915984721" />
+      <edge source="Bibliothèque De Clessé" target="Bibliothèque De Melleran" id="16" weight="72.23429574057279" />
+      <edge source="Bibliothèque De Clessé" target="Bibliotheque De Chiche" id="17" weight="9.567848886088957" />
+      <edge source="Bibliothèque De Clessé" target="Bibliothèque Page à Page" id="18" weight="98.56114462618176" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Bibliotheque Saint Meard" id="19" weight="68.19131864971426" />
+      <edge source="Bibliothèque de Arnac La Poste" target="BIBLIOTHEQUE de GENCAY" id="20" weight="75.32884777942658" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Réseau du Haut Poitou" id="21" weight="96.87803295621762" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Médiathèque de Saint Eloi" id="22" weight="84.09291445456728" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Bibliothèque Du Vigeant" id="23" weight="55.699419042060335" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Bibliothèque municipale de Fleurat" id="24" weight="24.062561595374458" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Point lecture" id="25" weight="99.24063967234527" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Ludotrot" id="26" weight="89.76069204824537" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Point lecture de Cieux" id="27" weight="39.5877661175155" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Médiathèque de Nexon" id="28" weight="66.47354334535292" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Bibliotheque Intercommunale - Le Blanc" id="29" weight="47.96342681119221" />
+      <edge source="Bibliothèque de Arnac La Poste" target="Mairie de Troche" id="30" weight="97.62512808532225" />
+      <edge source="Médiathèque  municipale" target="Médiathèque de Colombiers" id="31" weight="83.15803188510064" />
+      <edge source="Médiathèque  municipale" target="Médiathèque Kalliopê" id="32" weight="85.05600817792521" />
+      <edge source="Médiathèque  municipale" target="Bibliothèque municipale de La Digne-d'Aval" id="33" weight="59.647559881923186" />
+      <edge source="Médiathèque  municipale" target="Bibliothèque municipale de Rodome" id="34" weight="86.79418633295502" />
+      <edge source="Médiathèque  municipale" target="Médiathèque de Castres-Sidobre" id="35" weight="6.34411568104756" />
+      <edge source="Médiathèque  municipale" target="Médiatheque Municipale" id="36" weight="66.37175214336156" />
+      <edge source="Médiathèque  municipale" target="Bibliothèque municipale de Bourg-Saint-Bernard" id="37" weight="39.46376523953671" />
+      <edge source="Médiathèque  municipale" target="Bibliothèque De La Ville-Dieu-Du-Temple" id="38" weight="92.17082043691849" />
+      <edge source="Bibliotheque de Villars le Pautel" target="Médiathèque Municipale" id="39" weight="71.02370733785267" />
+      <edge source="Bibliotheque de Villars le Pautel" target="Bibliothèque municipale de Dounoux" id="40" weight="44.627715573009425" />
+      <edge source="Bibliotheque de Villars le Pautel" target="Médiathèque Nicolas-Jenson" id="41" weight="99.41720813528352" />
+      <edge source="Bibliothèque Municipale" target="Bibliothèque De Mougon" id="42" weight="47.23297367371817" />
+      <edge source="Bibliothèque Municipale" target="Bibliothèque" id="43" weight="95.82903704786312" />
+      <edge source="Bibliothèque Municipale" target="BIBLIOTHEQUE de GENCAY" id="44" weight="76.21236325516155" />
+      <edge source="Bibliothèque Municipale" target="Réseau du Haut Poitou" id="45" weight="99.091746631035" />
+      <edge source="Bibliothèque Municipale" target="Médiathèque de Boma" id="46" weight="97.46476616857386" />
+      <edge source="Bibliothèque Municipale" target="Médiathèque de Saint Eloi" id="47" weight="94.44957730935668" />
+      <edge source="Bibliothèque Municipale" target="Bibliothèque Du Vigeant" id="48" weight="81.09269474039337" />
+      <edge source="Bibliothèque Municipale" target="Point lecture" id="49" weight="34.70289892031042" />
+      <edge source="Bibliothèque Municipale" target="Bibliothèque De Melleran" id="50" weight="35.3502522772439" />
+      <edge source="MEDIATHEQUE" target="Bibliothèque St-Vran" id="51" weight="56.158586495698685" />
+      <edge source="MEDIATHEQUE" target="Médiathèque de l'Accolade" id="52" weight="55.81104314987026" />
+      <edge source="MEDIATHEQUE" target="Bibliothèque municipale de La Couyère" id="53" weight="92.01803376475571" />
+      <edge source="MEDIATHEQUE" target="Bibliothèque de Maël-Pestivien" id="54" weight="98.94184082933388" />
+      <edge source="MEDIATHEQUE" target="Bibliothèque Municipale Plessala" id="55" weight="61.19696205903064" />
+      <edge source="MEDIATHEQUE" target="Médiathèque municipale L'ourse" id="56" weight="4.638488073205693" />
+      <edge source="MEDIATHEQUE" target="Bibliothèque de Barenton" id="57" weight="86.51906011545718" />
+      <edge source="MEDIATHEQUE" target="Bibliothèque De Marpiré" id="58" weight="74.59185079933381" />
+      <edge source="MEDIATHEQUE" target="Les Amis Du Livre" id="59" weight="83.11793137483637" />
+      <edge source="Médiathèque de Colombiers" target="Médiathèque Kalliopê" id="60" weight="18.84915175560608" />
+      <edge source="Médiathèque de Colombiers" target="Bibliothèque municipale de La Digne-d'Aval" id="61" weight="83.51763129144281" />
+      <edge source="Médiathèque de Colombiers" target="Médiathèque de Castres-Sidobre" id="62" weight="78.90295540530153" />
+      <edge source="Médiathèque de Colombiers" target="Mediatheque Ludovic Massé" id="63" weight="97.55852293588825" />
+      <edge source="Médiathèque intercommunale" target="Bibliothèque de Marigné" id="64" weight="60.54416203014345" />
+      <edge source="Médiathèque intercommunale" target="Bibliothèque St-Vran" id="65" weight="96.32897201638154" />
+      <edge source="Médiathèque intercommunale" target="Médiathèque de l'Accolade" id="66" weight="48.154891994002334" />
+      <edge source="Médiathèque intercommunale" target="Bibliothèque municipale de La Couyère" id="67" weight="15.231947759741505" />
+      <edge source="Médiathèque intercommunale" target="Bibliothèque de Barenton" id="68" weight="92.75442838152792" />
+      <edge source="Médiathèque intercommunale" target="Bibliothèque De Marpiré" id="69" weight="34.71065379189698" />
+      <edge source="Médiathèque intercommunale" target="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" id="70" weight="37.58988109191601" />
+      <edge source="Médiathèque intercommunale" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="71" weight="90.96335720974602" />
+      <edge source="Médiathèque intercommunale" target="Les Amis Du Livre" id="72" weight="84.42078045431134" />
+      <edge source="Médiathèque intercommunale" target="Médiathèque de Saint-Vincent-des-Landes" id="73" weight="23.649407748246574" />
+      <edge source="Médiathèque Kalliopê" target="Bibliothèque municipale de La Digne-d'Aval" id="74" weight="96.9931765392529" />
+      <edge source="Médiathèque Kalliopê" target="Médiathèque de Castres-Sidobre" id="75" weight="79.83815723424105" />
+      <edge source="Médiathèque Municipale" target="Bibliothèque - Foyer Rural" id="76" weight="83.80984356051367" />
+      <edge source="Médiathèque Municipale" target="Relais Lecture" id="77" weight="84.86721083631764" />
+      <edge source="Bibliothèque - Foyer Rural" target="Mairie - Bibliothèque" id="78" weight="98.72351044351133" />
+      <edge source="Bibliothèque - Foyer Rural" target="Mediathèque Jacques Prévert" id="79" weight="79.75328188225987" />
+      <edge source="Bibliothèque - Foyer Rural" target="Relais Lecture" id="80" weight="20.114367141037985" />
+      <edge source="Bibliothèque - Foyer Rural" target="Bibliothèque de la Noue" id="81" weight="77.00657573961912" />
+      <edge source="Point lecture de Rountzenheim-Auenheim," target="Médiathèque de Ribeauvillé" id="82" weight="85.80920103488484" />
+      <edge source="Point lecture de Rountzenheim-Auenheim," target="Point lecture d'Avolsheim" id="83" weight="46.3945902303549" />
+      <edge source="Point lecture de Rountzenheim-Auenheim," target="Point lecture de Westhouse" id="84" weight="56.0557332408086" />
+      <edge source="Point lecture de Rountzenheim-Auenheim," target="Point lecture d'Aschbach" id="85" weight="13.131250570255354" />
+      <edge source="Bibliothèque de Torcy le Grand" target="Bibliotheque Municipale de Friville-Escarbotin" id="86" weight="42.594677819072196" />
+      <edge source="Bibliothèque de Torcy le Grand" target="Médiathèque de Nouvion" id="87" weight="63.50351378992121" />
+      <edge source="Bibliothèque de Torcy le Grand" target="Bibliothèque Municipale De Lalande En Son" id="88" weight="62.46720452052233" />
+      <edge source="Bibliothèque de Torcy le Grand" target="Bibliothèque de Graval" id="89" weight="27.232464969831966" />
+      <edge source="Bibliothèque de Torcy le Grand" target="Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon" id="90" weight="41.524344564230844" />
+      <edge source="Bibliothèque de Torcy le Grand" target="Bibliothèque Marc Sangnier" id="91" weight="37.274006312213025" />
+      <edge source="Mairie de Rocles" target="Bibliothèque Municipale de Cossaye" id="92" weight="49.97878568354251" />
+      <edge source="Mairie de Rocles" target="Bibliothèque de Louroux de Bouble" id="93" weight="22.65998660959862" />
+      <edge source="Mairie de Rocles" target="Mairie de La Ferté-Hauterive" id="94" weight="23.98532637529739" />
+      <edge source="Mairie de Rocles" target="Mairie de Paray-sous-Briailles" id="95" weight="29.958962375286106" />
+      <edge source="Mairie de Rocles" target="Médiathèque Municipale de Saint Eloi" id="96" weight="63.480171270685815" />
+      <edge source="Mairie de Rocles" target="Bibliotheque de Creuzier Le Vieux" id="97" weight="43.07410660582869" />
+      <edge source="Mairie de Rocles" target="Bibliothèque de Tallende" id="98" weight="85.50987042409973" />
+      <edge source="Bibliothèque De Mougon" target="BIBLIOTHEQUE de GENCAY" id="99" weight="54.09272014427564" />
+      <edge source="Bibliothèque De Mougon" target="Réseau du Haut Poitou" id="100" weight="60.47632305744555" />
+      <edge source="Bibliothèque De Mougon" target="Médiathèque de Saint Eloi" id="101" weight="61.232689361878855" />
+      <edge source="Bibliothèque De Mougon" target="Bibliothèque Du Vigeant" id="102" weight="72.77335572844007" />
+      <edge source="Bibliothèque De Mougon" target="Espace culturel Robert Talbot" id="103" weight="67.75672173663169" />
+      <edge source="Bibliothèque De Mougon" target="Point lecture" id="104" weight="47.811046436052514" />
+      <edge source="Bibliothèque De Mougon" target="Ludotrot" id="105" weight="66.85975127609878" />
+      <edge source="Bibliothèque De Mougon" target="Bibliothèque De Melleran" id="106" weight="28.54885451295073" />
+      <edge source="Bibliothèque De Mougon" target="Bibliotheque De Chiche" id="107" weight="56.21701350096198" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="Bibliothèque de Louroux de Bouble" id="108" weight="90.63877432779421" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="Mairie de La Ferté-Hauterive" id="109" weight="94.2188861972276" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="Réseau des bibliothèques Brionnais Sud Bourgone" id="110" weight="85.44868019986977" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="BIBLIOTHEQUE LA PYRAMIDE" id="111" weight="92.62644498471731" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="Mairie de Paray-sous-Briailles" id="112" weight="82.11937603246325" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="Bibliothèque - Salvizinet" id="113" weight="49.33915217281467" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="Bibliotheque de Creuzier Le Vieux" id="114" weight="66.55826422398883" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="Bibliotheque municipale" id="115" weight="76.66479933141356" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="Bibliothèque de Tallende" id="116" weight="44.40179593165293" />
+      <edge source="Ludothèque-Bibliothèque de Thiolières" target="Bibliothèque Bernard Pivot" id="117" weight="92.97752346230948" />
+      <edge source="Bibliothèque Associative Saint-Guénolé" target="Médiathèque Ludothèque" id="118" weight="64.39137578396095" />
+      <edge source="Médiathèque" target="Mediatheque Municipale" id="119" weight="22.994378184731623" />
+      <edge source="Médiathèque" target="Bibliotheque Saint Meard" id="120" weight="79.02236883916048" />
+      <edge source="Médiathèque" target="Bibliothèque de Sénergues" id="121" weight="65.30896840955988" />
+      <edge source="Médiathèque" target="Bibliothèque de Tallende" id="122" weight="85.76630427338954" />
+      <edge source="Médiathèque" target="Mairie de Troche" id="123" weight="70.00732231316822" />
+      <edge source="Bibliotheque Charlotte Delbo" target="Bibliothèque" id="124" weight="41.31672676905437" />
+      <edge source="Bibliotheque Charlotte Delbo" target="Bibliotheque Saint Meard" id="125" weight="95.1413748126245" />
+      <edge source="Bibliotheque Charlotte Delbo" target="Médiathèque de Boma" id="126" weight="63.69663814204111" />
+      <edge source="Bibliotheque Charlotte Delbo" target="Point lecture" id="127" weight="98.88561763476639" />
+      <edge source="Bibliotheque Charlotte Delbo" target="Bibliothèque de Jaure" id="128" weight="10.875859284586564" />
+      <edge source="Bibliotheque Charlotte Delbo" target="Médiathèque de Nexon" id="129" weight="75.85403816289501" />
+      <edge source="Bibliotheque Charlotte Delbo" target="Bibliothèque de Cadillac" id="130" weight="90.34497963455982" />
+      <edge source="Bibliotheque Charlotte Delbo" target="Mairie de Troche" id="131" weight="72.62681549627541" />
+      <edge source="Bibliothèque municipale" target="Médiathèque intercommunale  Sars Poteries" id="132" weight="98.54011408365817" />
+      <edge source="Bibliothèque municipale" target="Bibliotheque Municipale de Friville-Escarbotin" id="133" weight="98.78622553444701" />
+      <edge source="Bibliothèque municipale" target="Médiathèque de Nouvion" id="134" weight="78.09845769329041" />
+      <edge source="Bibliothèque municipale" target="Mediatheque Communautaire de Douchy-les-MInes" id="135" weight="51.57868183413623" />
+      <edge source="Bibliothèque municipale" target="Médiathèque municipale" id="136" weight="24.126426710932854" />
+      <edge source="Bibliothèque municipale" target="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" id="137" weight="65.07881356747536" />
+      <edge source="Bibliothèque municipale" target="Bibliotheque Municipale De Staple" id="138" weight="32.4619772396614" />
+      <edge source="Plaisance du Gers" target="Bibliothèque d'Aydius" id="139" weight="82.03081105601798" />
+      <edge source="Plaisance du Gers" target="Médiatheque Maison du Savoir" id="140" weight="68.28074446447772" />
+      <edge source="Plaisance du Gers" target="Point lecture de Castillon-Debats" id="141" weight="19.299577707000857" />
+      <edge source="Plaisance du Gers" target="Point Lecture de Gondrin" id="142" weight="34.69428266408005" />
+      <edge source="Plaisance du Gers" target="Le relais de la Poste" id="143" weight="70.44159918821914" />
+      <edge source="Plaisance du Gers" target="Bibliothèque de Carrère" id="144" weight="29.44043503570811" />
+      <edge source="Plaisance du Gers" target="Bibliothèque de Sault-de-Navailles" id="145" weight="58.84562153649732" />
+      <edge source="Bibliothèque Municipale de Brinon-sur-Beuvron" target="Mediathèque Jacques Prévert" id="146" weight="74.18604411971577" />
+      <edge source="Bibliothèque Municipale de Brinon-sur-Beuvron" target="Bibliothèque Municipale de Cossaye" id="147" weight="59.18422037911785" />
+      <edge source="Bibliothèque Municipale de Brinon-sur-Beuvron" target="Mairie de La Ferté-Hauterive" id="148" weight="98.97944029048675" />
+      <edge source="Bibliothèque Municipale de Brinon-sur-Beuvron" target="Médiathèque Municipale de Saint Eloi" id="149" weight="39.108878486962624" />
+      <edge source="Bibliothèque de Villedômer" target="Bibliotheque Colette Vivier" id="150" weight="83.48322525944367" />
+      <edge source="Bibliothèque de Villedômer" target="Bibliothèque de Reignac-sur-Indre" id="151" weight="35.42692404584269" />
+      <edge source="Bibliothèque de Villedômer" target="Espace culturel Robert Talbot" id="152" weight="98.71516747310295" />
+      <edge source="Bibliothèque de Villedômer" target="Bibliothèque de Châteauvieux" id="153" weight="51.13350473612468" />
+      <edge source="Bibliothèque de Villedômer" target="Bibliotheque Municipale de Tauxigny-Saint-Bauld" id="154" weight="37.28044199066363" />
+      <edge source="Bibliothèque de Marigné" target="CCMA - bibliothèque de Saint-Cyr-en-Pail" id="155" weight="85.51806933965858" />
+      <edge source="Bibliothèque de Marigné" target="Médiathèque de l'Accolade" id="156" weight="99.60020735141416" />
+      <edge source="Bibliothèque de Marigné" target="Bibliothèque municipale de La Couyère" id="157" weight="75.53883259736389" />
+      <edge source="Bibliothèque de Marigné" target="CCMA - Bibliothèque de Lignières-Orgères" id="158" weight="97.84432206690975" />
+      <edge source="Bibliothèque de Marigné" target="Médiathèque de Pacé" id="159" weight="92.16438835019802" />
+      <edge source="Bibliothèque de Marigné" target="Bibliothèque De Marpiré" id="160" weight="77.7932571540349" />
+      <edge source="Bibliothèque de Marigné" target="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" id="161" weight="26.48974167896662" />
+      <edge source="Bibliothèque de Marigné" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="162" weight="82.25369385199998" />
+      <edge source="Bibliothèque de Marigné" target="Médiathèque de Saint-Vincent-des-Landes" id="163" weight="72.1723072329162" />
+      <edge source="Mairie - Bibliothèque" target="Mediathèque Jacques Prévert" id="164" weight="31.552916453699574" />
+      <edge source="Mairie - Bibliothèque" target="Bibliotheque Municipale" id="165" weight="99.64052979141573" />
+      <edge source="Mairie - Bibliothèque" target="BIBLIOTHEQUE" id="166" weight="66.09447865979556" />
+      <edge source="Mairie - Bibliothèque" target="Médiathèque Nicolas-Jenson" id="167" weight="63.89527034952654" />
+      <edge source="Bibliothèque Les Mazurières" target="Bibliothèque Louis Aragon" id="168" weight="12.44472145631845" />
+      <edge source="Bibliothèque Les Mazurières" target="Bibliothèque de Ozouer-Le-Voulgis" id="169" weight="48.10182406739389" />
+      <edge source="Bibliothèque Les Mazurières" target="Médiathèque de Presles-en-Brie" id="170" weight="43.12085186243735" />
+      <edge source="Bibliothèque Les Mazurières" target="Bibliothèque Municipale d'Evry Gregy sur Yerre" id="171" weight="40.090702848101685" />
+      <edge source="Bibliothèque Les Mazurières" target="Bibliotheque de Treuzy-Levelay" id="172" weight="80.00555951509193" />
+      <edge source="Bibliothèque Les Mazurières" target="Bibliothèque Municipale De Lalande En Son" id="173" weight="65.60968697206316" />
+      <edge source="Bibliothèque Les Mazurières" target="Bibliothèque Municipale de Bazainville" id="174" weight="38.77934951980207" />
+      <edge source="Bibliothèque Les Mazurières" target="Médiathèque Jacques Prévert" id="175" weight="59.76650584142948" />
+      <edge source="Bibliothèque Les Mazurières" target="Bibliothèque Mennechet de Barival" id="176" weight="93.41185710401255" />
+      <edge source="Bibliothèque Les Mazurières" target="Médiathèque Andrée Chedid" id="177" weight="24.98259068933139" />
+      <edge source="Bibliothèque Les Mazurières" target="Bibliothèque de La Loupe" id="178" weight="96.76498411081803" />
+      <edge source="Bibliothèque Les Mazurières" target="Bibliothèque Assia Djebar" id="179" weight="16.03296098611514" />
+      <edge source="Bibliothèque d'Aydius" target="Médiatheque Maison du Savoir" id="180" weight="83.09276764111344" />
+      <edge source="Bibliothèque d'Aydius" target="Le relais de la Poste" id="181" weight="73.88740777416432" />
+      <edge source="Bibliothèque d'Aydius" target="Bibliothèque de Carrère" id="182" weight="57.28630709830806" />
+      <edge source="Bibliothèque d'Aydius" target="Bibliothèque d'Ascain" id="183" weight="96.1725619866776" />
+      <edge source="Bibliothèque d'Aydius" target="Bibliothèque de Sault-de-Navailles" id="184" weight="61.44784546676825" />
+      <edge source="Mediatheque Municipale" target="Bibliotheque Saint Meard" id="185" weight="77.65508149361068" />
+      <edge source="Mediatheque Municipale" target="Bibliothèque de Sénergues" id="186" weight="83.12507001269793" />
+      <edge source="Mediatheque Municipale" target="Bibliothèque de Tallende" id="187" weight="64.31451440374035" />
+      <edge source="Mediatheque Municipale" target="Mairie de Troche" id="188" weight="78.05820610202431" />
+      <edge source="Bibliothèque St-Vran" target="Médiathèque de l'Accolade" id="189" weight="61.66469859207406" />
+      <edge source="Bibliothèque St-Vran" target="Bibliothèque municipale de La Couyère" id="190" weight="81.12874531156832" />
+      <edge source="Bibliothèque St-Vran" target="Bibliothèque de Maël-Pestivien" id="191" weight="63.951698522710956" />
+      <edge source="Bibliothèque St-Vran" target="Bibliothèque Municipale Plessala" id="192" weight="12.30826885643423" />
+      <edge source="Bibliothèque St-Vran" target="Médiathèque municipale L'ourse" id="193" weight="52.051465285989366" />
+      <edge source="Bibliothèque St-Vran" target="Bibliothèque De Marpiré" id="194" weight="83.8786750369607" />
+      <edge source="Bibliothèque St-Vran" target="Bibliothèque de Plévin" id="195" weight="77.36162266216168" />
+      <edge source="Bibliothèque St-Vran" target="Les Amis Du Livre" id="196" weight="31.77927662283683" />
+      <edge source="Bibliothèque St-Vran" target="Médiathèque de Saint-Vincent-des-Landes" id="197" weight="97.01224124991151" />
+      <edge source="Mediatheque Intercommunale Pierre Sourbie Lauzerte" target="Point lecture de Castillon-Debats" id="198" weight="94.17268975122144" />
+      <edge source="Mediatheque Intercommunale Pierre Sourbie Lauzerte" target="Point Lecture de Gondrin" id="199" weight="82.87804105720433" />
+      <edge source="Mediatheque Intercommunale Pierre Sourbie Lauzerte" target="Médiatheque Municipale" id="200" weight="52.993706677288344" />
+      <edge source="Mediatheque Intercommunale Pierre Sourbie Lauzerte" target="Bibliothèque municipale de Bourg-Saint-Bernard" id="201" weight="84.65451101162448" />
+      <edge source="Mediatheque Intercommunale Pierre Sourbie Lauzerte" target="Bibliothèque De La Ville-Dieu-Du-Temple" id="202" weight="25.510771626882345" />
+      <edge source="Mediathèque Jacques Prévert" target="BIBLIOTHEQUE" id="203" weight="80.95633150309763" />
+      <edge source="Mediathèque Jacques Prévert" target="Relais Lecture" id="204" weight="99.62526266671229" />
+      <edge source="Mediathèque Jacques Prévert" target="Médiathèque Nicolas-Jenson" id="205" weight="95.20360915193102" />
+      <edge source="Bibliotheque Municipale" target="Bibliothèque Louis Aragon" id="206" weight="97.07415795326321" />
+      <edge source="Bibliotheque Municipale" target="Bibliothèque de Ozouer-Le-Voulgis" id="207" weight="61.314951812225836" />
+      <edge source="Bibliotheque Municipale" target="Mediatheque intercommunale de Montmirail" id="208" weight="68.33562346088885" />
+      <edge source="Bibliotheque Municipale" target="Médiathèque de Presles-en-Brie" id="209" weight="67.68201316482694" />
+      <edge source="Bibliotheque Municipale" target="Bibliothèque Municipale d'Evry Gregy sur Yerre" id="210" weight="67.93631980071699" />
+      <edge source="Bibliotheque Municipale" target="Bibliotheque de Treuzy-Levelay" id="211" weight="38.18743108591459" />
+      <edge source="Bibliotheque Municipale" target="BIBLIOTHEQUE" id="212" weight="43.87481474554535" />
+      <edge source="Bibliotheque Municipale" target="Médiathèque Andrée Chedid" id="213" weight="86.13549465972348" />
+      <edge source="Bibliotheque Municipale" target="Bibliothèque Assia Djebar" id="214" weight="94.78754071911511" />
+      <edge source="Médiathèque intercommunale  Sars Poteries" target="Mediatheque Communautaire de Douchy-les-MInes" id="215" weight="47.52985164621687" />
+      <edge source="Médiathèque intercommunale  Sars Poteries" target="Médiathèque municipale" id="216" weight="92.34525323366854" />
+      <edge source="Médiathèque intercommunale  Sars Poteries" target="Bucy-le-Long" id="217" weight="97.69632648800268" />
+      <edge source="Bibliothèque municipale de La Digne-d'Aval" target="Bibliothèque municipale de Rodome" id="218" weight="28.137663408110814" />
+      <edge source="Bibliothèque municipale de La Digne-d'Aval" target="Médiathèque de Castres-Sidobre" id="219" weight="62.64961300326949" />
+      <edge source="Bibliothèque municipale de La Digne-d'Aval" target="Bibliothèque municipale de Bourg-Saint-Bernard" id="220" weight="73.82450621389728" />
+      <edge source="Bibliothèque municipale de La Digne-d'Aval" target="Mediatheque Ludovic Massé" id="221" weight="77.76520612315723" />
+      <edge source="CCMA - bibliothèque de Saint-Cyr-en-Pail" target="CCMA - Bibliothèque de Lignières-Orgères" id="222" weight="12.549987358157557" />
+      <edge source="CCMA - bibliothèque de Saint-Cyr-en-Pail" target="Médiathèque de Pacé" id="223" weight="17.91347286717314" />
+      <edge source="CCMA - bibliothèque de Saint-Cyr-en-Pail" target="Bibliothèque de Barenton" id="224" weight="46.76321230642931" />
+      <edge source="CCMA - bibliothèque de Saint-Cyr-en-Pail" target="Bibliothèque De Marpiré" id="225" weight="87.5739015335258" />
+      <edge source="CCMA - bibliothèque de Saint-Cyr-en-Pail" target="Médiathèque Intercommunale du Pays de Falaise" id="226" weight="55.60371633239656" />
+      <edge source="CCMA - bibliothèque de Saint-Cyr-en-Pail" target="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" id="227" weight="79.06336421129409" />
+      <edge source="CCMA - bibliothèque de Saint-Cyr-en-Pail" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="228" weight="18.57175145385168" />
+      <edge source="CCMA - bibliothèque de Saint-Cyr-en-Pail" target="Bibliothèque de La Loupe" id="229" weight="93.00387031642506" />
+      <edge source="Bibliotheque Municipale de Friville-Escarbotin" target="Médiathèque de Nouvion" id="230" weight="21.14096687780075" />
+      <edge source="Bibliotheque Municipale de Friville-Escarbotin" target="Médiathèque municipale" id="231" weight="88.85946562240805" />
+      <edge source="Bibliotheque Municipale de Friville-Escarbotin" target="Bibliothèque Municipale De Lalande En Son" id="232" weight="79.56213515902238" />
+      <edge source="Bibliotheque Municipale de Friville-Escarbotin" target="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" id="233" weight="73.62761379396764" />
+      <edge source="Bibliotheque Municipale de Friville-Escarbotin" target="Bibliothèque de Graval" id="234" weight="40.01516170526152" />
+      <edge source="Bibliotheque Municipale de Friville-Escarbotin" target="Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon" id="235" weight="83.98205368087234" />
+      <edge source="Bibliotheque Municipale de Friville-Escarbotin" target="Bibliothèque Marc Sangnier" id="236" weight="77.66463472516628" />
+      <edge source="Bibliotheque Municipale de Friville-Escarbotin" target="Bibliotheque Municipale De Staple" id="237" weight="97.50762729687283" />
+      <edge source="Bibliothèque" target="Médiathèque de Boma" id="238" weight="22.422338616680097" />
+      <edge source="Bibliothèque" target="Bibliothèque de Jaure" id="239" weight="37.74963705677635" />
+      <edge source="Bibliothèque" target="Bibliothèque de Cadillac" id="240" weight="54.050170224811986" />
+      <edge source="Bibliothèque de Jobourg" target="Bibliothèque de Beaumont-Hague" id="241" weight="5.505712263184495" />
+      <edge source="Médiathèque de Nouvion" target="Médiathèque municipale" id="242" weight="70.08094896224438" />
+      <edge source="Médiathèque de Nouvion" target="Bibliothèque Municipale De Lalande En Son" id="243" weight="91.5142617547226" />
+      <edge source="Médiathèque de Nouvion" target="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" id="244" weight="62.77578373781373" />
+      <edge source="Médiathèque de Nouvion" target="Bibliothèque de Graval" id="245" weight="56.25160361719424" />
+      <edge source="Médiathèque de Nouvion" target="Bibliothèque Marc Sangnier" id="246" weight="97.47614362451084" />
+      <edge source="Médiathèque de Nouvion" target="Bibliotheque Municipale De Staple" id="247" weight="76.66091948356103" />
+      <edge source="Bibliothèque Louis Aragon" target="Bibliothèque de Ozouer-Le-Voulgis" id="248" weight="39.165910906509" />
+      <edge source="Bibliothèque Louis Aragon" target="Mediatheque intercommunale de Montmirail" id="249" weight="97.27474432026412" />
+      <edge source="Bibliothèque Louis Aragon" target="Médiathèque de Presles-en-Brie" id="250" weight="35.32094424624399" />
+      <edge source="Bibliothèque Louis Aragon" target="Bibliothèque Municipale d'Evry Gregy sur Yerre" id="251" weight="30.188035202644308" />
+      <edge source="Bibliothèque Louis Aragon" target="Bibliotheque Colette Vivier" id="252" weight="99.90664951498078" />
+      <edge source="Bibliothèque Louis Aragon" target="Bibliotheque de Treuzy-Levelay" id="253" weight="67.86853076539123" />
+      <edge source="Bibliothèque Louis Aragon" target="Bibliothèque Municipale De Lalande En Son" id="254" weight="78.02887907570192" />
+      <edge source="Bibliothèque Louis Aragon" target="Bibliothèque Municipale de Bazainville" id="255" weight="43.36138670399197" />
+      <edge source="Bibliothèque Louis Aragon" target="Médiathèque Jacques Prévert" id="256" weight="69.61061978131704" />
+      <edge source="Bibliothèque Louis Aragon" target="Médiathèque Andrée Chedid" id="257" weight="12.551743020885782" />
+      <edge source="Bibliothèque Louis Aragon" target="Bibliothèque de La Loupe" id="258" weight="96.88052561107315" />
+      <edge source="Bibliothèque Louis Aragon" target="Bibliothèque Assia Djebar" id="259" weight="14.673222547967313" />
+      <edge source="Bibliothèque Municipale de Cossaye" target="Bibliothèque de Louroux de Bouble" id="260" weight="70.34644472855716" />
+      <edge source="Bibliothèque Municipale de Cossaye" target="Mairie de La Ferté-Hauterive" id="261" weight="40.642287634284955" />
+      <edge source="Bibliothèque Municipale de Cossaye" target="Réseau des bibliothèques Brionnais Sud Bourgone" id="262" weight="89.01743119032969" />
+      <edge source="Bibliothèque Municipale de Cossaye" target="Mairie de Paray-sous-Briailles" id="263" weight="51.952426283931885" />
+      <edge source="Bibliothèque Municipale de Cossaye" target="Bibliothèque de la Noue" id="264" weight="93.06696947128033" />
+      <edge source="Bibliothèque Municipale de Cossaye" target="Médiathèque Municipale de Saint Eloi" id="265" weight="32.56361425153359" />
+      <edge source="Bibliothèque Municipale de Cossaye" target="Bibliotheque de Creuzier Le Vieux" id="266" weight="65.96039287500736" />
+      <edge source="Bibliothèque municipale de La Pesse" target="Bibliothèque (Antenne de la Bdp)" id="267" weight="18.27726104602924" />
+      <edge source="Bibliothèque municipale de La Pesse" target="Relais Lecture" id="268" weight="89.74072418732347" />
+      <edge source="Bibliothèque municipale de La Pesse" target="Bibliothèque de la Noue" id="269" weight="98.6953579983452" />
+      <edge source="Bibliothèque municipale de La Pesse" target="Bibliothèque municipale de brens" id="270" weight="64.03845267028923" />
+      <edge source="Bibliothèque municipale de La Pesse" target="Bibliothèque Municipale d'Anthon" id="271" weight="76.01350352067578" />
+      <edge source="Bibliothèque municipale de La Pesse" target="Bibliothèque Bernard Pivot" id="272" weight="96.53057828655724" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Mediatheque intercommunale de Montmirail" id="273" weight="62.84603098469166" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Médiathèque de Presles-en-Brie" id="274" weight="6.749937451157781" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Bibliothèque Municipale d'Evry Gregy sur Yerre" id="275" weight="9.715767727020463" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Bibliotheque de Treuzy-Levelay" id="276" weight="43.04187292443066" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="BIBLIOTHEQUE" id="277" weight="93.6282478081218" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Bibliothèque Municipale de Bazainville" id="278" weight="82.18946167556008" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Médiathèque Jacques Prévert" id="279" weight="83.0275131320345" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Bibliothèque Mennechet de Barival" id="280" weight="99.3898778994203" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Bucy-le-Long" id="281" weight="93.21367959302782" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Médiathèque Andrée Chedid" id="282" weight="31.817368141196127" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Bibliothèque Assia Djebar" id="283" weight="33.745713219921534" />
+      <edge source="Bibliothèque de Ozouer-Le-Voulgis" target="Bibliothèque de Arcis le Ponsart" id="284" weight="92.9525945068457" />
+      <edge source="Bibliothèque municipale de Dounoux" target="Médiathèque de Ribeauvillé" id="285" weight="65.84767124697728" />
+      <edge source="Bibliothèque municipale de Dounoux" target="Point lecture d'Avolsheim" id="286" weight="93.63497008017943" />
+      <edge source="Bibliothèque municipale de Dounoux" target="Point lecture de Westhouse" id="287" weight="90.74737508428623" />
+      <edge source="Relais lecture de Cuttoli" target="Bibliothèque municipale d'Osani" id="288" weight="43.2348242801519" />
+      <edge source="Bibliothèque de Louroux de Bouble" target="Mairie de La Ferté-Hauterive" id="289" weight="34.44382194476944" />
+      <edge source="Bibliothèque de Louroux de Bouble" target="Mairie de Paray-sous-Briailles" id="290" weight="31.572481958363703" />
+      <edge source="Bibliothèque de Louroux de Bouble" target="Bibliothèque municipale de Fleurat" id="291" weight="98.70608098248229" />
+      <edge source="Bibliothèque de Louroux de Bouble" target="Médiathèque Municipale de Saint Eloi" id="292" weight="86.13889084981807" />
+      <edge source="Bibliothèque de Louroux de Bouble" target="Bibliotheque de Creuzier Le Vieux" id="293" weight="36.85537112118187" />
+      <edge source="Bibliothèque de Louroux de Bouble" target="Bibliothèque de Tallende" id="294" weight="64.29021343013488" />
+      <edge source="Mediatheque intercommunale de Montmirail" target="Médiathèque de Presles-en-Brie" id="295" weight="63.536154189794296" />
+      <edge source="Mediatheque intercommunale de Montmirail" target="Bibliothèque Municipale d'Evry Gregy sur Yerre" id="296" weight="72.21457331476859" />
+      <edge source="Mediatheque intercommunale de Montmirail" target="Bibliotheque de Treuzy-Levelay" id="297" weight="84.79698584949384" />
+      <edge source="Mediatheque intercommunale de Montmirail" target="BIBLIOTHEQUE" id="298" weight="65.39556072858873" />
+      <edge source="Mediatheque intercommunale de Montmirail" target="Bibliothèque Mennechet de Barival" id="299" weight="91.0911295065136" />
+      <edge source="Mediatheque intercommunale de Montmirail" target="Bucy-le-Long" id="300" weight="62.8525926527993" />
+      <edge source="Mediatheque intercommunale de Montmirail" target="Médiathèque Andrée Chedid" id="301" weight="93.44358450600059" />
+      <edge source="Mediatheque intercommunale de Montmirail" target="Bibliothèque Assia Djebar" id="302" weight="85.76263695333606" />
+      <edge source="Mediatheque intercommunale de Montmirail" target="Bibliothèque de Arcis le Ponsart" id="303" weight="44.764164422180954" />
+      <edge source="Médiathèque de l'Accolade" target="Bibliothèque municipale de La Couyère" id="304" weight="36.979411123909664" />
+      <edge source="Médiathèque de l'Accolade" target="Bibliothèque Municipale Plessala" id="305" weight="73.61618440474295" />
+      <edge source="Médiathèque de l'Accolade" target="Médiathèque municipale L'ourse" id="306" weight="56.27748697088582" />
+      <edge source="Médiathèque de l'Accolade" target="Bibliothèque de Barenton" id="307" weight="73.01541201949128" />
+      <edge source="Médiathèque de l'Accolade" target="Bibliothèque De Marpiré" id="308" weight="22.854563394545234" />
+      <edge source="Médiathèque de l'Accolade" target="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" id="309" weight="73.13293523679737" />
+      <edge source="Médiathèque de l'Accolade" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="310" weight="87.54625084209562" />
+      <edge source="Médiathèque de l'Accolade" target="Les Amis Du Livre" id="311" weight="66.3280201212526" />
+      <edge source="Médiathèque de l'Accolade" target="Médiathèque de Saint-Vincent-des-Landes" id="312" weight="62.675207032520674" />
+      <edge source="Bibliothèque de Saint-Jean de Ceyrargues" target="Bibliothèque communale Grignan" id="313" weight="68.10200039039886" />
+      <edge source="Bibliothèque de Saint-Jean de Ceyrargues" target="Bibliothèque de Génolhac" id="314" weight="38.277794803659184" />
+      <edge source="Bibliothèque de Saint-Jean de Ceyrargues" target="Bibliothèque de Valliguières" id="315" weight="28.95659285207696" />
+      <edge source="Bibliothèque de Saint-Jean de Ceyrargues" target="Médiathèque municipale Buis-les-Baronnies" id="316" weight="87.06290629017484" />
+      <edge source="Bibliotheque Saint Meard" target="Bibliothèque Du Vigeant" id="317" weight="93.22416445685546" />
+      <edge source="Bibliotheque Saint Meard" target="Bibliothèque municipale de Fleurat" id="318" weight="64.13404822277346" />
+      <edge source="Bibliotheque Saint Meard" target="Point lecture de Cieux" id="319" weight="53.16495837147578" />
+      <edge source="Bibliotheque Saint Meard" target="Médiathèque de Nexon" id="320" weight="28.588890393902897" />
+      <edge source="Bibliotheque Saint Meard" target="Mairie de Troche" id="321" weight="31.832460392495584" />
+      <edge source="Mairie de La Ferté-Hauterive" target="Réseau des bibliothèques Brionnais Sud Bourgone" id="322" weight="79.58775455049661" />
+      <edge source="Mairie de La Ferté-Hauterive" target="Mairie de Paray-sous-Briailles" id="323" weight="12.209981928298317" />
+      <edge source="Mairie de La Ferté-Hauterive" target="Bibliothèque de la Noue" id="324" weight="94.16051071457831" />
+      <edge source="Mairie de La Ferté-Hauterive" target="Médiathèque Municipale de Saint Eloi" id="325" weight="65.53035752046577" />
+      <edge source="Mairie de La Ferté-Hauterive" target="Bibliotheque de Creuzier Le Vieux" id="326" weight="27.676099163698343" />
+      <edge source="Mairie de La Ferté-Hauterive" target="Bibliothèque de Tallende" id="327" weight="83.64872631518395" />
+      <edge source="Médiatheque Maison du Savoir" target="Point lecture de Castillon-Debats" id="328" weight="75.31140916583924" />
+      <edge source="Médiatheque Maison du Savoir" target="Point Lecture de Gondrin" id="329" weight="91.85066512316348" />
+      <edge source="Médiatheque Maison du Savoir" target="Le relais de la Poste" id="330" weight="11.117946340049988" />
+      <edge source="Médiatheque Maison du Savoir" target="Bibliothèque de Carrère" id="331" weight="75.81180474046988" />
+      <edge source="Mediatheque Communautaire de Douchy-les-MInes" target="Médiathèque municipale" id="332" weight="45.67745336432602" />
+      <edge source="Mediatheque Communautaire de Douchy-les-MInes" target="Bibliothèque Mennechet de Barival" id="333" weight="89.62259921987526" />
+      <edge source="Mediatheque Communautaire de Douchy-les-MInes" target="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" id="334" weight="70.45910291240281" />
+      <edge source="Mediatheque Communautaire de Douchy-les-MInes" target="Bibliotheque Municipale De Staple" id="335" weight="82.86276175564178" />
+      <edge source="Médiathèque de Presles-en-Brie" target="Bibliothèque Municipale d'Evry Gregy sur Yerre" id="336" weight="9.827642377625654" />
+      <edge source="Médiathèque de Presles-en-Brie" target="Bibliotheque de Treuzy-Levelay" id="337" weight="49.51530606596584" />
+      <edge source="Médiathèque de Presles-en-Brie" target="BIBLIOTHEQUE" id="338" weight="98.67214599860891" />
+      <edge source="Médiathèque de Presles-en-Brie" target="Bibliothèque Municipale de Bazainville" id="339" weight="78.6723872294554" />
+      <edge source="Médiathèque de Presles-en-Brie" target="Médiathèque Jacques Prévert" id="340" weight="76.31106502836924" />
+      <edge source="Médiathèque de Presles-en-Brie" target="Bibliothèque Mennechet de Barival" id="341" weight="93.54891917040594" />
+      <edge source="Médiathèque de Presles-en-Brie" target="Bucy-le-Long" id="342" weight="89.08932722143268" />
+      <edge source="Médiathèque de Presles-en-Brie" target="Médiathèque Andrée Chedid" id="343" weight="29.913184451918678" />
+      <edge source="Médiathèque de Presles-en-Brie" target="Bibliothèque Assia Djebar" id="344" weight="28.067761143225074" />
+      <edge source="Médiathèque de Presles-en-Brie" target="Bibliothèque de Arcis le Ponsart" id="345" weight="90.61588593116961" />
+      <edge source="Réseau des bibliothèques Brionnais Sud Bourgone" target="BIBLIOTHEQUE LA PYRAMIDE" id="346" weight="70.58775367210221" />
+      <edge source="Réseau des bibliothèques Brionnais Sud Bourgone" target="Relais Lecture" id="347" weight="88.26188419014609" />
+      <edge source="Réseau des bibliothèques Brionnais Sud Bourgone" target="Mairie de Paray-sous-Briailles" id="348" weight="75.32093065200141" />
+      <edge source="Réseau des bibliothèques Brionnais Sud Bourgone" target="Bibliothèque de la Noue" id="349" weight="25.016460205380874" />
+      <edge source="Réseau des bibliothèques Brionnais Sud Bourgone" target="Bibliothèque - Salvizinet" id="350" weight="50.0036284361915" />
+      <edge source="Réseau des bibliothèques Brionnais Sud Bourgone" target="Bibliotheque de Creuzier Le Vieux" id="351" weight="69.87754163169467" />
+      <edge source="Réseau des bibliothèques Brionnais Sud Bourgone" target="Bibliothèque Municipale d'Anthon" id="352" weight="79.23745309199073" />
+      <edge source="Réseau des bibliothèques Brionnais Sud Bourgone" target="Bibliothèque Bernard Pivot" id="353" weight="23.504335808906358" />
+      <edge source="Médiathèque de Ribeauvillé" target="Point lecture d'Avolsheim" id="354" weight="43.14149090741945" />
+      <edge source="Médiathèque de Ribeauvillé" target="Point lecture de Westhouse" id="355" weight="29.958462768476362" />
+      <edge source="Médiathèque de Ribeauvillé" target="Point lecture d'Aschbach" id="356" weight="95.75036819493826" />
+      <edge source="Bibliothèque municipale de La Couyère" target="Bibliothèque Municipale Plessala" id="357" weight="93.2561883189755" />
+      <edge source="Bibliothèque municipale de La Couyère" target="Médiathèque municipale L'ourse" id="358" weight="91.92387691019604" />
+      <edge source="Bibliothèque municipale de La Couyère" target="Bibliothèque de Barenton" id="359" weight="93.33324601961702" />
+      <edge source="Bibliothèque municipale de La Couyère" target="Bibliothèque De Marpiré" id="360" weight="30.75956490342538" />
+      <edge source="Bibliothèque municipale de La Couyère" target="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" id="361" weight="51.60441647483899" />
+      <edge source="Bibliothèque municipale de La Couyère" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="362" weight="96.44878240101514" />
+      <edge source="Bibliothèque municipale de La Couyère" target="Les Amis Du Livre" id="363" weight="69.8539063118257" />
+      <edge source="Bibliothèque municipale de La Couyère" target="Médiathèque de Saint-Vincent-des-Landes" id="364" weight="26.104056933315345" />
+      <edge source="Point lecture de Castillon-Debats" target="Point Lecture de Gondrin" id="365" weight="17.577564401661384" />
+      <edge source="Point lecture de Castillon-Debats" target="Le relais de la Poste" id="366" weight="79.9825955366414" />
+      <edge source="Point lecture de Castillon-Debats" target="Médiatheque Municipale" id="367" weight="97.82945023807589" />
+      <edge source="Point lecture de Castillon-Debats" target="Bibliothèque de Carrère" id="368" weight="48.22171150046898" />
+      <edge source="Point lecture de Castillon-Debats" target="Bibliothèque De La Ville-Dieu-Du-Temple" id="369" weight="87.05276432477005" />
+      <edge source="Point lecture de Castillon-Debats" target="Bibliothèque de Sault-de-Navailles" id="370" weight="74.88138158187009" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliothèque de Fiancey" id="371" weight="58.375758610538824" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliothèque Municipale de Susville" id="372" weight="76.05302833041249" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="BIBLIOTHEQUE LA PYRAMIDE" id="373" weight="45.2246625222446" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliothèque - Salvizinet" id="374" weight="74.23533936751667" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliothèque municipale de brens" id="375" weight="75.2710955204808" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliothèque communale Grignan" id="376" weight="96.60883806109267" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliotheque municipale" id="377" weight="70.67670958909332" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliothèque Municipale de Vatilieu" id="378" weight="36.15564753023456" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliothèque Bibliomotte" id="379" weight="10.25793510355372" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliothèque Municipale d'Anthon" id="380" weight="58.17562545163026" />
+      <edge source="Bibliothèque communale St-Sorlin-en-Valloire" target="Bibliothèque Bernard Pivot" id="381" weight="95.78859841299885" />
+      <edge source="Médiathèque Ludothèque" target="Bibliothèque de Maël-Pestivien" id="382" weight="96.44555246936511" />
+      <edge source="Médiathèque Ludothèque" target="Bibliothèque de Plévin" id="383" weight="88.32003894369755" />
+      <edge source="CCMA - Bibliothèque de Lignières-Orgères" target="Médiathèque de Pacé" id="384" weight="21.012406430631525" />
+      <edge source="CCMA - Bibliothèque de Lignières-Orgères" target="Bibliothèque de Barenton" id="385" weight="44.26525775286185" />
+      <edge source="CCMA - Bibliothèque de Lignières-Orgères" target="Bibliothèque De Marpiré" id="386" weight="93.57182468187095" />
+      <edge source="CCMA - Bibliothèque de Lignières-Orgères" target="Médiathèque Intercommunale du Pays de Falaise" id="387" weight="43.25497991733656" />
+      <edge source="CCMA - Bibliothèque de Lignières-Orgères" target="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" id="388" weight="90.19121664514154" />
+      <edge source="CCMA - Bibliothèque de Lignières-Orgères" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="389" weight="23.254597713987323" />
+      <edge source="CCMA - Bibliothèque de Lignières-Orgères" target="Bibliothèque de La Loupe" id="390" weight="92.52916009659901" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Réseau du Haut Poitou" id="391" weight="36.06314423218535" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Médiathèque de Saint Eloi" id="392" weight="24.247879281512887" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Bibliothèque Du Vigeant" id="393" weight="25.040829936548228" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Espace culturel Robert Talbot" id="394" weight="57.50151016123151" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Bibliothèque municipale de Fleurat" id="395" weight="99.38861321017953" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Point lecture" id="396" weight="46.99046273361818" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Ludotrot" id="397" weight="34.81735090186426" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Bibliothèque De Melleran" id="398" weight="41.45340523608837" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Point lecture de Cieux" id="399" weight="65.11645649149882" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Médiathèque de Nexon" id="400" weight="97.29301925100569" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Bibliotheque Municipale de Tauxigny-Saint-Bauld" id="401" weight="98.98609229804948" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Bibliotheque De Chiche" id="402" weight="74.83682673479056" />
+      <edge source="BIBLIOTHEQUE de GENCAY" target="Bibliotheque Intercommunale - Le Blanc" id="403" weight="58.18117019047707" />
+      <edge source="Bibliothèque Municipale d'Evry Gregy sur Yerre" target="Bibliotheque de Treuzy-Levelay" id="404" weight="44.39303013050904" />
+      <edge source="Bibliothèque Municipale d'Evry Gregy sur Yerre" target="Bibliothèque Municipale de Bazainville" id="405" weight="72.80592060169992" />
+      <edge source="Bibliothèque Municipale d'Evry Gregy sur Yerre" target="Médiathèque Jacques Prévert" id="406" weight="81.25318050311928" />
+      <edge source="Bibliothèque Municipale d'Evry Gregy sur Yerre" target="Bucy-le-Long" id="407" weight="98.62007302252613" />
+      <edge source="Bibliothèque Municipale d'Evry Gregy sur Yerre" target="Médiathèque Andrée Chedid" id="408" weight="22.120836587582033" />
+      <edge source="Bibliothèque Municipale d'Evry Gregy sur Yerre" target="Bibliothèque Assia Djebar" id="409" weight="27.198656823649053" />
+      <edge source="Bibliothèque de Fiancey" target="Bibliothèque Municipale de Susville" id="410" weight="33.61146026844349" />
+      <edge source="Bibliothèque de Fiancey" target="BIBLIOTHEQUE LA PYRAMIDE" id="411" weight="82.26869384784109" />
+      <edge source="Bibliothèque de Fiancey" target="Bibliothèque de Sigoyer" id="412" weight="85.96165596189282" />
+      <edge source="Bibliothèque de Fiancey" target="Bibliothèque municipale de brens" id="413" weight="54.96896519521528" />
+      <edge source="Bibliothèque de Fiancey" target="Bibliothèque Municipale de Vatilieu" id="414" weight="22.242550313396922" />
+      <edge source="Bibliothèque de Fiancey" target="Bibliothèque Bibliomotte" id="415" weight="61.03861604365485" />
+      <edge source="Bibliothèque de Fiancey" target="Bibliothèque Municipale d'Anthon" id="416" weight="74.71378015893205" />
+      <edge source="Bibliotheque Colette Vivier" target="Bibliotheque de Treuzy-Levelay" id="417" weight="81.11631216111013" />
+      <edge source="Bibliotheque Colette Vivier" target="Médiathèque Andrée Chedid" id="418" weight="91.25295646203132" />
+      <edge source="Bibliotheque Colette Vivier" target="Bibliothèque de La Loupe" id="419" weight="89.81439782042133" />
+      <edge source="Bibliotheque Colette Vivier" target="Bibliothèque de Châteauvieux" id="420" weight="83.19960632666205" />
+      <edge source="Médiathèque municipale" target="Bibliothèque Mennechet de Barival" id="421" weight="86.49117806231443" />
+      <edge source="Médiathèque municipale" target="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" id="422" weight="41.64578930280721" />
+      <edge source="Médiathèque municipale" target="Bibliotheque Municipale De Staple" id="423" weight="52.810952977340875" />
+      <edge source="Bibliothèque Municipale de Susville" target="Bibliotheque Municipale Saint-Etienne les Orgues" id="424" weight="98.33702460408232" />
+      <edge source="Bibliothèque Municipale de Susville" target="Bibliothèque de Sigoyer" id="425" weight="52.49715145851835" />
+      <edge source="Bibliothèque Municipale de Susville" target="Bibliothèque municipale de brens" id="426" weight="88.14672043402888" />
+      <edge source="Bibliothèque Municipale de Susville" target="Bibliothèque communale Grignan" id="427" weight="88.57679413656963" />
+      <edge source="Bibliothèque Municipale de Susville" target="Médiathèque de Château-Arnoux" id="428" weight="97.06645725170195" />
+      <edge source="Bibliothèque Municipale de Susville" target="Médiathèque municipale Buis-les-Baronnies" id="429" weight="82.56981618148414" />
+      <edge source="Bibliothèque Municipale de Susville" target="Bibliothèque Municipale de Vatilieu" id="430" weight="46.36011598595305" />
+      <edge source="Bibliothèque Municipale de Susville" target="Bibliothèque Bibliomotte" id="431" weight="74.14512950490987" />
+      <edge source="Bibliotheque de Treuzy-Levelay" target="BIBLIOTHEQUE" id="432" weight="81.68658593751155" />
+      <edge source="Bibliotheque de Treuzy-Levelay" target="Médiathèque Andrée Chedid" id="433" weight="55.55316323141275" />
+      <edge source="Bibliotheque de Treuzy-Levelay" target="Bibliothèque Assia Djebar" id="434" weight="70.46993105868991" />
+      <edge source="Réseau du Haut Poitou" target="Bibliothèque de Reignac-sur-Indre" id="435" weight="78.28950686683787" />
+      <edge source="Réseau du Haut Poitou" target="Médiathèque de Saint Eloi" id="436" weight="13.718459134156772" />
+      <edge source="Réseau du Haut Poitou" target="Bibliothèque Du Vigeant" id="437" weight="58.864188360334104" />
+      <edge source="Réseau du Haut Poitou" target="Espace culturel Robert Talbot" id="438" weight="22.12992621510158" />
+      <edge source="Réseau du Haut Poitou" target="Point lecture" id="439" weight="77.51753638974763" />
+      <edge source="Réseau du Haut Poitou" target="Ludotrot" id="440" weight="8.388833887101477" />
+      <edge source="Réseau du Haut Poitou" target="Bibliothèque De Melleran" id="441" weight="64.69913700282656" />
+      <edge source="Réseau du Haut Poitou" target="Point lecture de Cieux" id="442" weight="97.59575405358933" />
+      <edge source="Réseau du Haut Poitou" target="Bibliotheque Municipale de Tauxigny-Saint-Bauld" id="443" weight="73.3251472921023" />
+      <edge source="Réseau du Haut Poitou" target="Bibliotheque De Chiche" id="444" weight="48.791506570495976" />
+      <edge source="Réseau du Haut Poitou" target="Bibliotheque Intercommunale - Le Blanc" id="445" weight="61.04502628607179" />
+      <edge source="Bibliothèque de Maël-Pestivien" target="Bibliothèque Municipale Plessala" id="446" weight="51.654764607705324" />
+      <edge source="Bibliothèque de Maël-Pestivien" target="Médiathèque municipale L'ourse" id="447" weight="94.38656502032924" />
+      <edge source="Bibliothèque de Maël-Pestivien" target="Bibliothèque de Plévin" id="448" weight="24.431671602890688" />
+      <edge source="Bibliothèque de Maël-Pestivien" target="Les Amis Du Livre" id="449" weight="80.13327431200116" />
+      <edge source="Bibliothèque de Reignac-sur-Indre" target="Médiathèque de Saint Eloi" id="450" weight="81.56405895534702" />
+      <edge source="Bibliothèque de Reignac-sur-Indre" target="Espace culturel Robert Talbot" id="451" weight="75.56622768773151" />
+      <edge source="Bibliothèque de Reignac-sur-Indre" target="Ludotrot" id="452" weight="73.01645002263791" />
+      <edge source="Bibliothèque de Reignac-sur-Indre" target="Bibliothèque de Châteauvieux" id="453" weight="35.47419254164268" />
+      <edge source="Bibliothèque de Reignac-sur-Indre" target="Bibliotheque Municipale de Tauxigny-Saint-Bauld" id="454" weight="6.151106750269466" />
+      <edge source="Bibliothèque de Reignac-sur-Indre" target="Bibliotheque Intercommunale - Le Blanc" id="455" weight="66.45766404473547" />
+      <edge source="Médiathèque de Pacé" target="Bibliothèque de Barenton" id="456" weight="63.56143161962039" />
+      <edge source="Médiathèque de Pacé" target="Médiathèque Intercommunale du Pays de Falaise" id="457" weight="54.21311681354948" />
+      <edge source="Médiathèque de Pacé" target="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" id="458" weight="90.37288899724801" />
+      <edge source="Médiathèque de Pacé" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="459" weight="36.48522392704948" />
+      <edge source="Médiathèque de Pacé" target="Bibliothèque de La Loupe" id="460" weight="75.09641386176678" />
+      <edge source="Point Lecture de Gondrin" target="Le relais de la Poste" id="461" weight="97.10067465383528" />
+      <edge source="Point Lecture de Gondrin" target="Médiatheque Municipale" id="462" weight="95.65711281222121" />
+      <edge source="Point Lecture de Gondrin" target="Bibliothèque de Carrère" id="463" weight="61.02189223231509" />
+      <edge source="Point Lecture de Gondrin" target="Bibliothèque De La Ville-Dieu-Du-Temple" id="464" weight="80.11951879122878" />
+      <edge source="Point Lecture de Gondrin" target="Bibliothèque de Cadillac" id="465" weight="94.50546796799789" />
+      <edge source="Point Lecture de Gondrin" target="Bibliothèque de Sault-de-Navailles" id="466" weight="82.79148996898374" />
+      <edge source="Médiathèque de Boma" target="Bibliothèque de Jaure" id="467" weight="59.93280301679434" />
+      <edge source="Médiathèque de Boma" target="Bibliothèque de Cadillac" id="468" weight="40.313723260991665" />
+      <edge source="Bibliothèque municipale de Rodome" target="Médiathèque de Castres-Sidobre" id="469" weight="90.27001788526447" />
+      <edge source="Bibliothèque municipale de Rodome" target="Bibliothèque municipale de Bourg-Saint-Bernard" id="470" weight="94.19770931030114" />
+      <edge source="Bibliothèque municipale de Rodome" target="Mediatheque Ludovic Massé" id="471" weight="65.99451865797317" />
+      <edge source="Bibliothèque Municipale De Lalande En Son" target="Bibliothèque Municipale de Bazainville" id="472" weight="65.5568769790343" />
+      <edge source="Bibliothèque Municipale De Lalande En Son" target="Médiathèque Jacques Prévert" id="473" weight="48.5160121906353" />
+      <edge source="Bibliothèque Municipale De Lalande En Son" target="Bibliothèque Mennechet de Barival" id="474" weight="86.1291418036154" />
+      <edge source="Bibliothèque Municipale De Lalande En Son" target="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" id="475" weight="84.25320800975356" />
+      <edge source="Bibliothèque Municipale De Lalande En Son" target="Médiathèque Andrée Chedid" id="476" weight="90.58028464191418" />
+      <edge source="Bibliothèque Municipale De Lalande En Son" target="Bibliothèque de Graval" id="477" weight="41.53412724240085" />
+      <edge source="Bibliothèque Municipale De Lalande En Son" target="Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon" id="478" weight="74.95961994155046" />
+      <edge source="Bibliothèque Municipale De Lalande En Son" target="Bibliothèque Marc Sangnier" id="479" weight="52.05676527873857" />
+      <edge source="Bibliothèque Municipale De Lalande En Son" target="Bibliothèque Assia Djebar" id="480" weight="75.65434676625037" />
+      <edge source="Médiathèque de Castres-Sidobre" target="Médiatheque Municipale" id="481" weight="70.62277542250976" />
+      <edge source="Médiathèque de Castres-Sidobre" target="Bibliothèque municipale de Bourg-Saint-Bernard" id="482" weight="45.08564193697975" />
+      <edge source="Médiathèque de Castres-Sidobre" target="Bibliothèque De La Ville-Dieu-Du-Temple" id="483" weight="95.61405686963792" />
+      <edge source="Bibliothèque (Antenne de la Bdp)" target="BIBLIOTHEQUE LA PYRAMIDE" id="484" weight="86.89697460927444" />
+      <edge source="Bibliothèque (Antenne de la Bdp)" target="Bibliothèque de la Noue" id="485" weight="99.330791231395" />
+      <edge source="Bibliothèque (Antenne de la Bdp)" target="Bibliothèque municipale de brens" id="486" weight="45.769123788244684" />
+      <edge source="Bibliothèque (Antenne de la Bdp)" target="Bibliothèque Municipale d'Anthon" id="487" weight="61.83855362118161" />
+      <edge source="Bibliothèque (Antenne de la Bdp)" target="Bibliothèque Bernard Pivot" id="488" weight="91.96941057301517" />
+      <edge source="BIBLIOTHEQUE LA PYRAMIDE" target="Bibliothèque de la Noue" id="489" weight="78.78480560511771" />
+      <edge source="BIBLIOTHEQUE LA PYRAMIDE" target="Bibliothèque - Salvizinet" id="490" weight="47.013247617117045" />
+      <edge source="BIBLIOTHEQUE LA PYRAMIDE" target="Bibliothèque municipale de brens" id="491" weight="64.01339366580112" />
+      <edge source="BIBLIOTHEQUE LA PYRAMIDE" target="Bibliotheque municipale" id="492" weight="96.62881284583976" />
+      <edge source="BIBLIOTHEQUE LA PYRAMIDE" target="Bibliothèque Municipale de Vatilieu" id="493" weight="64.01569339972903" />
+      <edge source="BIBLIOTHEQUE LA PYRAMIDE" target="Bibliothèque Bibliomotte" id="494" weight="54.71493456598379" />
+      <edge source="BIBLIOTHEQUE LA PYRAMIDE" target="Bibliothèque Municipale d'Anthon" id="495" weight="25.466605260173566" />
+      <edge source="BIBLIOTHEQUE LA PYRAMIDE" target="Bibliothèque Bernard Pivot" id="496" weight="51.37700033737419" />
+      <edge source="Médiathèque de Saint Eloi" target="Bibliothèque Du Vigeant" id="497" weight="45.50598969769678" />
+      <edge source="Médiathèque de Saint Eloi" target="Espace culturel Robert Talbot" id="498" weight="35.79843366854198" />
+      <edge source="Médiathèque de Saint Eloi" target="Point lecture" id="499" weight="69.21447411671222" />
+      <edge source="Médiathèque de Saint Eloi" target="Ludotrot" id="500" weight="10.569578263354128" />
+      <edge source="Médiathèque de Saint Eloi" target="Bibliothèque De Melleran" id="501" weight="59.18198729227175" />
+      <edge source="Médiathèque de Saint Eloi" target="Point lecture de Cieux" id="502" weight="83.9115365548095" />
+      <edge source="Médiathèque de Saint Eloi" target="Bibliotheque Municipale de Tauxigny-Saint-Bauld" id="503" weight="77.28932342969195" />
+      <edge source="Médiathèque de Saint Eloi" target="Bibliotheque De Chiche" id="504" weight="60.80941336181548" />
+      <edge source="Médiathèque de Saint Eloi" target="Bibliotheque Intercommunale - Le Blanc" id="505" weight="51.99069474146693" />
+      <edge source="Le relais de la Poste" target="Bibliothèque de Carrère" id="506" weight="73.49862584217531" />
+      <edge source="Bibliothèque Du Vigeant" target="Espace culturel Robert Talbot" id="507" weight="80.92485722533786" />
+      <edge source="Bibliothèque Du Vigeant" target="Bibliothèque municipale de Fleurat" id="508" weight="79.34443749307117" />
+      <edge source="Bibliothèque Du Vigeant" target="Point lecture" id="509" weight="46.80898377095263" />
+      <edge source="Bibliothèque Du Vigeant" target="Ludotrot" id="510" weight="55.408807249363846" />
+      <edge source="Bibliothèque Du Vigeant" target="Bibliothèque De Melleran" id="511" weight="51.56262442865646" />
+      <edge source="Bibliothèque Du Vigeant" target="Point lecture de Cieux" id="512" weight="40.076243515658994" />
+      <edge source="Bibliothèque Du Vigeant" target="Médiathèque de Nexon" id="513" weight="72.86729730295852" />
+      <edge source="Bibliothèque Du Vigeant" target="Bibliotheque De Chiche" id="514" weight="99.87147962945095" />
+      <edge source="Bibliothèque Du Vigeant" target="Bibliotheque Intercommunale - Le Blanc" id="515" weight="55.5900026029798" />
+      <edge source="Bibliothèque Municipale Plessala" target="Médiathèque municipale L'ourse" id="516" weight="56.74260424613471" />
+      <edge source="Bibliothèque Municipale Plessala" target="Bibliothèque De Marpiré" id="517" weight="95.99473996301009" />
+      <edge source="Bibliothèque Municipale Plessala" target="Bibliothèque de Plévin" id="518" weight="65.83818424887671" />
+      <edge source="Bibliothèque Municipale Plessala" target="Les Amis Du Livre" id="519" weight="38.001530091143856" />
+      <edge source="BIBLIOTHEQUE" target="Médiathèque Nicolas-Jenson" id="520" weight="69.58241858138763" />
+      <edge source="Point lecture d'Avolsheim" target="Point lecture de Westhouse" id="521" weight="19.31086036770692" />
+      <edge source="Point lecture d'Avolsheim" target="Point lecture d'Aschbach" id="522" weight="54.241774837599365" />
+      <edge source="Médiatheque Municipale" target="Bibliothèque municipale de Bourg-Saint-Bernard" id="523" weight="32.374642684462785" />
+      <edge source="Médiatheque Municipale" target="Bibliothèque De La Ville-Dieu-Du-Temple" id="524" weight="28.477652432721246" />
+      <edge source="Bibliothèque de Carrère" target="Bibliothèque de Sault-de-Navailles" id="525" weight="33.29487881213738" />
+      <edge source="Bibliothèque Municipale de Bazainville" target="Médiathèque Jacques Prévert" id="526" weight="85.14361302264504" />
+      <edge source="Bibliothèque Municipale de Bazainville" target="Médiathèque Andrée Chedid" id="527" weight="51.33682427658704" />
+      <edge source="Bibliothèque Municipale de Bazainville" target="Bibliothèque Marc Sangnier" id="528" weight="85.22572354934408" />
+      <edge source="Bibliothèque Municipale de Bazainville" target="Bibliothèque de La Loupe" id="529" weight="60.56754007938764" />
+      <edge source="Bibliothèque Municipale de Bazainville" target="Bibliothèque Assia Djebar" id="530" weight="54.35709347025555" />
+      <edge source="Point lecture de Westhouse" target="Point lecture d'Aschbach" id="531" weight="66.56528544913307" />
+      <edge source="Médiathèque Jacques Prévert" target="Bibliothèque Mennechet de Barival" id="532" weight="40.61822273044841" />
+      <edge source="Médiathèque Jacques Prévert" target="Bucy-le-Long" id="533" weight="68.38014880878526" />
+      <edge source="Médiathèque Jacques Prévert" target="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" id="534" weight="65.14598215694333" />
+      <edge source="Médiathèque Jacques Prévert" target="Médiathèque Andrée Chedid" id="535" weight="79.84292534005804" />
+      <edge source="Médiathèque Jacques Prévert" target="Bibliothèque de Graval" id="536" weight="76.5335727983422" />
+      <edge source="Médiathèque Jacques Prévert" target="Bibliothèque Assia Djebar" id="537" weight="58.652342911813875" />
+      <edge source="Médiathèque Jacques Prévert" target="Bibliothèque de Arcis le Ponsart" id="538" weight="91.43539417141244" />
+      <edge source="Bibliothèque Mennechet de Barival" target="Bucy-le-Long" id="539" weight="36.57357946526313" />
+      <edge source="Bibliothèque Mennechet de Barival" target="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" id="540" weight="53.81303327371098" />
+      <edge source="Bibliothèque Mennechet de Barival" target="Bibliothèque Assia Djebar" id="541" weight="86.71905028457944" />
+      <edge source="Bibliothèque Mennechet de Barival" target="Bibliothèque de Arcis le Ponsart" id="542" weight="64.0051785353745" />
+      <edge source="Bucy-le-Long" target="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" id="543" weight="87.28698551234764" />
+      <edge source="Bucy-le-Long" target="Bibliothèque Assia Djebar" id="544" weight="93.55810467638486" />
+      <edge source="Bucy-le-Long" target="Bibliothèque de Arcis le Ponsart" id="545" weight="27.687523558896743" />
+      <edge source="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" target="Bibliothèque de Graval" id="546" weight="77.13892020962146" />
+      <edge source="Médiathèque intercommunale &quot;La Filature&quot; - Ribemont-sur-Ancre" target="Bibliotheque Municipale De Staple" id="547" weight="88.31249220110278" />
+      <edge source="Médiathèque municipale L'ourse" target="Bibliothèque de Barenton" id="548" weight="90.57894821728735" />
+      <edge source="Médiathèque municipale L'ourse" target="Bibliothèque De Marpiré" id="549" weight="75.92405423183823" />
+      <edge source="Médiathèque municipale L'ourse" target="Les Amis Du Livre" id="550" weight="79.65988568254022" />
+      <edge source="Bibliothèque de Barenton" target="Bibliothèque De Marpiré" id="551" weight="63.07475585859757" />
+      <edge source="Bibliothèque de Barenton" target="Médiathèque Intercommunale du Pays de Falaise" id="552" weight="66.08455061555794" />
+      <edge source="Bibliothèque de Barenton" target="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" id="553" weight="84.25391742262994" />
+      <edge source="Bibliothèque de Barenton" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="554" weight="30.71215659104841" />
+      <edge source="Bibliothèque De Marpiré" target="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" id="555" weight="51.33966477716083" />
+      <edge source="Bibliothèque De Marpiré" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="556" weight="70.4481708562274" />
+      <edge source="Bibliothèque De Marpiré" target="Les Amis Du Livre" id="557" weight="84.19886591717638" />
+      <edge source="Bibliothèque De Marpiré" target="Médiathèque de Saint-Vincent-des-Landes" id="558" weight="55.54468555313337" />
+      <edge source="Bibliotheque Municipale Saint-Etienne les Orgues" target="Bibliothèque de Sigoyer" id="559" weight="50.82430834760304" />
+      <edge source="Bibliotheque Municipale Saint-Etienne les Orgues" target="Bibliothèque communale Grignan" id="560" weight="81.21219569613892" />
+      <edge source="Bibliotheque Municipale Saint-Etienne les Orgues" target="Réseau du pays de Forcalquier" id="561" weight="9.446577852517311" />
+      <edge source="Bibliotheque Municipale Saint-Etienne les Orgues" target="Médiathèque de Château-Arnoux" id="562" weight="17.74555209457551" />
+      <edge source="Bibliotheque Municipale Saint-Etienne les Orgues" target="Bibliothèque de Valliguières" id="563" weight="95.86284159530753" />
+      <edge source="Bibliotheque Municipale Saint-Etienne les Orgues" target="Médiathèque municipale Buis-les-Baronnies" id="564" weight="48.183038452115916" />
+      <edge source="Bibliotheque Municipale Saint-Etienne les Orgues" target="Bibliothèque municipale Bernard-Monge" id="565" weight="82.37802300032392" />
+      <edge source="Médiathèque Andrée Chedid" target="Bibliothèque de La Loupe" id="566" weight="99.41449307342346" />
+      <edge source="Médiathèque Andrée Chedid" target="Bibliothèque Assia Djebar" id="567" weight="21.525927397643258" />
+      <edge source="Relais Lecture" target="Bibliothèque de la Noue" id="568" weight="63.66681284245296" />
+      <edge source="Relais Lecture" target="Bibliothèque Bernard Pivot" id="569" weight="87.07848364313429" />
+      <edge source="Bibliothèque de Plévin" target="Les Amis Du Livre" id="570" weight="84.79543549458992" />
+      <edge source="Mairie de Paray-sous-Briailles" target="Bibliothèque de la Noue" id="571" weight="92.57922942833267" />
+      <edge source="Mairie de Paray-sous-Briailles" target="Bibliothèque - Salvizinet" id="572" weight="91.48486503041634" />
+      <edge source="Mairie de Paray-sous-Briailles" target="Médiathèque Municipale de Saint Eloi" id="573" weight="77.73580180405183" />
+      <edge source="Mairie de Paray-sous-Briailles" target="Bibliotheque de Creuzier Le Vieux" id="574" weight="15.569578423416775" />
+      <edge source="Mairie de Paray-sous-Briailles" target="Bibliothèque de Tallende" id="575" weight="72.37478644742822" />
+      <edge source="Mairie de Paray-sous-Briailles" target="Bibliothèque Bernard Pivot" id="576" weight="97.98360104090699" />
+      <edge source="Bibliothèque de la Noue" target="Bibliothèque - Salvizinet" id="577" weight="71.29061613730599" />
+      <edge source="Bibliothèque de la Noue" target="Bibliotheque de Creuzier Le Vieux" id="578" weight="90.17643594380063" />
+      <edge source="Bibliothèque de la Noue" target="Bibliothèque Municipale d'Anthon" id="579" weight="79.41433564779982" />
+      <edge source="Bibliothèque de la Noue" target="Bibliothèque Bernard Pivot" id="580" weight="28.037768528426717" />
+      <edge source="Bibliothèque de Sigoyer" target="Bibliothèque communale Grignan" id="581" weight="85.03941315178449" />
+      <edge source="Bibliothèque de Sigoyer" target="Réseau du pays de Forcalquier" id="582" weight="60.00217310140475" />
+      <edge source="Bibliothèque de Sigoyer" target="Médiathèque de Château-Arnoux" id="583" weight="45.456577492427684" />
+      <edge source="Bibliothèque de Sigoyer" target="Médiathèque municipale Buis-les-Baronnies" id="584" weight="60.36259030131025" />
+      <edge source="Bibliothèque de Sigoyer" target="Bibliothèque Municipale de Vatilieu" id="585" weight="97.38602005173311" />
+      <edge source="Bibliothèque de Graval" target="Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon" id="586" weight="60.21052579653106" />
+      <edge source="Bibliothèque de Graval" target="Bibliothèque Marc Sangnier" id="587" weight="45.09726710462096" />
+      <edge source="Médiathèque Intercommunale du Pays de Falaise" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="588" weight="62.67586675044791" />
+      <edge source="Médiathèque Intercommunale du Pays de Falaise" target="Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon" id="589" weight="90.66244796081827" />
+      <edge source="Médiathèque Intercommunale du Pays de Falaise" target="Bibliothèque de La Loupe" id="590" weight="95.1271391943971" />
+      <edge source="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" target="Médiathèque de Lassay-les-Châteaux / CC Mayenne" id="591" weight="70.2937554864678" />
+      <edge source="CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)" target="Médiathèque de Saint-Vincent-des-Landes" id="592" weight="54.93660896151311" />
+      <edge source="Bibliothèque - Salvizinet" target="Bibliotheque de Creuzier Le Vieux" id="593" weight="78.50951684845317" />
+      <edge source="Bibliothèque - Salvizinet" target="Bibliotheque municipale" id="594" weight="87.07483797281404" />
+      <edge source="Bibliothèque - Salvizinet" target="Bibliothèque de Tallende" id="595" weight="89.60858564131418" />
+      <edge source="Bibliothèque - Salvizinet" target="Bibliothèque Bibliomotte" id="596" weight="79.58434269734764" />
+      <edge source="Bibliothèque - Salvizinet" target="Bibliothèque Municipale d'Anthon" id="597" weight="69.49391733058532" />
+      <edge source="Bibliothèque - Salvizinet" target="Bibliothèque Bernard Pivot" id="598" weight="47.79324488101075" />
+      <edge source="Espace culturel Robert Talbot" target="Point lecture" id="599" weight="95.04340986043809" />
+      <edge source="Espace culturel Robert Talbot" target="Ludotrot" id="600" weight="27.65157448215837" />
+      <edge source="Espace culturel Robert Talbot" target="Bibliothèque De Melleran" id="601" weight="79.64912225573501" />
+      <edge source="Espace culturel Robert Talbot" target="Bibliotheque Municipale de Tauxigny-Saint-Bauld" id="602" weight="69.75744580885093" />
+      <edge source="Espace culturel Robert Talbot" target="Bibliotheque De Chiche" id="603" weight="34.43363089428194" />
+      <edge source="Espace culturel Robert Talbot" target="Bibliotheque Intercommunale - Le Blanc" id="604" weight="77.18192172200357" />
+      <edge source="Bibliothèque municipale de Fleurat" target="Point lecture de Cieux" id="605" weight="55.978815425553314" />
+      <edge source="Bibliothèque municipale de Fleurat" target="Médiathèque de Nexon" id="606" weight="72.48371249268813" />
+      <edge source="Bibliothèque municipale de Fleurat" target="Bibliotheque Intercommunale - Le Blanc" id="607" weight="65.6824799124541" />
+      <edge source="Bibliothèque municipale de Fleurat" target="Mairie de Troche" id="608" weight="95.83528667645137" />
+      <edge source="Point lecture" target="Ludotrot" id="609" weight="79.25757379200074" />
+      <edge source="Point lecture" target="Bibliothèque De Melleran" id="610" weight="19.57523466846271" />
+      <edge source="Point lecture" target="Point lecture de Cieux" id="611" weight="69.32399787521693" />
+      <edge source="Point lecture" target="Médiathèque de Nexon" id="612" weight="86.84266490334588" />
+      <edge source="Point lecture" target="Bibliotheque De Chiche" id="613" weight="97.77105425995116" />
+      <edge source="Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon" target="Bibliothèque Marc Sangnier" id="614" weight="23.125980996755004" />
+      <edge source="Bibliothèque municipale de brens" target="Bibliothèque Municipale de Vatilieu" id="615" weight="56.03369637372626" />
+      <edge source="Bibliothèque municipale de brens" target="Bibliothèque Bibliomotte" id="616" weight="84.03458353049895" />
+      <edge source="Bibliothèque municipale de brens" target="Bibliothèque Municipale d'Anthon" id="617" weight="41.55691109603999" />
+      <edge source="Bibliothèque municipale de brens" target="Bibliothèque Bernard Pivot" id="618" weight="94.59154520836988" />
+      <edge source="Les Amis Du Livre" target="Médiathèque de Saint-Vincent-des-Landes" id="619" weight="77.78369414345619" />
+      <edge source="Ludotrot" target="Bibliothèque De Melleran" id="620" weight="68.14981903077458" />
+      <edge source="Ludotrot" target="Point lecture de Cieux" id="621" weight="92.92660611168266" />
+      <edge source="Ludotrot" target="Bibliothèque de Châteauvieux" id="622" weight="97.80327634389202" />
+      <edge source="Ludotrot" target="Bibliotheque Municipale de Tauxigny-Saint-Bauld" id="623" weight="68.40293611221635" />
+      <edge source="Ludotrot" target="Bibliotheque De Chiche" id="624" weight="56.834728517081494" />
+      <edge source="Ludotrot" target="Bibliotheque Intercommunale - Le Blanc" id="625" weight="52.72242042866472" />
+      <edge source="Bibliothèque communale Grignan" target="Bibliothèque de Génolhac" id="626" weight="76.19684690580016" />
+      <edge source="Bibliothèque communale Grignan" target="Réseau du pays de Forcalquier" id="627" weight="86.12721539761634" />
+      <edge source="Bibliothèque communale Grignan" target="Bibliotheque municipale" id="628" weight="85.89097043286759" />
+      <edge source="Bibliothèque communale Grignan" target="Médiathèque de Château-Arnoux" id="629" weight="95.30175041557011" />
+      <edge source="Bibliothèque communale Grignan" target="Bibliothèque de Valliguières" id="630" weight="52.74193998695689" />
+      <edge source="Bibliothèque communale Grignan" target="Médiathèque municipale Buis-les-Baronnies" id="631" weight="33.05871805457173" />
+      <edge source="Bibliothèque communale Grignan" target="Bibliothèque Bibliomotte" id="632" weight="86.74702466411105" />
+      <edge source="Bibliothèque de Génolhac" target="Bibliotheque municipale" id="633" weight="73.50007863089408" />
+      <edge source="Bibliothèque de Génolhac" target="Bibliothèque de Valliguières" id="634" weight="61.914959849062576" />
+      <edge source="Bibliothèque municipale de Bourg-Saint-Bernard" target="Bibliothèque De La Ville-Dieu-Du-Temple" id="635" weight="60.79767057607954" />
+      <edge source="Bibliothèque De Melleran" target="Point lecture de Cieux" id="636" weight="82.47742945561518" />
+      <edge source="Bibliothèque De Melleran" target="Bibliotheque De Chiche" id="637" weight="78.90195646146748" />
+      <edge source="Bibliothèque De Melleran" target="Bibliotheque Intercommunale - Le Blanc" id="638" weight="99.28331434186703" />
+      <edge source="Médiathèque Municipale de Saint Eloi" target="Bibliotheque de Creuzier Le Vieux" id="639" weight="93.04908821189127" />
+      <edge source="Point lecture de Cieux" target="Médiathèque de Nexon" id="640" weight="35.79009075636077" />
+      <edge source="Point lecture de Cieux" target="Bibliotheque Intercommunale - Le Blanc" id="641" weight="72.03066730483877" />
+      <edge source="Point lecture de Cieux" target="Mairie de Troche" id="642" weight="73.52467658355198" />
+      <edge source="Bibliotheque de Creuzier Le Vieux" target="Bibliothèque de Tallende" id="643" weight="60.16270384737518" />
+      <edge source="Bibliotheque de Creuzier Le Vieux" target="Bibliothèque Bernard Pivot" id="644" weight="91.12933386155147" />
+      <edge source="Bibliothèque de Châteauvieux" target="Bibliotheque Municipale de Tauxigny-Saint-Bauld" id="645" weight="41.44254600703131" />
+      <edge source="Bibliothèque de Châteauvieux" target="Bibliotheque Intercommunale - Le Blanc" id="646" weight="70.23708032205369" />
+      <edge source="Réseau du pays de Forcalquier" target="Médiathèque de Château-Arnoux" id="647" weight="21.84013657140225" />
+      <edge source="Réseau du pays de Forcalquier" target="Bibliothèque de Valliguières" id="648" weight="95.53324456580877" />
+      <edge source="Réseau du pays de Forcalquier" target="Médiathèque municipale Buis-les-Baronnies" id="649" weight="53.512906106796066" />
+      <edge source="Réseau du pays de Forcalquier" target="Bibliothèque municipale Bernard-Monge" id="650" weight="73.25911078878484" />
+      <edge source="Bibliothèque de Jaure" target="Médiathèque de Nexon" id="651" weight="85.50517259696815" />
+      <edge source="Bibliothèque de Jaure" target="Bibliothèque de Cadillac" id="652" weight="82.59590111996114" />
+      <edge source="Bibliothèque de Jaure" target="Mairie de Troche" id="653" weight="78.76392516493945" />
+      <edge source="Bibliotheque municipale" target="Bibliothèque Bibliomotte" id="654" weight="63.73737386096428" />
+      <edge source="Médiathèque de Château-Arnoux" target="Médiathèque municipale Buis-les-Baronnies" id="655" weight="62.448186350452914" />
+      <edge source="Médiathèque de Château-Arnoux" target="Bibliothèque municipale Bernard-Monge" id="656" weight="91.7569130883467" />
+      <edge source="Bibliothèque de Valliguières" target="Médiathèque municipale Buis-les-Baronnies" id="657" weight="62.54514521977673" />
+      <edge source="Médiathèque de Nexon" target="Mairie de Troche" id="658" weight="38.34184042909075" />
+      <edge source="Bibliotheque Municipale de Tauxigny-Saint-Bauld" target="Bibliotheque Intercommunale - Le Blanc" id="659" weight="66.08703570585196" />
+      <edge source="Bibliothèque Municipale de Vatilieu" target="Bibliothèque Bibliomotte" id="660" weight="39.49771792749306" />
+      <edge source="Bibliothèque Municipale de Vatilieu" target="Bibliothèque Municipale d'Anthon" id="661" weight="62.06787857955751" />
+      <edge source="Bibliothèque d'Ascain" target="Bibliothèque de Sault-de-Navailles" id="662" weight="79.52969071956679" />
+      <edge source="Bibliothèque Bibliomotte" target="Bibliothèque Municipale d'Anthon" id="663" weight="68.43355951519838" />
+      <edge source="Bibliothèque Municipale d'Anthon" target="Bibliothèque Bernard Pivot" id="664" weight="56.322761038359936" />
+    </edges>
+  </graph>
+</gexf>

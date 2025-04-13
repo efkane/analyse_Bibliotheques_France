@@ -1,0 +1,4606 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "ville": "Caussade",
+      "region": "Occitanie",
+      "latitude": 44.153949,
+      "longitude": 1.527161,
+      "surface": NaN,
+      "id": "Coordination des médiathèques du Quercy Caussadais"
+    },
+    {
+      "ville": "Clessé",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.716557,
+      "longitude": -0.405016,
+      "surface": 10.0,
+      "id": "Bibliothèque De Clessé"
+    },
+    {
+      "ville": "Arnac-la-Poste",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.265565,
+      "longitude": 1.374143,
+      "surface": 72.0,
+      "id": "Bibliothèque de Arnac La Poste"
+    },
+    {
+      "ville": "Saïx",
+      "region": "Occitanie",
+      "latitude": 43.582817,
+      "longitude": 2.18104,
+      "surface": 120.0,
+      "id": "Médiathèque  municipale"
+    },
+    {
+      "ville": "Villars-le-Pautel",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 47.894795,
+      "longitude": 5.934542,
+      "surface": 60.0,
+      "id": "Bibliotheque de Villars le Pautel"
+    },
+    {
+      "ville": "Haimps",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 45.86779,
+      "longitude": -0.263764,
+      "surface": 80.0,
+      "id": "Bibliothèque Municipale"
+    },
+    {
+      "ville": "Saint-Malo",
+      "region": "Bretagne",
+      "latitude": 48.647374,
+      "longitude": -2.006683,
+      "surface": 2678.0,
+      "id": "MEDIATHEQUE"
+    },
+    {
+      "ville": "Colombiers",
+      "region": "Occitanie",
+      "latitude": 43.313358,
+      "longitude": 3.141969,
+      "surface": 285.0,
+      "id": "Médiathèque de Colombiers"
+    },
+    {
+      "ville": "Martigné-Ferchaud",
+      "region": "Bretagne",
+      "latitude": 47.831663,
+      "longitude": -1.320654,
+      "surface": 250.0,
+      "id": "Médiathèque intercommunale"
+    },
+    {
+      "ville": "Magalas",
+      "region": "Occitanie",
+      "latitude": 43.471804,
+      "longitude": 3.224881,
+      "surface": 200.0,
+      "id": "Médiathèque Kalliopê"
+    },
+    {
+      "ville": "Pirey",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 47.256348,
+      "longitude": 5.962757,
+      "surface": 230.0,
+      "id": "Médiathèque Municipale"
+    },
+    {
+      "ville": "Ruffey-lès-Beaune",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 47.019166,
+      "longitude": 4.911014,
+      "surface": 63.0,
+      "id": "Bibliothèque - Foyer Rural"
+    },
+    {
+      "ville": "Rountzenheim-Auenheim",
+      "region": "Grand Est",
+      "latitude": 48.817278,
+      "longitude": 8.009476,
+      "surface": 79.0,
+      "id": "Point lecture de Rountzenheim-Auenheim,"
+    },
+    {
+      "ville": "Torcy-le-Grand",
+      "region": "Normandie",
+      "latitude": 49.791422,
+      "longitude": 1.175162,
+      "surface": NaN,
+      "id": "Bibliothèque de Torcy le Grand"
+    },
+    {
+      "ville": "Rocles",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 46.425338,
+      "longitude": 3.030673,
+      "surface": 0.0,
+      "id": "Mairie de Rocles"
+    },
+    {
+      "ville": "Aigondigné",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.292193,
+      "longitude": -0.289413,
+      "surface": 100.0,
+      "id": "Bibliothèque De Mougon"
+    },
+    {
+      "ville": "Thiolières",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.585536,
+      "longitude": 3.690762,
+      "surface": 60.0,
+      "id": "Ludothèque-Bibliothèque de Thiolières"
+    },
+    {
+      "ville": "Île-de-Sein",
+      "region": "Bretagne",
+      "latitude": 48.038341,
+      "longitude": -4.85049,
+      "surface": NaN,
+      "id": "Bibliothèque Associative Saint-Guénolé"
+    },
+    {
+      "ville": "Chaussenac",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.171786,
+      "longitude": 2.278286,
+      "surface": 30.0,
+      "id": "Médiathèque"
+    },
+    {
+      "ville": "Montrem",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 45.150333,
+      "longitude": 0.574284,
+      "surface": 60.0,
+      "id": "Bibliotheque Charlotte Delbo"
+    },
+    {
+      "ville": "Givenchy-lès-la-Bassée",
+      "region": "Hauts-de-France",
+      "latitude": 50.529143,
+      "longitude": 2.75746,
+      "surface": 122.0,
+      "id": "Bibliothèque municipale"
+    },
+    {
+      "ville": "Plaisance",
+      "region": "Occitanie",
+      "latitude": 43.606648,
+      "longitude": 0.047421,
+      "surface": 160.0,
+      "id": "Plaisance du Gers"
+    },
+    {
+      "ville": "Brinon-sur-Beuvron",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 47.281471,
+      "longitude": 3.490676,
+      "surface": 34.0,
+      "id": "Bibliothèque Municipale de Brinon-sur-Beuvron"
+    },
+    {
+      "ville": "Villedômer",
+      "region": "Centre-Val de Loire",
+      "latitude": 47.545978,
+      "longitude": 0.88831,
+      "surface": 101.0,
+      "id": "Bibliothèque de Villedômer"
+    },
+    {
+      "ville": "Les Hauts d'Anjou",
+      "region": "Pays de la Loire",
+      "latitude": 47.697239,
+      "longitude": -0.535694,
+      "surface": 50.0,
+      "id": "Bibliothèque de Marigné"
+    },
+    {
+      "ville": "Sainte-Colombe-sur-Seine",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 47.87118,
+      "longitude": 4.541831,
+      "surface": 0.0,
+      "id": "Mairie - Bibliothèque"
+    },
+    {
+      "ville": "Rueil-Malmaison",
+      "region": "Île-de-France",
+      "latitude": 48.865725,
+      "longitude": 2.194441,
+      "surface": NaN,
+      "id": "Bibliothèque Les Mazurières"
+    },
+    {
+      "ville": "Aydius",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 43.003337,
+      "longitude": -0.535999,
+      "surface": 30.0,
+      "id": "Bibliothèque d'Aydius"
+    },
+    {
+      "ville": "Ydes",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.346385,
+      "longitude": 2.435707,
+      "surface": 375.0,
+      "id": "Mediatheque Municipale"
+    },
+    {
+      "ville": "Saint-Vran",
+      "region": "Bretagne",
+      "latitude": 48.242323,
+      "longitude": -2.461462,
+      "surface": NaN,
+      "id": "Bibliothèque St-Vran"
+    },
+    {
+      "ville": "Lauzerte",
+      "region": "Occitanie",
+      "latitude": 44.25646,
+      "longitude": 1.138555,
+      "surface": 300.0,
+      "id": "Mediatheque Intercommunale Pierre Sourbie Lauzerte"
+    },
+    {
+      "ville": "Montbard",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 47.622439,
+      "longitude": 4.338739,
+      "surface": 750.0,
+      "id": "Mediathèque Jacques Prévert"
+    },
+    {
+      "ville": "Soucy",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 48.248447,
+      "longitude": 3.325688,
+      "surface": 120.0,
+      "id": "Bibliotheque Municipale"
+    },
+    {
+      "ville": "Bouzonville",
+      "region": "Grand Est",
+      "latitude": 49.291111,
+      "longitude": 6.531954,
+      "surface": 350.0,
+      "id": "Espace Culturel de Bouzonville"
+    },
+    {
+      "ville": "Sars-Poteries",
+      "region": "Hauts-de-France",
+      "latitude": 50.169218,
+      "longitude": 4.026565,
+      "surface": 80.0,
+      "id": "Médiathèque intercommunale  Sars Poteries"
+    },
+    {
+      "ville": "La Digne-d'Aval",
+      "region": "Occitanie",
+      "latitude": 43.046396,
+      "longitude": 2.17921,
+      "surface": 25.0,
+      "id": "Bibliothèque municipale de La Digne-d'Aval"
+    },
+    {
+      "ville": "Saint-Cyr-en-Pail",
+      "region": "Pays de la Loire",
+      "latitude": 48.441145,
+      "longitude": -0.24362,
+      "surface": 35.0,
+      "id": "CCMA - bibliothèque de Saint-Cyr-en-Pail"
+    },
+    {
+      "ville": "Friville-Escarbotin",
+      "region": "Hauts-de-France",
+      "latitude": 50.089871,
+      "longitude": 1.548289,
+      "surface": 442.0,
+      "id": "Bibliotheque Municipale de Friville-Escarbotin"
+    },
+    {
+      "ville": "Le Pizou",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 45.038827,
+      "longitude": 0.072194,
+      "surface": 110.0,
+      "id": "Bibliothèque"
+    },
+    {
+      "ville": "La Hague",
+      "region": "Normandie",
+      "latitude": 49.683818,
+      "longitude": -1.903658,
+      "surface": 220.0,
+      "id": "Bibliothèque de Jobourg"
+    },
+    {
+      "ville": "Nouvion",
+      "region": "Hauts-de-France",
+      "latitude": 50.213496,
+      "longitude": 1.773718,
+      "surface": 157.0,
+      "id": "Médiathèque de Nouvion"
+    },
+    {
+      "ville": "Châtenay-Malabry",
+      "region": "Île-de-France",
+      "latitude": 48.762718,
+      "longitude": 2.260899,
+      "surface": NaN,
+      "id": "Bibliothèque Louis Aragon"
+    },
+    {
+      "ville": "Cossaye",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 46.749234,
+      "longitude": 3.484124,
+      "surface": 40.0,
+      "id": "Bibliothèque Municipale de Cossaye"
+    },
+    {
+      "ville": "La Pesse",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 46.284663,
+      "longitude": 5.847358,
+      "surface": NaN,
+      "id": "Bibliothèque municipale de La Pesse"
+    },
+    {
+      "ville": "Ozouer-le-Voulgis",
+      "region": "Île-de-France",
+      "latitude": 48.659315,
+      "longitude": 2.771173,
+      "surface": 0.0,
+      "id": "Bibliothèque de Ozouer-Le-Voulgis"
+    },
+    {
+      "ville": "Dounoux",
+      "region": "Grand Est",
+      "latitude": 48.107132,
+      "longitude": 6.443536,
+      "surface": 23.0,
+      "id": "Bibliothèque municipale de Dounoux"
+    },
+    {
+      "ville": "Cuttoli-Corticchiato",
+      "region": "Corse",
+      "latitude": 41.968173,
+      "longitude": 8.845931,
+      "surface": 30.0,
+      "id": "Relais lecture de Cuttoli"
+    },
+    {
+      "ville": "La Hague",
+      "region": "Normandie",
+      "latitude": 49.667244,
+      "longitude": -1.831557,
+      "surface": 160.0,
+      "id": "Bibliothèque de Beaumont-Hague"
+    },
+    {
+      "ville": "Louroux-de-Bouble",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 46.226382,
+      "longitude": 2.966805,
+      "surface": 0.0,
+      "id": "Bibliothèque de Louroux de Bouble"
+    },
+    {
+      "ville": "Montmirail",
+      "region": "Grand Est",
+      "latitude": 48.838726,
+      "longitude": 3.584022,
+      "surface": 273.0,
+      "id": "Mediatheque intercommunale de Montmirail"
+    },
+    {
+      "ville": "Chevaigné",
+      "region": "Bretagne",
+      "latitude": 48.212017,
+      "longitude": -1.630248,
+      "surface": 240.0,
+      "id": "Médiathèque de l'Accolade"
+    },
+    {
+      "ville": "Saint-Jean-de-Ceyrargues",
+      "region": "Occitanie",
+      "latitude": 44.050996,
+      "longitude": 4.227185,
+      "surface": 80.0,
+      "id": "Bibliothèque de Saint-Jean de Ceyrargues"
+    },
+    {
+      "ville": "Saint-Méard",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 45.664407,
+      "longitude": 1.548543,
+      "surface": 159.0,
+      "id": "Bibliotheque Saint Meard"
+    },
+    {
+      "ville": "La Ferté-Hauterive",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 46.397247,
+      "longitude": 3.340862,
+      "surface": 0.0,
+      "id": "Mairie de La Ferté-Hauterive"
+    },
+    {
+      "ville": "Saint-Laurent-de-Neste",
+      "region": "Occitanie",
+      "latitude": 43.079769,
+      "longitude": 0.4811,
+      "surface": 165.0,
+      "id": "Médiatheque Maison du Savoir"
+    },
+    {
+      "ville": "Douchy-les-Mines",
+      "region": "Hauts-de-France",
+      "latitude": 50.299953,
+      "longitude": 3.390332,
+      "surface": 1100.0,
+      "id": "Mediatheque Communautaire de Douchy-les-MInes"
+    },
+    {
+      "ville": "Presles-en-Brie",
+      "region": "Île-de-France",
+      "latitude": 48.71574,
+      "longitude": 2.737263,
+      "surface": 326.0,
+      "id": "Médiathèque de Presles-en-Brie"
+    },
+    {
+      "ville": "Chauffailles",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 46.207258,
+      "longitude": 4.33974,
+      "surface": NaN,
+      "id": "Réseau des bibliothèques Brionnais Sud Bourgone"
+    },
+    {
+      "ville": "Ribeauvillé",
+      "region": "Grand Est",
+      "latitude": 48.194617,
+      "longitude": 7.321402,
+      "surface": 500.0,
+      "id": "Médiathèque de Ribeauvillé"
+    },
+    {
+      "ville": "La Couyère",
+      "region": "Bretagne",
+      "latitude": 47.890112,
+      "longitude": -1.505305,
+      "surface": 100.0,
+      "id": "Bibliothèque municipale de La Couyère"
+    },
+    {
+      "ville": "Castillon-Debats",
+      "region": "Occitanie",
+      "latitude": 43.729343,
+      "longitude": 0.217135,
+      "surface": 28.0,
+      "id": "Point lecture de Castillon-Debats"
+    },
+    {
+      "ville": "Saint-Sorlin-en-Valloire",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.288617,
+      "longitude": 4.949756,
+      "surface": 52.0,
+      "id": "Bibliothèque communale St-Sorlin-en-Valloire"
+    },
+    {
+      "ville": "Landéda",
+      "region": "Bretagne",
+      "latitude": 48.586921,
+      "longitude": -4.57161,
+      "surface": 300.0,
+      "id": "Médiathèque Ludothèque"
+    },
+    {
+      "ville": "Lignières-Orgères",
+      "region": "Pays de la Loire",
+      "latitude": 48.553832,
+      "longitude": -0.234069,
+      "surface": 45.0,
+      "id": "CCMA - Bibliothèque de Lignières-Orgères"
+    },
+    {
+      "ville": "Gençay",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.372336,
+      "longitude": 0.405502,
+      "surface": 120.0,
+      "id": "BIBLIOTHEQUE de GENCAY"
+    },
+    {
+      "ville": "Évry-Grégy-sur-Yerre",
+      "region": "Île-de-France",
+      "latitude": 48.655708,
+      "longitude": 2.63901,
+      "surface": 45.0,
+      "id": "Bibliothèque Municipale d'Evry Gregy sur Yerre"
+    },
+    {
+      "ville": "Saint-Égrève",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.224111,
+      "longitude": 5.689893,
+      "surface": 191.0,
+      "id": "Bibliothèque de Fiancey"
+    },
+    {
+      "ville": "Saint-Jean-de-la-Ruelle",
+      "region": "Centre-Val de Loire",
+      "latitude": 47.902535,
+      "longitude": 1.870504,
+      "surface": 128.0,
+      "id": "Bibliotheque Colette Vivier"
+    },
+    {
+      "ville": "Anzin-Saint-Aubin",
+      "region": "Hauts-de-France",
+      "latitude": 50.312263,
+      "longitude": 2.747444,
+      "surface": 400.0,
+      "id": "Médiathèque municipale"
+    },
+    {
+      "ville": "Susville",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 44.927565,
+      "longitude": 5.772834,
+      "surface": 80.0,
+      "id": "Bibliothèque Municipale de Susville"
+    },
+    {
+      "ville": "Treuzy-Levelay",
+      "region": "Île-de-France",
+      "latitude": 48.27314,
+      "longitude": 2.811165,
+      "surface": 0.0,
+      "id": "Bibliotheque de Treuzy-Levelay"
+    },
+    {
+      "ville": "Neuville-de-Poitou",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.681356,
+      "longitude": 0.26241,
+      "surface": 0.0,
+      "id": "Réseau du Haut Poitou"
+    },
+    {
+      "ville": "Maël-Pestivien",
+      "region": "Bretagne",
+      "latitude": 48.395413,
+      "longitude": -3.295143,
+      "surface": NaN,
+      "id": "Bibliothèque de Maël-Pestivien"
+    },
+    {
+      "ville": "Reignac-sur-Indre",
+      "region": "Centre-Val de Loire",
+      "latitude": 47.22781,
+      "longitude": 0.912851,
+      "surface": 42.0,
+      "id": "Bibliothèque de Reignac-sur-Indre"
+    },
+    {
+      "ville": "Pacé",
+      "region": "Normandie",
+      "latitude": 48.445087,
+      "longitude": -0.00084,
+      "surface": 123.0,
+      "id": "Médiathèque de Pacé"
+    },
+    {
+      "ville": "Gondrin",
+      "region": "Occitanie",
+      "latitude": 43.886717,
+      "longitude": 0.237794,
+      "surface": 45.0,
+      "id": "Point Lecture de Gondrin"
+    },
+    {
+      "ville": "Saint-Denis-de-Pile",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 44.992229,
+      "longitude": -0.205337,
+      "surface": 700.0,
+      "id": "Médiathèque de Boma"
+    },
+    {
+      "ville": "Rodome",
+      "region": "Occitanie",
+      "latitude": 42.806537,
+      "longitude": 2.069097,
+      "surface": 0.0,
+      "id": "Bibliothèque municipale de Rodome"
+    },
+    {
+      "ville": "Lalande-en-Son",
+      "region": "Hauts-de-France",
+      "latitude": 49.390508,
+      "longitude": 1.782243,
+      "surface": 200.0,
+      "id": "Bibliothèque Municipale De Lalande En Son"
+    },
+    {
+      "ville": "Castres",
+      "region": "Occitanie",
+      "latitude": 43.60731,
+      "longitude": 2.25219,
+      "surface": 4633.0,
+      "id": "Médiathèque de Castres-Sidobre"
+    },
+    {
+      "ville": "Valserhône",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 46.122378,
+      "longitude": 5.80964,
+      "surface": NaN,
+      "id": "Bibliothèque (Antenne de la Bdp)"
+    },
+    {
+      "ville": "Vénissieux",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.691706,
+      "longitude": 4.872462,
+      "surface": 55.0,
+      "id": "BIBLIOTHEQUE LA PYRAMIDE"
+    },
+    {
+      "ville": "Poitiers",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.589847,
+      "longitude": 0.38292,
+      "surface": 800.0,
+      "id": "Médiathèque de Saint Eloi"
+    },
+    {
+      "ville": "Hèches",
+      "region": "Occitanie",
+      "latitude": 43.018962,
+      "longitude": 0.372487,
+      "surface": 55.0,
+      "id": "Le relais de la Poste"
+    },
+    {
+      "ville": "Le Vigeant",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.225142,
+      "longitude": 0.652187,
+      "surface": 90.0,
+      "id": "Bibliothèque Du Vigeant"
+    },
+    {
+      "ville": "Le Mené",
+      "region": "Bretagne",
+      "latitude": 48.276343,
+      "longitude": -2.619677,
+      "surface": 30.0,
+      "id": "Bibliothèque Municipale Plessala"
+    },
+    {
+      "ville": "Macey",
+      "region": "Grand Est",
+      "latitude": 48.292843,
+      "longitude": 3.914725,
+      "surface": 65.0,
+      "id": "BIBLIOTHEQUE"
+    },
+    {
+      "ville": "Sénergues",
+      "region": "Occitanie",
+      "latitude": 44.599056,
+      "longitude": 2.462014,
+      "surface": 10.0,
+      "id": "Bibliothèque de Sénergues"
+    },
+    {
+      "ville": "Avolsheim",
+      "region": "Grand Est",
+      "latitude": 48.561896,
+      "longitude": 7.509656,
+      "surface": 150.0,
+      "id": "Point lecture d'Avolsheim"
+    },
+    {
+      "ville": "Villaudric",
+      "region": "Occitanie",
+      "latitude": 43.827703,
+      "longitude": 1.428034,
+      "surface": 100.0,
+      "id": "Médiatheque Municipale"
+    },
+    {
+      "ville": "Carrère",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 43.482143,
+      "longitude": -0.274944,
+      "surface": 60.0,
+      "id": "Bibliothèque de Carrère"
+    },
+    {
+      "ville": "Bazainville",
+      "region": "Île-de-France",
+      "latitude": 48.805328,
+      "longitude": 1.672609,
+      "surface": NaN,
+      "id": "Bibliothèque Municipale de Bazainville"
+    },
+    {
+      "ville": "Westhouse",
+      "region": "Grand Est",
+      "latitude": 48.396506,
+      "longitude": 7.589569,
+      "surface": 50.0,
+      "id": "Point lecture de Westhouse"
+    },
+    {
+      "ville": "Breuil-le-Sec",
+      "region": "Hauts-de-France",
+      "latitude": 49.37608,
+      "longitude": 2.452105,
+      "surface": 130.0,
+      "id": "Médiathèque Jacques Prévert"
+    },
+    {
+      "ville": "Chiry-Ourscamp",
+      "region": "Hauts-de-France",
+      "latitude": 49.545443,
+      "longitude": 2.950059,
+      "surface": 100.0,
+      "id": "Bibliothèque Mennechet de Barival"
+    },
+    {
+      "ville": "Bucy-le-Long",
+      "region": "Hauts-de-France",
+      "latitude": 49.390484,
+      "longitude": 3.396492,
+      "surface": 172.0,
+      "id": "Bucy-le-Long"
+    },
+    {
+      "ville": "Ribemont-sur-Ancre",
+      "region": "Hauts-de-France",
+      "latitude": 49.957909,
+      "longitude": 2.558255,
+      "surface": 420.0,
+      "id": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "ville": "Dinard",
+      "region": "Bretagne",
+      "latitude": 48.628696,
+      "longitude": -2.063128,
+      "surface": NaN,
+      "id": "Médiathèque municipale L'ourse"
+    },
+    {
+      "ville": "Barenton",
+      "region": "Normandie",
+      "latitude": 48.59959,
+      "longitude": -0.83177,
+      "surface": 155.0,
+      "id": "Bibliothèque de Barenton"
+    },
+    {
+      "ville": "Marpiré",
+      "region": "Bretagne",
+      "latitude": 48.143565,
+      "longitude": -1.339612,
+      "surface": 100.0,
+      "id": "Bibliothèque De Marpiré"
+    },
+    {
+      "ville": "Saint-Étienne-les-Orgues",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "latitude": 44.043225,
+      "longitude": 5.782134,
+      "surface": 0.0,
+      "id": "Bibliotheque Municipale Saint-Etienne les Orgues"
+    },
+    {
+      "ville": "Villemoisson-sur-Orge",
+      "region": "Île-de-France",
+      "latitude": 48.661947,
+      "longitude": 2.337985,
+      "surface": 390.0,
+      "id": "Médiathèque Andrée Chedid"
+    },
+    {
+      "ville": "Saint-Maurice-en-Rivière",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 46.852087,
+      "longitude": 5.01255,
+      "surface": 46.0,
+      "id": "Relais Lecture"
+    },
+    {
+      "ville": "Plévin",
+      "region": "Bretagne",
+      "latitude": 48.226097,
+      "longitude": -3.505687,
+      "surface": 80.0,
+      "id": "Bibliothèque de Plévin"
+    },
+    {
+      "ville": "Paray-sous-Briailles",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 46.288975,
+      "longitude": 3.367364,
+      "surface": 25.0,
+      "id": "Mairie de Paray-sous-Briailles"
+    },
+    {
+      "ville": "Navour-sur-Grosne",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 46.367898,
+      "longitude": 4.567675,
+      "surface": 60.0,
+      "id": "Bibliothèque de la Noue"
+    },
+    {
+      "ville": "Sigoyer",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "latitude": 44.478387,
+      "longitude": 5.977371,
+      "surface": 120.0,
+      "id": "Bibliothèque de Sigoyer"
+    },
+    {
+      "ville": "Graval",
+      "region": "Normandie",
+      "latitude": 49.730028,
+      "longitude": 1.542181,
+      "surface": NaN,
+      "id": "Bibliothèque de Graval"
+    },
+    {
+      "ville": "Morteaux-Coulibœuf",
+      "region": "Normandie",
+      "latitude": 48.929684,
+      "longitude": -0.081996,
+      "surface": 176.0,
+      "id": "Médiathèque Intercommunale du Pays de Falaise"
+    },
+    {
+      "ville": "Prée-d'Anjou",
+      "region": "Pays de la Loire",
+      "latitude": 47.841939,
+      "longitude": -0.817264,
+      "surface": 35.0,
+      "id": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "ville": "Salvizinet",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.75984,
+      "longitude": 4.274727,
+      "surface": 12.0,
+      "id": "Bibliothèque - Salvizinet"
+    },
+    {
+      "ville": "Saint-Jean-de-Sauves",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.842359,
+      "longitude": 0.09163,
+      "surface": 65.0,
+      "id": "Espace culturel Robert Talbot"
+    },
+    {
+      "ville": "Fleurat",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.23348,
+      "longitude": 1.683618,
+      "surface": 30.0,
+      "id": "Bibliothèque municipale de Fleurat"
+    },
+    {
+      "ville": "Courcôme",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 45.988561,
+      "longitude": 0.149969,
+      "surface": 0.0,
+      "id": "Point lecture"
+    },
+    {
+      "ville": "Lassay-les-Châteaux",
+      "region": "Pays de la Loire",
+      "latitude": 48.43647,
+      "longitude": -0.495277,
+      "surface": 240.0,
+      "id": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "ville": "Rives-en-Seine",
+      "region": "Normandie",
+      "latitude": 49.527652,
+      "longitude": 0.76679,
+      "surface": 100.0,
+      "id": "Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon"
+    },
+    {
+      "ville": "Mont-Saint-Aignan",
+      "region": "Normandie",
+      "latitude": 49.463049,
+      "longitude": 1.071156,
+      "surface": 300.0,
+      "id": "Bibliothèque Marc Sangnier"
+    },
+    {
+      "ville": "Brens",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.71844,
+      "longitude": 5.695925,
+      "surface": 37.0,
+      "id": "Bibliothèque municipale de brens"
+    },
+    {
+      "ville": "La Loupe",
+      "region": "Centre-Val de Loire",
+      "latitude": 48.475526,
+      "longitude": 1.016558,
+      "surface": 394.0,
+      "id": "Bibliothèque de La Loupe"
+    },
+    {
+      "ville": "Taupont",
+      "region": "Bretagne",
+      "latitude": 47.956976,
+      "longitude": -2.437443,
+      "surface": 88.0,
+      "id": "Les Amis Du Livre"
+    },
+    {
+      "ville": "Poitiers",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.68462,
+      "longitude": 0.372276,
+      "surface": 137.0,
+      "id": "Ludotrot"
+    },
+    {
+      "ville": "Grignan",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 44.420271,
+      "longitude": 4.90915,
+      "surface": 98.0,
+      "id": "Bibliothèque communale Grignan"
+    },
+    {
+      "ville": "Génolhac",
+      "region": "Occitanie",
+      "latitude": 44.335894,
+      "longitude": 3.957695,
+      "surface": 50.0,
+      "id": "Bibliothèque de Génolhac"
+    },
+    {
+      "ville": "Bourg-Saint-Bernard",
+      "region": "Occitanie",
+      "latitude": 43.607904,
+      "longitude": 1.692218,
+      "surface": NaN,
+      "id": "Bibliothèque municipale de Bourg-Saint-Bernard"
+    },
+    {
+      "ville": "La Ville-Dieu-du-Temple",
+      "region": "Occitanie",
+      "latitude": 44.03416,
+      "longitude": 1.217608,
+      "surface": 75.0,
+      "id": "Bibliothèque De La Ville-Dieu-Du-Temple"
+    },
+    {
+      "ville": "Melleran",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.129025,
+      "longitude": -0.002959,
+      "surface": 90.0,
+      "id": "Bibliothèque De Melleran"
+    },
+    {
+      "ville": "Saint-Éloi",
+      "region": "Bourgogne-Franche-Comté",
+      "latitude": 46.980922,
+      "longitude": 3.22215,
+      "surface": 150.0,
+      "id": "Médiathèque Municipale de Saint Eloi"
+    },
+    {
+      "ville": "Cieux",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 45.990908,
+      "longitude": 1.047285,
+      "surface": 40.0,
+      "id": "Point lecture de Cieux"
+    },
+    {
+      "ville": "Saint-Vincent-des-Landes",
+      "region": "Pays de la Loire",
+      "latitude": 47.655409,
+      "longitude": -1.497669,
+      "surface": 41.0,
+      "id": "Médiathèque de Saint-Vincent-des-Landes"
+    },
+    {
+      "ville": "Sommevoire",
+      "region": "Grand Est",
+      "latitude": 48.410353,
+      "longitude": 4.839612,
+      "surface": 90.0,
+      "id": "Médiathèque Nicolas-Jenson"
+    },
+    {
+      "ville": "Paris",
+      "region": "Île-de-France",
+      "latitude": 48.849256,
+      "longitude": 2.412159,
+      "surface": 1038.0,
+      "id": "Bibliothèque Assia Djebar"
+    },
+    {
+      "ville": "Osani",
+      "region": "Corse",
+      "latitude": 42.322898,
+      "longitude": 8.631187,
+      "surface": 0.0,
+      "id": "Bibliothèque municipale d'Osani"
+    },
+    {
+      "ville": "Creuzier-le-Vieux",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 46.157005,
+      "longitude": 3.434999,
+      "surface": 80.0,
+      "id": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "ville": "Châteauvieux",
+      "region": "Centre-Val de Loire",
+      "latitude": 47.230601,
+      "longitude": 1.382635,
+      "surface": 60.0,
+      "id": "Bibliothèque de Châteauvieux"
+    },
+    {
+      "ville": "Forcalquier",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "latitude": 43.958374,
+      "longitude": 5.776292,
+      "surface": 300.0,
+      "id": "Réseau du pays de Forcalquier"
+    },
+    {
+      "ville": "Jaure",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 45.053771,
+      "longitude": 0.552229,
+      "surface": 10.0,
+      "id": "Bibliothèque de Jaure"
+    },
+    {
+      "ville": "Saint-Front",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 44.980813,
+      "longitude": 4.161437,
+      "surface": 30.0,
+      "id": "Bibliotheque municipale"
+    },
+    {
+      "ville": "Tallende",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.659406,
+      "longitude": 3.129663,
+      "surface": 65.0,
+      "id": "Bibliothèque de Tallende"
+    },
+    {
+      "ville": "Château-Arnoux-Saint-Auban",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "latitude": 44.069939,
+      "longitude": 6.001068,
+      "surface": 727.0,
+      "id": "Médiathèque de Château-Arnoux"
+    },
+    {
+      "ville": "Valliguières",
+      "region": "Occitanie",
+      "latitude": 44.007075,
+      "longitude": 4.58419,
+      "surface": 40.0,
+      "id": "Bibliothèque de Valliguières"
+    },
+    {
+      "ville": "Céret",
+      "region": "Occitanie",
+      "latitude": 42.484995,
+      "longitude": 2.747302,
+      "surface": 1075.0,
+      "id": "Mediatheque Ludovic Massé"
+    },
+    {
+      "ville": "Buis-les-Baronnies",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 44.275969,
+      "longitude": 5.272643,
+      "surface": 160.0,
+      "id": "Médiathèque municipale Buis-les-Baronnies"
+    },
+    {
+      "ville": "Allauch",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "latitude": 43.334699,
+      "longitude": 5.48283,
+      "surface": 562.0,
+      "id": "Bibliothèque municipale Bernard-Monge"
+    },
+    {
+      "ville": "Nexon",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 45.682932,
+      "longitude": 1.181545,
+      "surface": 450.0,
+      "id": "Médiathèque de Nexon"
+    },
+    {
+      "ville": "Tauxigny-Saint-Bauld",
+      "region": "Centre-Val de Loire",
+      "latitude": 47.212693,
+      "longitude": 0.834503,
+      "surface": 100.0,
+      "id": "Bibliotheque Municipale de Tauxigny-Saint-Bauld"
+    },
+    {
+      "ville": "Staple",
+      "region": "Hauts-de-France",
+      "latitude": 50.749402,
+      "longitude": 2.455335,
+      "surface": 34.0,
+      "id": "Bibliotheque Municipale De Staple"
+    },
+    {
+      "ville": "Cadillac",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 44.638322,
+      "longitude": -0.316264,
+      "surface": 35.0,
+      "id": "Bibliothèque de Cadillac"
+    },
+    {
+      "ville": "Chiché",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 46.795702,
+      "longitude": -0.355735,
+      "surface": 105.0,
+      "id": "Bibliotheque De Chiche"
+    },
+    {
+      "ville": "Vatilieu",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.256252,
+      "longitude": 5.409503,
+      "surface": 36.0,
+      "id": "Bibliothèque Municipale de Vatilieu"
+    },
+    {
+      "ville": "Le Blanc",
+      "region": "Centre-Val de Loire",
+      "latitude": 46.638636,
+      "longitude": 1.059885,
+      "surface": 382.0,
+      "id": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "ville": "Ascain",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 43.346884,
+      "longitude": -1.624425,
+      "surface": 82.0,
+      "id": "Bibliothèque d'Ascain"
+    },
+    {
+      "ville": "Saint-Jean-de-Galaure",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.200403,
+      "longitude": 4.911417,
+      "surface": 45.0,
+      "id": "Bibliothèque Bibliomotte"
+    },
+    {
+      "ville": "Anthon",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.788582,
+      "longitude": 5.169818,
+      "surface": 162.0,
+      "id": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "ville": "Sainte-Foy",
+      "region": "Pays de la Loire",
+      "latitude": 46.546023,
+      "longitude": -1.671717,
+      "surface": 118.0,
+      "id": "Bibliothèque Page à Page"
+    },
+    {
+      "ville": "Sault-de-Navailles",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 43.546153,
+      "longitude": -0.678287,
+      "surface": 80.0,
+      "id": "Bibliothèque de Sault-de-Navailles"
+    },
+    {
+      "ville": "Troche",
+      "region": "Nouvelle-Aquitaine",
+      "latitude": 45.388742,
+      "longitude": 1.438322,
+      "surface": 50.0,
+      "id": "Mairie de Troche"
+    },
+    {
+      "ville": "Aschbach",
+      "region": "Grand Est",
+      "latitude": 48.934459,
+      "longitude": 7.987216,
+      "surface": NaN,
+      "id": "Point lecture d'Aschbach"
+    },
+    {
+      "ville": "Quincié-en-Beaujolais",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 46.11801,
+      "longitude": 4.616394,
+      "surface": 140.0,
+      "id": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "ville": "Arcis-le-Ponsart",
+      "region": "Grand Est",
+      "latitude": 49.234732,
+      "longitude": 3.694489,
+      "surface": NaN,
+      "id": "Bibliothèque de Arcis le Ponsart"
+    }
+  ],
+  "links": [
+    {
+      "weight": 82.34480283663277,
+      "source": "Coordination des médiathèques du Quercy Caussadais",
+      "target": "Médiathèque  municipale"
+    },
+    {
+      "weight": 33.0064326451334,
+      "source": "Coordination des médiathèques du Quercy Caussadais",
+      "target": "Mediatheque Intercommunale Pierre Sourbie Lauzerte"
+    },
+    {
+      "weight": 84.0906380704495,
+      "source": "Coordination des médiathèques du Quercy Caussadais",
+      "target": "Médiathèque de Castres-Sidobre"
+    },
+    {
+      "weight": 89.2745831994485,
+      "source": "Coordination des médiathèques du Quercy Caussadais",
+      "target": "Bibliothèque de Sénergues"
+    },
+    {
+      "weight": 37.13358284707497,
+      "source": "Coordination des médiathèques du Quercy Caussadais",
+      "target": "Médiatheque Municipale"
+    },
+    {
+      "weight": 62.141897340433914,
+      "source": "Coordination des médiathèques du Quercy Caussadais",
+      "target": "Bibliothèque municipale de Bourg-Saint-Bernard"
+    },
+    {
+      "weight": 28.081036464429623,
+      "source": "Coordination des médiathèques du Quercy Caussadais",
+      "target": "Bibliothèque De La Ville-Dieu-Du-Temple"
+    },
+    {
+      "weight": 95.00062251987994,
+      "source": "Bibliothèque De Clessé",
+      "target": "Bibliothèque Municipale"
+    },
+    {
+      "weight": 48.00949485234863,
+      "source": "Bibliothèque De Clessé",
+      "target": "Bibliothèque De Mougon"
+    },
+    {
+      "weight": 72.85198815006554,
+      "source": "Bibliothèque De Clessé",
+      "target": "BIBLIOTHEQUE de GENCAY"
+    },
+    {
+      "weight": 51.048766948252904,
+      "source": "Bibliothèque De Clessé",
+      "target": "Réseau du Haut Poitou"
+    },
+    {
+      "weight": 61.767869350419076,
+      "source": "Bibliothèque De Clessé",
+      "target": "Médiathèque de Saint Eloi"
+    },
+    {
+      "weight": 97.67627586240485,
+      "source": "Bibliothèque De Clessé",
+      "target": "Bibliothèque Du Vigeant"
+    },
+    {
+      "weight": 40.32237358789411,
+      "source": "Bibliothèque De Clessé",
+      "target": "Espace culturel Robert Talbot"
+    },
+    {
+      "weight": 91.47138283701446,
+      "source": "Bibliothèque De Clessé",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 59.3813915984721,
+      "source": "Bibliothèque De Clessé",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 72.23429574057279,
+      "source": "Bibliothèque De Clessé",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 9.567848886088957,
+      "source": "Bibliothèque De Clessé",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 98.56114462618176,
+      "source": "Bibliothèque De Clessé",
+      "target": "Bibliothèque Page à Page"
+    },
+    {
+      "weight": 68.19131864971426,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Bibliotheque Saint Meard"
+    },
+    {
+      "weight": 75.32884777942658,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "BIBLIOTHEQUE de GENCAY"
+    },
+    {
+      "weight": 96.87803295621762,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Réseau du Haut Poitou"
+    },
+    {
+      "weight": 84.09291445456728,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Médiathèque de Saint Eloi"
+    },
+    {
+      "weight": 55.699419042060335,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Bibliothèque Du Vigeant"
+    },
+    {
+      "weight": 24.062561595374458,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Bibliothèque municipale de Fleurat"
+    },
+    {
+      "weight": 99.24063967234527,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 89.76069204824537,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 39.5877661175155,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 66.47354334535292,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Médiathèque de Nexon"
+    },
+    {
+      "weight": 47.96342681119221,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 97.62512808532225,
+      "source": "Bibliothèque de Arnac La Poste",
+      "target": "Mairie de Troche"
+    },
+    {
+      "weight": 83.15803188510064,
+      "source": "Médiathèque  municipale",
+      "target": "Médiathèque de Colombiers"
+    },
+    {
+      "weight": 85.05600817792521,
+      "source": "Médiathèque  municipale",
+      "target": "Médiathèque Kalliopê"
+    },
+    {
+      "weight": 59.647559881923186,
+      "source": "Médiathèque  municipale",
+      "target": "Bibliothèque municipale de La Digne-d'Aval"
+    },
+    {
+      "weight": 86.79418633295502,
+      "source": "Médiathèque  municipale",
+      "target": "Bibliothèque municipale de Rodome"
+    },
+    {
+      "weight": 6.34411568104756,
+      "source": "Médiathèque  municipale",
+      "target": "Médiathèque de Castres-Sidobre"
+    },
+    {
+      "weight": 66.37175214336156,
+      "source": "Médiathèque  municipale",
+      "target": "Médiatheque Municipale"
+    },
+    {
+      "weight": 39.46376523953671,
+      "source": "Médiathèque  municipale",
+      "target": "Bibliothèque municipale de Bourg-Saint-Bernard"
+    },
+    {
+      "weight": 92.17082043691849,
+      "source": "Médiathèque  municipale",
+      "target": "Bibliothèque De La Ville-Dieu-Du-Temple"
+    },
+    {
+      "weight": 71.02370733785267,
+      "source": "Bibliotheque de Villars le Pautel",
+      "target": "Médiathèque Municipale"
+    },
+    {
+      "weight": 44.627715573009425,
+      "source": "Bibliotheque de Villars le Pautel",
+      "target": "Bibliothèque municipale de Dounoux"
+    },
+    {
+      "weight": 99.41720813528352,
+      "source": "Bibliotheque de Villars le Pautel",
+      "target": "Médiathèque Nicolas-Jenson"
+    },
+    {
+      "weight": 47.23297367371817,
+      "source": "Bibliothèque Municipale",
+      "target": "Bibliothèque De Mougon"
+    },
+    {
+      "weight": 95.82903704786312,
+      "source": "Bibliothèque Municipale",
+      "target": "Bibliothèque"
+    },
+    {
+      "weight": 76.21236325516155,
+      "source": "Bibliothèque Municipale",
+      "target": "BIBLIOTHEQUE de GENCAY"
+    },
+    {
+      "weight": 99.091746631035,
+      "source": "Bibliothèque Municipale",
+      "target": "Réseau du Haut Poitou"
+    },
+    {
+      "weight": 97.46476616857386,
+      "source": "Bibliothèque Municipale",
+      "target": "Médiathèque de Boma"
+    },
+    {
+      "weight": 94.44957730935668,
+      "source": "Bibliothèque Municipale",
+      "target": "Médiathèque de Saint Eloi"
+    },
+    {
+      "weight": 81.09269474039337,
+      "source": "Bibliothèque Municipale",
+      "target": "Bibliothèque Du Vigeant"
+    },
+    {
+      "weight": 34.70289892031042,
+      "source": "Bibliothèque Municipale",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 35.3502522772439,
+      "source": "Bibliothèque Municipale",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 56.158586495698685,
+      "source": "MEDIATHEQUE",
+      "target": "Bibliothèque St-Vran"
+    },
+    {
+      "weight": 55.81104314987026,
+      "source": "MEDIATHEQUE",
+      "target": "Médiathèque de l'Accolade"
+    },
+    {
+      "weight": 92.01803376475571,
+      "source": "MEDIATHEQUE",
+      "target": "Bibliothèque municipale de La Couyère"
+    },
+    {
+      "weight": 98.94184082933388,
+      "source": "MEDIATHEQUE",
+      "target": "Bibliothèque de Maël-Pestivien"
+    },
+    {
+      "weight": 61.19696205903064,
+      "source": "MEDIATHEQUE",
+      "target": "Bibliothèque Municipale Plessala"
+    },
+    {
+      "weight": 4.638488073205693,
+      "source": "MEDIATHEQUE",
+      "target": "Médiathèque municipale L'ourse"
+    },
+    {
+      "weight": 86.51906011545718,
+      "source": "MEDIATHEQUE",
+      "target": "Bibliothèque de Barenton"
+    },
+    {
+      "weight": 74.59185079933381,
+      "source": "MEDIATHEQUE",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 83.11793137483637,
+      "source": "MEDIATHEQUE",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 18.84915175560608,
+      "source": "Médiathèque de Colombiers",
+      "target": "Médiathèque Kalliopê"
+    },
+    {
+      "weight": 83.51763129144281,
+      "source": "Médiathèque de Colombiers",
+      "target": "Bibliothèque municipale de La Digne-d'Aval"
+    },
+    {
+      "weight": 78.90295540530153,
+      "source": "Médiathèque de Colombiers",
+      "target": "Médiathèque de Castres-Sidobre"
+    },
+    {
+      "weight": 97.55852293588825,
+      "source": "Médiathèque de Colombiers",
+      "target": "Mediatheque Ludovic Massé"
+    },
+    {
+      "weight": 60.54416203014345,
+      "source": "Médiathèque intercommunale",
+      "target": "Bibliothèque de Marigné"
+    },
+    {
+      "weight": 96.32897201638154,
+      "source": "Médiathèque intercommunale",
+      "target": "Bibliothèque St-Vran"
+    },
+    {
+      "weight": 48.154891994002334,
+      "source": "Médiathèque intercommunale",
+      "target": "Médiathèque de l'Accolade"
+    },
+    {
+      "weight": 15.231947759741505,
+      "source": "Médiathèque intercommunale",
+      "target": "Bibliothèque municipale de La Couyère"
+    },
+    {
+      "weight": 92.75442838152792,
+      "source": "Médiathèque intercommunale",
+      "target": "Bibliothèque de Barenton"
+    },
+    {
+      "weight": 34.71065379189698,
+      "source": "Médiathèque intercommunale",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 37.58988109191601,
+      "source": "Médiathèque intercommunale",
+      "target": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "weight": 90.96335720974602,
+      "source": "Médiathèque intercommunale",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 84.42078045431134,
+      "source": "Médiathèque intercommunale",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 23.649407748246574,
+      "source": "Médiathèque intercommunale",
+      "target": "Médiathèque de Saint-Vincent-des-Landes"
+    },
+    {
+      "weight": 96.9931765392529,
+      "source": "Médiathèque Kalliopê",
+      "target": "Bibliothèque municipale de La Digne-d'Aval"
+    },
+    {
+      "weight": 79.83815723424105,
+      "source": "Médiathèque Kalliopê",
+      "target": "Médiathèque de Castres-Sidobre"
+    },
+    {
+      "weight": 83.80984356051367,
+      "source": "Médiathèque Municipale",
+      "target": "Bibliothèque - Foyer Rural"
+    },
+    {
+      "weight": 84.86721083631764,
+      "source": "Médiathèque Municipale",
+      "target": "Relais Lecture"
+    },
+    {
+      "weight": 98.72351044351133,
+      "source": "Bibliothèque - Foyer Rural",
+      "target": "Mairie - Bibliothèque"
+    },
+    {
+      "weight": 79.75328188225987,
+      "source": "Bibliothèque - Foyer Rural",
+      "target": "Mediathèque Jacques Prévert"
+    },
+    {
+      "weight": 20.114367141037985,
+      "source": "Bibliothèque - Foyer Rural",
+      "target": "Relais Lecture"
+    },
+    {
+      "weight": 77.00657573961912,
+      "source": "Bibliothèque - Foyer Rural",
+      "target": "Bibliothèque de la Noue"
+    },
+    {
+      "weight": 85.80920103488484,
+      "source": "Point lecture de Rountzenheim-Auenheim,",
+      "target": "Médiathèque de Ribeauvillé"
+    },
+    {
+      "weight": 46.3945902303549,
+      "source": "Point lecture de Rountzenheim-Auenheim,",
+      "target": "Point lecture d'Avolsheim"
+    },
+    {
+      "weight": 56.0557332408086,
+      "source": "Point lecture de Rountzenheim-Auenheim,",
+      "target": "Point lecture de Westhouse"
+    },
+    {
+      "weight": 13.131250570255354,
+      "source": "Point lecture de Rountzenheim-Auenheim,",
+      "target": "Point lecture d'Aschbach"
+    },
+    {
+      "weight": 42.594677819072196,
+      "source": "Bibliothèque de Torcy le Grand",
+      "target": "Bibliotheque Municipale de Friville-Escarbotin"
+    },
+    {
+      "weight": 63.50351378992121,
+      "source": "Bibliothèque de Torcy le Grand",
+      "target": "Médiathèque de Nouvion"
+    },
+    {
+      "weight": 62.46720452052233,
+      "source": "Bibliothèque de Torcy le Grand",
+      "target": "Bibliothèque Municipale De Lalande En Son"
+    },
+    {
+      "weight": 27.232464969831966,
+      "source": "Bibliothèque de Torcy le Grand",
+      "target": "Bibliothèque de Graval"
+    },
+    {
+      "weight": 41.524344564230844,
+      "source": "Bibliothèque de Torcy le Grand",
+      "target": "Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon"
+    },
+    {
+      "weight": 37.274006312213025,
+      "source": "Bibliothèque de Torcy le Grand",
+      "target": "Bibliothèque Marc Sangnier"
+    },
+    {
+      "weight": 49.97878568354251,
+      "source": "Mairie de Rocles",
+      "target": "Bibliothèque Municipale de Cossaye"
+    },
+    {
+      "weight": 22.65998660959862,
+      "source": "Mairie de Rocles",
+      "target": "Bibliothèque de Louroux de Bouble"
+    },
+    {
+      "weight": 23.98532637529739,
+      "source": "Mairie de Rocles",
+      "target": "Mairie de La Ferté-Hauterive"
+    },
+    {
+      "weight": 29.958962375286106,
+      "source": "Mairie de Rocles",
+      "target": "Mairie de Paray-sous-Briailles"
+    },
+    {
+      "weight": 63.480171270685815,
+      "source": "Mairie de Rocles",
+      "target": "Médiathèque Municipale de Saint Eloi"
+    },
+    {
+      "weight": 43.07410660582869,
+      "source": "Mairie de Rocles",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 85.50987042409973,
+      "source": "Mairie de Rocles",
+      "target": "Bibliothèque de Tallende"
+    },
+    {
+      "weight": 54.09272014427564,
+      "source": "Bibliothèque De Mougon",
+      "target": "BIBLIOTHEQUE de GENCAY"
+    },
+    {
+      "weight": 60.47632305744555,
+      "source": "Bibliothèque De Mougon",
+      "target": "Réseau du Haut Poitou"
+    },
+    {
+      "weight": 61.232689361878855,
+      "source": "Bibliothèque De Mougon",
+      "target": "Médiathèque de Saint Eloi"
+    },
+    {
+      "weight": 72.77335572844007,
+      "source": "Bibliothèque De Mougon",
+      "target": "Bibliothèque Du Vigeant"
+    },
+    {
+      "weight": 67.75672173663169,
+      "source": "Bibliothèque De Mougon",
+      "target": "Espace culturel Robert Talbot"
+    },
+    {
+      "weight": 47.811046436052514,
+      "source": "Bibliothèque De Mougon",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 66.85975127609878,
+      "source": "Bibliothèque De Mougon",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 28.54885451295073,
+      "source": "Bibliothèque De Mougon",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 56.21701350096198,
+      "source": "Bibliothèque De Mougon",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 90.63877432779421,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "Bibliothèque de Louroux de Bouble"
+    },
+    {
+      "weight": 94.2188861972276,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "Mairie de La Ferté-Hauterive"
+    },
+    {
+      "weight": 85.44868019986977,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "Réseau des bibliothèques Brionnais Sud Bourgone"
+    },
+    {
+      "weight": 92.62644498471731,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "BIBLIOTHEQUE LA PYRAMIDE"
+    },
+    {
+      "weight": 82.11937603246325,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "Mairie de Paray-sous-Briailles"
+    },
+    {
+      "weight": 49.33915217281467,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "Bibliothèque - Salvizinet"
+    },
+    {
+      "weight": 66.55826422398883,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 76.66479933141356,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "Bibliotheque municipale"
+    },
+    {
+      "weight": 44.40179593165293,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "Bibliothèque de Tallende"
+    },
+    {
+      "weight": 92.97752346230948,
+      "source": "Ludothèque-Bibliothèque de Thiolières",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 64.39137578396095,
+      "source": "Bibliothèque Associative Saint-Guénolé",
+      "target": "Médiathèque Ludothèque"
+    },
+    {
+      "weight": 22.994378184731623,
+      "source": "Médiathèque",
+      "target": "Mediatheque Municipale"
+    },
+    {
+      "weight": 79.02236883916048,
+      "source": "Médiathèque",
+      "target": "Bibliotheque Saint Meard"
+    },
+    {
+      "weight": 65.30896840955988,
+      "source": "Médiathèque",
+      "target": "Bibliothèque de Sénergues"
+    },
+    {
+      "weight": 85.76630427338954,
+      "source": "Médiathèque",
+      "target": "Bibliothèque de Tallende"
+    },
+    {
+      "weight": 70.00732231316822,
+      "source": "Médiathèque",
+      "target": "Mairie de Troche"
+    },
+    {
+      "weight": 41.31672676905437,
+      "source": "Bibliotheque Charlotte Delbo",
+      "target": "Bibliothèque"
+    },
+    {
+      "weight": 95.1413748126245,
+      "source": "Bibliotheque Charlotte Delbo",
+      "target": "Bibliotheque Saint Meard"
+    },
+    {
+      "weight": 63.69663814204111,
+      "source": "Bibliotheque Charlotte Delbo",
+      "target": "Médiathèque de Boma"
+    },
+    {
+      "weight": 98.88561763476639,
+      "source": "Bibliotheque Charlotte Delbo",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 10.875859284586564,
+      "source": "Bibliotheque Charlotte Delbo",
+      "target": "Bibliothèque de Jaure"
+    },
+    {
+      "weight": 75.85403816289501,
+      "source": "Bibliotheque Charlotte Delbo",
+      "target": "Médiathèque de Nexon"
+    },
+    {
+      "weight": 90.34497963455982,
+      "source": "Bibliotheque Charlotte Delbo",
+      "target": "Bibliothèque de Cadillac"
+    },
+    {
+      "weight": 72.62681549627541,
+      "source": "Bibliotheque Charlotte Delbo",
+      "target": "Mairie de Troche"
+    },
+    {
+      "weight": 98.54011408365817,
+      "source": "Bibliothèque municipale",
+      "target": "Médiathèque intercommunale  Sars Poteries"
+    },
+    {
+      "weight": 98.78622553444701,
+      "source": "Bibliothèque municipale",
+      "target": "Bibliotheque Municipale de Friville-Escarbotin"
+    },
+    {
+      "weight": 78.09845769329041,
+      "source": "Bibliothèque municipale",
+      "target": "Médiathèque de Nouvion"
+    },
+    {
+      "weight": 51.57868183413623,
+      "source": "Bibliothèque municipale",
+      "target": "Mediatheque Communautaire de Douchy-les-MInes"
+    },
+    {
+      "weight": 24.126426710932854,
+      "source": "Bibliothèque municipale",
+      "target": "Médiathèque municipale"
+    },
+    {
+      "weight": 65.07881356747536,
+      "source": "Bibliothèque municipale",
+      "target": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "weight": 32.4619772396614,
+      "source": "Bibliothèque municipale",
+      "target": "Bibliotheque Municipale De Staple"
+    },
+    {
+      "weight": 82.03081105601798,
+      "source": "Plaisance du Gers",
+      "target": "Bibliothèque d'Aydius"
+    },
+    {
+      "weight": 68.28074446447772,
+      "source": "Plaisance du Gers",
+      "target": "Médiatheque Maison du Savoir"
+    },
+    {
+      "weight": 19.299577707000857,
+      "source": "Plaisance du Gers",
+      "target": "Point lecture de Castillon-Debats"
+    },
+    {
+      "weight": 34.69428266408005,
+      "source": "Plaisance du Gers",
+      "target": "Point Lecture de Gondrin"
+    },
+    {
+      "weight": 70.44159918821914,
+      "source": "Plaisance du Gers",
+      "target": "Le relais de la Poste"
+    },
+    {
+      "weight": 29.44043503570811,
+      "source": "Plaisance du Gers",
+      "target": "Bibliothèque de Carrère"
+    },
+    {
+      "weight": 58.84562153649732,
+      "source": "Plaisance du Gers",
+      "target": "Bibliothèque de Sault-de-Navailles"
+    },
+    {
+      "weight": 74.18604411971577,
+      "source": "Bibliothèque Municipale de Brinon-sur-Beuvron",
+      "target": "Mediathèque Jacques Prévert"
+    },
+    {
+      "weight": 59.18422037911785,
+      "source": "Bibliothèque Municipale de Brinon-sur-Beuvron",
+      "target": "Bibliothèque Municipale de Cossaye"
+    },
+    {
+      "weight": 98.97944029048675,
+      "source": "Bibliothèque Municipale de Brinon-sur-Beuvron",
+      "target": "Mairie de La Ferté-Hauterive"
+    },
+    {
+      "weight": 39.108878486962624,
+      "source": "Bibliothèque Municipale de Brinon-sur-Beuvron",
+      "target": "Médiathèque Municipale de Saint Eloi"
+    },
+    {
+      "weight": 83.48322525944367,
+      "source": "Bibliothèque de Villedômer",
+      "target": "Bibliotheque Colette Vivier"
+    },
+    {
+      "weight": 35.42692404584269,
+      "source": "Bibliothèque de Villedômer",
+      "target": "Bibliothèque de Reignac-sur-Indre"
+    },
+    {
+      "weight": 98.71516747310295,
+      "source": "Bibliothèque de Villedômer",
+      "target": "Espace culturel Robert Talbot"
+    },
+    {
+      "weight": 51.13350473612468,
+      "source": "Bibliothèque de Villedômer",
+      "target": "Bibliothèque de Châteauvieux"
+    },
+    {
+      "weight": 37.28044199066363,
+      "source": "Bibliothèque de Villedômer",
+      "target": "Bibliotheque Municipale de Tauxigny-Saint-Bauld"
+    },
+    {
+      "weight": 85.51806933965858,
+      "source": "Bibliothèque de Marigné",
+      "target": "CCMA - bibliothèque de Saint-Cyr-en-Pail"
+    },
+    {
+      "weight": 99.60020735141416,
+      "source": "Bibliothèque de Marigné",
+      "target": "Médiathèque de l'Accolade"
+    },
+    {
+      "weight": 75.53883259736389,
+      "source": "Bibliothèque de Marigné",
+      "target": "Bibliothèque municipale de La Couyère"
+    },
+    {
+      "weight": 97.84432206690975,
+      "source": "Bibliothèque de Marigné",
+      "target": "CCMA - Bibliothèque de Lignières-Orgères"
+    },
+    {
+      "weight": 92.16438835019802,
+      "source": "Bibliothèque de Marigné",
+      "target": "Médiathèque de Pacé"
+    },
+    {
+      "weight": 77.7932571540349,
+      "source": "Bibliothèque de Marigné",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 26.48974167896662,
+      "source": "Bibliothèque de Marigné",
+      "target": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "weight": 82.25369385199998,
+      "source": "Bibliothèque de Marigné",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 72.1723072329162,
+      "source": "Bibliothèque de Marigné",
+      "target": "Médiathèque de Saint-Vincent-des-Landes"
+    },
+    {
+      "weight": 31.552916453699574,
+      "source": "Mairie - Bibliothèque",
+      "target": "Mediathèque Jacques Prévert"
+    },
+    {
+      "weight": 99.64052979141573,
+      "source": "Mairie - Bibliothèque",
+      "target": "Bibliotheque Municipale"
+    },
+    {
+      "weight": 66.09447865979556,
+      "source": "Mairie - Bibliothèque",
+      "target": "BIBLIOTHEQUE"
+    },
+    {
+      "weight": 63.89527034952654,
+      "source": "Mairie - Bibliothèque",
+      "target": "Médiathèque Nicolas-Jenson"
+    },
+    {
+      "weight": 12.44472145631845,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Bibliothèque Louis Aragon"
+    },
+    {
+      "weight": 48.10182406739389,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Bibliothèque de Ozouer-Le-Voulgis"
+    },
+    {
+      "weight": 43.12085186243735,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Médiathèque de Presles-en-Brie"
+    },
+    {
+      "weight": 40.090702848101685,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Bibliothèque Municipale d'Evry Gregy sur Yerre"
+    },
+    {
+      "weight": 80.00555951509193,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Bibliotheque de Treuzy-Levelay"
+    },
+    {
+      "weight": 65.60968697206316,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Bibliothèque Municipale De Lalande En Son"
+    },
+    {
+      "weight": 38.77934951980207,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Bibliothèque Municipale de Bazainville"
+    },
+    {
+      "weight": 59.76650584142948,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Médiathèque Jacques Prévert"
+    },
+    {
+      "weight": 93.41185710401255,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Bibliothèque Mennechet de Barival"
+    },
+    {
+      "weight": 24.98259068933139,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 96.76498411081803,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Bibliothèque de La Loupe"
+    },
+    {
+      "weight": 16.03296098611514,
+      "source": "Bibliothèque Les Mazurières",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 83.09276764111344,
+      "source": "Bibliothèque d'Aydius",
+      "target": "Médiatheque Maison du Savoir"
+    },
+    {
+      "weight": 73.88740777416432,
+      "source": "Bibliothèque d'Aydius",
+      "target": "Le relais de la Poste"
+    },
+    {
+      "weight": 57.28630709830806,
+      "source": "Bibliothèque d'Aydius",
+      "target": "Bibliothèque de Carrère"
+    },
+    {
+      "weight": 96.1725619866776,
+      "source": "Bibliothèque d'Aydius",
+      "target": "Bibliothèque d'Ascain"
+    },
+    {
+      "weight": 61.44784546676825,
+      "source": "Bibliothèque d'Aydius",
+      "target": "Bibliothèque de Sault-de-Navailles"
+    },
+    {
+      "weight": 77.65508149361068,
+      "source": "Mediatheque Municipale",
+      "target": "Bibliotheque Saint Meard"
+    },
+    {
+      "weight": 83.12507001269793,
+      "source": "Mediatheque Municipale",
+      "target": "Bibliothèque de Sénergues"
+    },
+    {
+      "weight": 64.31451440374035,
+      "source": "Mediatheque Municipale",
+      "target": "Bibliothèque de Tallende"
+    },
+    {
+      "weight": 78.05820610202431,
+      "source": "Mediatheque Municipale",
+      "target": "Mairie de Troche"
+    },
+    {
+      "weight": 61.66469859207406,
+      "source": "Bibliothèque St-Vran",
+      "target": "Médiathèque de l'Accolade"
+    },
+    {
+      "weight": 81.12874531156832,
+      "source": "Bibliothèque St-Vran",
+      "target": "Bibliothèque municipale de La Couyère"
+    },
+    {
+      "weight": 63.951698522710956,
+      "source": "Bibliothèque St-Vran",
+      "target": "Bibliothèque de Maël-Pestivien"
+    },
+    {
+      "weight": 12.30826885643423,
+      "source": "Bibliothèque St-Vran",
+      "target": "Bibliothèque Municipale Plessala"
+    },
+    {
+      "weight": 52.051465285989366,
+      "source": "Bibliothèque St-Vran",
+      "target": "Médiathèque municipale L'ourse"
+    },
+    {
+      "weight": 83.8786750369607,
+      "source": "Bibliothèque St-Vran",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 77.36162266216168,
+      "source": "Bibliothèque St-Vran",
+      "target": "Bibliothèque de Plévin"
+    },
+    {
+      "weight": 31.77927662283683,
+      "source": "Bibliothèque St-Vran",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 97.01224124991151,
+      "source": "Bibliothèque St-Vran",
+      "target": "Médiathèque de Saint-Vincent-des-Landes"
+    },
+    {
+      "weight": 94.17268975122144,
+      "source": "Mediatheque Intercommunale Pierre Sourbie Lauzerte",
+      "target": "Point lecture de Castillon-Debats"
+    },
+    {
+      "weight": 82.87804105720433,
+      "source": "Mediatheque Intercommunale Pierre Sourbie Lauzerte",
+      "target": "Point Lecture de Gondrin"
+    },
+    {
+      "weight": 52.993706677288344,
+      "source": "Mediatheque Intercommunale Pierre Sourbie Lauzerte",
+      "target": "Médiatheque Municipale"
+    },
+    {
+      "weight": 84.65451101162448,
+      "source": "Mediatheque Intercommunale Pierre Sourbie Lauzerte",
+      "target": "Bibliothèque municipale de Bourg-Saint-Bernard"
+    },
+    {
+      "weight": 25.510771626882345,
+      "source": "Mediatheque Intercommunale Pierre Sourbie Lauzerte",
+      "target": "Bibliothèque De La Ville-Dieu-Du-Temple"
+    },
+    {
+      "weight": 80.95633150309763,
+      "source": "Mediathèque Jacques Prévert",
+      "target": "BIBLIOTHEQUE"
+    },
+    {
+      "weight": 99.62526266671229,
+      "source": "Mediathèque Jacques Prévert",
+      "target": "Relais Lecture"
+    },
+    {
+      "weight": 95.20360915193102,
+      "source": "Mediathèque Jacques Prévert",
+      "target": "Médiathèque Nicolas-Jenson"
+    },
+    {
+      "weight": 97.07415795326321,
+      "source": "Bibliotheque Municipale",
+      "target": "Bibliothèque Louis Aragon"
+    },
+    {
+      "weight": 61.314951812225836,
+      "source": "Bibliotheque Municipale",
+      "target": "Bibliothèque de Ozouer-Le-Voulgis"
+    },
+    {
+      "weight": 68.33562346088885,
+      "source": "Bibliotheque Municipale",
+      "target": "Mediatheque intercommunale de Montmirail"
+    },
+    {
+      "weight": 67.68201316482694,
+      "source": "Bibliotheque Municipale",
+      "target": "Médiathèque de Presles-en-Brie"
+    },
+    {
+      "weight": 67.93631980071699,
+      "source": "Bibliotheque Municipale",
+      "target": "Bibliothèque Municipale d'Evry Gregy sur Yerre"
+    },
+    {
+      "weight": 38.18743108591459,
+      "source": "Bibliotheque Municipale",
+      "target": "Bibliotheque de Treuzy-Levelay"
+    },
+    {
+      "weight": 43.87481474554535,
+      "source": "Bibliotheque Municipale",
+      "target": "BIBLIOTHEQUE"
+    },
+    {
+      "weight": 86.13549465972348,
+      "source": "Bibliotheque Municipale",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 94.78754071911511,
+      "source": "Bibliotheque Municipale",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 47.52985164621687,
+      "source": "Médiathèque intercommunale  Sars Poteries",
+      "target": "Mediatheque Communautaire de Douchy-les-MInes"
+    },
+    {
+      "weight": 92.34525323366854,
+      "source": "Médiathèque intercommunale  Sars Poteries",
+      "target": "Médiathèque municipale"
+    },
+    {
+      "weight": 97.69632648800268,
+      "source": "Médiathèque intercommunale  Sars Poteries",
+      "target": "Bucy-le-Long"
+    },
+    {
+      "weight": 28.137663408110814,
+      "source": "Bibliothèque municipale de La Digne-d'Aval",
+      "target": "Bibliothèque municipale de Rodome"
+    },
+    {
+      "weight": 62.64961300326949,
+      "source": "Bibliothèque municipale de La Digne-d'Aval",
+      "target": "Médiathèque de Castres-Sidobre"
+    },
+    {
+      "weight": 73.82450621389728,
+      "source": "Bibliothèque municipale de La Digne-d'Aval",
+      "target": "Bibliothèque municipale de Bourg-Saint-Bernard"
+    },
+    {
+      "weight": 77.76520612315723,
+      "source": "Bibliothèque municipale de La Digne-d'Aval",
+      "target": "Mediatheque Ludovic Massé"
+    },
+    {
+      "weight": 12.549987358157557,
+      "source": "CCMA - bibliothèque de Saint-Cyr-en-Pail",
+      "target": "CCMA - Bibliothèque de Lignières-Orgères"
+    },
+    {
+      "weight": 17.91347286717314,
+      "source": "CCMA - bibliothèque de Saint-Cyr-en-Pail",
+      "target": "Médiathèque de Pacé"
+    },
+    {
+      "weight": 46.76321230642931,
+      "source": "CCMA - bibliothèque de Saint-Cyr-en-Pail",
+      "target": "Bibliothèque de Barenton"
+    },
+    {
+      "weight": 87.5739015335258,
+      "source": "CCMA - bibliothèque de Saint-Cyr-en-Pail",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 55.60371633239656,
+      "source": "CCMA - bibliothèque de Saint-Cyr-en-Pail",
+      "target": "Médiathèque Intercommunale du Pays de Falaise"
+    },
+    {
+      "weight": 79.06336421129409,
+      "source": "CCMA - bibliothèque de Saint-Cyr-en-Pail",
+      "target": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "weight": 18.57175145385168,
+      "source": "CCMA - bibliothèque de Saint-Cyr-en-Pail",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 93.00387031642506,
+      "source": "CCMA - bibliothèque de Saint-Cyr-en-Pail",
+      "target": "Bibliothèque de La Loupe"
+    },
+    {
+      "weight": 21.14096687780075,
+      "source": "Bibliotheque Municipale de Friville-Escarbotin",
+      "target": "Médiathèque de Nouvion"
+    },
+    {
+      "weight": 88.85946562240805,
+      "source": "Bibliotheque Municipale de Friville-Escarbotin",
+      "target": "Médiathèque municipale"
+    },
+    {
+      "weight": 79.56213515902238,
+      "source": "Bibliotheque Municipale de Friville-Escarbotin",
+      "target": "Bibliothèque Municipale De Lalande En Son"
+    },
+    {
+      "weight": 73.62761379396764,
+      "source": "Bibliotheque Municipale de Friville-Escarbotin",
+      "target": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "weight": 40.01516170526152,
+      "source": "Bibliotheque Municipale de Friville-Escarbotin",
+      "target": "Bibliothèque de Graval"
+    },
+    {
+      "weight": 83.98205368087234,
+      "source": "Bibliotheque Municipale de Friville-Escarbotin",
+      "target": "Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon"
+    },
+    {
+      "weight": 77.66463472516628,
+      "source": "Bibliotheque Municipale de Friville-Escarbotin",
+      "target": "Bibliothèque Marc Sangnier"
+    },
+    {
+      "weight": 97.50762729687283,
+      "source": "Bibliotheque Municipale de Friville-Escarbotin",
+      "target": "Bibliotheque Municipale De Staple"
+    },
+    {
+      "weight": 22.422338616680097,
+      "source": "Bibliothèque",
+      "target": "Médiathèque de Boma"
+    },
+    {
+      "weight": 37.74963705677635,
+      "source": "Bibliothèque",
+      "target": "Bibliothèque de Jaure"
+    },
+    {
+      "weight": 54.050170224811986,
+      "source": "Bibliothèque",
+      "target": "Bibliothèque de Cadillac"
+    },
+    {
+      "weight": 5.505712263184495,
+      "source": "Bibliothèque de Jobourg",
+      "target": "Bibliothèque de Beaumont-Hague"
+    },
+    {
+      "weight": 70.08094896224438,
+      "source": "Médiathèque de Nouvion",
+      "target": "Médiathèque municipale"
+    },
+    {
+      "weight": 91.5142617547226,
+      "source": "Médiathèque de Nouvion",
+      "target": "Bibliothèque Municipale De Lalande En Son"
+    },
+    {
+      "weight": 62.77578373781373,
+      "source": "Médiathèque de Nouvion",
+      "target": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "weight": 56.25160361719424,
+      "source": "Médiathèque de Nouvion",
+      "target": "Bibliothèque de Graval"
+    },
+    {
+      "weight": 97.47614362451084,
+      "source": "Médiathèque de Nouvion",
+      "target": "Bibliothèque Marc Sangnier"
+    },
+    {
+      "weight": 76.66091948356103,
+      "source": "Médiathèque de Nouvion",
+      "target": "Bibliotheque Municipale De Staple"
+    },
+    {
+      "weight": 39.165910906509,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Bibliothèque de Ozouer-Le-Voulgis"
+    },
+    {
+      "weight": 97.27474432026412,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Mediatheque intercommunale de Montmirail"
+    },
+    {
+      "weight": 35.32094424624399,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Médiathèque de Presles-en-Brie"
+    },
+    {
+      "weight": 30.188035202644308,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Bibliothèque Municipale d'Evry Gregy sur Yerre"
+    },
+    {
+      "weight": 99.90664951498078,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Bibliotheque Colette Vivier"
+    },
+    {
+      "weight": 67.86853076539123,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Bibliotheque de Treuzy-Levelay"
+    },
+    {
+      "weight": 78.02887907570192,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Bibliothèque Municipale De Lalande En Son"
+    },
+    {
+      "weight": 43.36138670399197,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Bibliothèque Municipale de Bazainville"
+    },
+    {
+      "weight": 69.61061978131704,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Médiathèque Jacques Prévert"
+    },
+    {
+      "weight": 12.551743020885782,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 96.88052561107315,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Bibliothèque de La Loupe"
+    },
+    {
+      "weight": 14.673222547967313,
+      "source": "Bibliothèque Louis Aragon",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 70.34644472855716,
+      "source": "Bibliothèque Municipale de Cossaye",
+      "target": "Bibliothèque de Louroux de Bouble"
+    },
+    {
+      "weight": 40.642287634284955,
+      "source": "Bibliothèque Municipale de Cossaye",
+      "target": "Mairie de La Ferté-Hauterive"
+    },
+    {
+      "weight": 89.01743119032969,
+      "source": "Bibliothèque Municipale de Cossaye",
+      "target": "Réseau des bibliothèques Brionnais Sud Bourgone"
+    },
+    {
+      "weight": 51.952426283931885,
+      "source": "Bibliothèque Municipale de Cossaye",
+      "target": "Mairie de Paray-sous-Briailles"
+    },
+    {
+      "weight": 93.06696947128033,
+      "source": "Bibliothèque Municipale de Cossaye",
+      "target": "Bibliothèque de la Noue"
+    },
+    {
+      "weight": 32.56361425153359,
+      "source": "Bibliothèque Municipale de Cossaye",
+      "target": "Médiathèque Municipale de Saint Eloi"
+    },
+    {
+      "weight": 65.96039287500736,
+      "source": "Bibliothèque Municipale de Cossaye",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 18.27726104602924,
+      "source": "Bibliothèque municipale de La Pesse",
+      "target": "Bibliothèque (Antenne de la Bdp)"
+    },
+    {
+      "weight": 89.74072418732347,
+      "source": "Bibliothèque municipale de La Pesse",
+      "target": "Relais Lecture"
+    },
+    {
+      "weight": 98.6953579983452,
+      "source": "Bibliothèque municipale de La Pesse",
+      "target": "Bibliothèque de la Noue"
+    },
+    {
+      "weight": 64.03845267028923,
+      "source": "Bibliothèque municipale de La Pesse",
+      "target": "Bibliothèque municipale de brens"
+    },
+    {
+      "weight": 76.01350352067578,
+      "source": "Bibliothèque municipale de La Pesse",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 96.53057828655724,
+      "source": "Bibliothèque municipale de La Pesse",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 62.84603098469166,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Mediatheque intercommunale de Montmirail"
+    },
+    {
+      "weight": 6.749937451157781,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Médiathèque de Presles-en-Brie"
+    },
+    {
+      "weight": 9.715767727020463,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Bibliothèque Municipale d'Evry Gregy sur Yerre"
+    },
+    {
+      "weight": 43.04187292443066,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Bibliotheque de Treuzy-Levelay"
+    },
+    {
+      "weight": 93.6282478081218,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "BIBLIOTHEQUE"
+    },
+    {
+      "weight": 82.18946167556008,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Bibliothèque Municipale de Bazainville"
+    },
+    {
+      "weight": 83.0275131320345,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Médiathèque Jacques Prévert"
+    },
+    {
+      "weight": 99.3898778994203,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Bibliothèque Mennechet de Barival"
+    },
+    {
+      "weight": 93.21367959302782,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Bucy-le-Long"
+    },
+    {
+      "weight": 31.817368141196127,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 33.745713219921534,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 92.9525945068457,
+      "source": "Bibliothèque de Ozouer-Le-Voulgis",
+      "target": "Bibliothèque de Arcis le Ponsart"
+    },
+    {
+      "weight": 65.84767124697728,
+      "source": "Bibliothèque municipale de Dounoux",
+      "target": "Médiathèque de Ribeauvillé"
+    },
+    {
+      "weight": 93.63497008017943,
+      "source": "Bibliothèque municipale de Dounoux",
+      "target": "Point lecture d'Avolsheim"
+    },
+    {
+      "weight": 90.74737508428623,
+      "source": "Bibliothèque municipale de Dounoux",
+      "target": "Point lecture de Westhouse"
+    },
+    {
+      "weight": 43.2348242801519,
+      "source": "Relais lecture de Cuttoli",
+      "target": "Bibliothèque municipale d'Osani"
+    },
+    {
+      "weight": 34.44382194476944,
+      "source": "Bibliothèque de Louroux de Bouble",
+      "target": "Mairie de La Ferté-Hauterive"
+    },
+    {
+      "weight": 31.572481958363703,
+      "source": "Bibliothèque de Louroux de Bouble",
+      "target": "Mairie de Paray-sous-Briailles"
+    },
+    {
+      "weight": 98.70608098248229,
+      "source": "Bibliothèque de Louroux de Bouble",
+      "target": "Bibliothèque municipale de Fleurat"
+    },
+    {
+      "weight": 86.13889084981807,
+      "source": "Bibliothèque de Louroux de Bouble",
+      "target": "Médiathèque Municipale de Saint Eloi"
+    },
+    {
+      "weight": 36.85537112118187,
+      "source": "Bibliothèque de Louroux de Bouble",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 64.29021343013488,
+      "source": "Bibliothèque de Louroux de Bouble",
+      "target": "Bibliothèque de Tallende"
+    },
+    {
+      "weight": 63.536154189794296,
+      "source": "Mediatheque intercommunale de Montmirail",
+      "target": "Médiathèque de Presles-en-Brie"
+    },
+    {
+      "weight": 72.21457331476859,
+      "source": "Mediatheque intercommunale de Montmirail",
+      "target": "Bibliothèque Municipale d'Evry Gregy sur Yerre"
+    },
+    {
+      "weight": 84.79698584949384,
+      "source": "Mediatheque intercommunale de Montmirail",
+      "target": "Bibliotheque de Treuzy-Levelay"
+    },
+    {
+      "weight": 65.39556072858873,
+      "source": "Mediatheque intercommunale de Montmirail",
+      "target": "BIBLIOTHEQUE"
+    },
+    {
+      "weight": 91.0911295065136,
+      "source": "Mediatheque intercommunale de Montmirail",
+      "target": "Bibliothèque Mennechet de Barival"
+    },
+    {
+      "weight": 62.8525926527993,
+      "source": "Mediatheque intercommunale de Montmirail",
+      "target": "Bucy-le-Long"
+    },
+    {
+      "weight": 93.44358450600059,
+      "source": "Mediatheque intercommunale de Montmirail",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 85.76263695333606,
+      "source": "Mediatheque intercommunale de Montmirail",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 44.764164422180954,
+      "source": "Mediatheque intercommunale de Montmirail",
+      "target": "Bibliothèque de Arcis le Ponsart"
+    },
+    {
+      "weight": 36.979411123909664,
+      "source": "Médiathèque de l'Accolade",
+      "target": "Bibliothèque municipale de La Couyère"
+    },
+    {
+      "weight": 73.61618440474295,
+      "source": "Médiathèque de l'Accolade",
+      "target": "Bibliothèque Municipale Plessala"
+    },
+    {
+      "weight": 56.27748697088582,
+      "source": "Médiathèque de l'Accolade",
+      "target": "Médiathèque municipale L'ourse"
+    },
+    {
+      "weight": 73.01541201949128,
+      "source": "Médiathèque de l'Accolade",
+      "target": "Bibliothèque de Barenton"
+    },
+    {
+      "weight": 22.854563394545234,
+      "source": "Médiathèque de l'Accolade",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 73.13293523679737,
+      "source": "Médiathèque de l'Accolade",
+      "target": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "weight": 87.54625084209562,
+      "source": "Médiathèque de l'Accolade",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 66.3280201212526,
+      "source": "Médiathèque de l'Accolade",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 62.675207032520674,
+      "source": "Médiathèque de l'Accolade",
+      "target": "Médiathèque de Saint-Vincent-des-Landes"
+    },
+    {
+      "weight": 68.10200039039886,
+      "source": "Bibliothèque de Saint-Jean de Ceyrargues",
+      "target": "Bibliothèque communale Grignan"
+    },
+    {
+      "weight": 38.277794803659184,
+      "source": "Bibliothèque de Saint-Jean de Ceyrargues",
+      "target": "Bibliothèque de Génolhac"
+    },
+    {
+      "weight": 28.95659285207696,
+      "source": "Bibliothèque de Saint-Jean de Ceyrargues",
+      "target": "Bibliothèque de Valliguières"
+    },
+    {
+      "weight": 87.06290629017484,
+      "source": "Bibliothèque de Saint-Jean de Ceyrargues",
+      "target": "Médiathèque municipale Buis-les-Baronnies"
+    },
+    {
+      "weight": 93.22416445685546,
+      "source": "Bibliotheque Saint Meard",
+      "target": "Bibliothèque Du Vigeant"
+    },
+    {
+      "weight": 64.13404822277346,
+      "source": "Bibliotheque Saint Meard",
+      "target": "Bibliothèque municipale de Fleurat"
+    },
+    {
+      "weight": 53.16495837147578,
+      "source": "Bibliotheque Saint Meard",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 28.588890393902897,
+      "source": "Bibliotheque Saint Meard",
+      "target": "Médiathèque de Nexon"
+    },
+    {
+      "weight": 31.832460392495584,
+      "source": "Bibliotheque Saint Meard",
+      "target": "Mairie de Troche"
+    },
+    {
+      "weight": 79.58775455049661,
+      "source": "Mairie de La Ferté-Hauterive",
+      "target": "Réseau des bibliothèques Brionnais Sud Bourgone"
+    },
+    {
+      "weight": 12.209981928298317,
+      "source": "Mairie de La Ferté-Hauterive",
+      "target": "Mairie de Paray-sous-Briailles"
+    },
+    {
+      "weight": 94.16051071457831,
+      "source": "Mairie de La Ferté-Hauterive",
+      "target": "Bibliothèque de la Noue"
+    },
+    {
+      "weight": 65.53035752046577,
+      "source": "Mairie de La Ferté-Hauterive",
+      "target": "Médiathèque Municipale de Saint Eloi"
+    },
+    {
+      "weight": 27.676099163698343,
+      "source": "Mairie de La Ferté-Hauterive",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 83.64872631518395,
+      "source": "Mairie de La Ferté-Hauterive",
+      "target": "Bibliothèque de Tallende"
+    },
+    {
+      "weight": 75.31140916583924,
+      "source": "Médiatheque Maison du Savoir",
+      "target": "Point lecture de Castillon-Debats"
+    },
+    {
+      "weight": 91.85066512316348,
+      "source": "Médiatheque Maison du Savoir",
+      "target": "Point Lecture de Gondrin"
+    },
+    {
+      "weight": 11.117946340049988,
+      "source": "Médiatheque Maison du Savoir",
+      "target": "Le relais de la Poste"
+    },
+    {
+      "weight": 75.81180474046988,
+      "source": "Médiatheque Maison du Savoir",
+      "target": "Bibliothèque de Carrère"
+    },
+    {
+      "weight": 45.67745336432602,
+      "source": "Mediatheque Communautaire de Douchy-les-MInes",
+      "target": "Médiathèque municipale"
+    },
+    {
+      "weight": 89.62259921987526,
+      "source": "Mediatheque Communautaire de Douchy-les-MInes",
+      "target": "Bibliothèque Mennechet de Barival"
+    },
+    {
+      "weight": 70.45910291240281,
+      "source": "Mediatheque Communautaire de Douchy-les-MInes",
+      "target": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "weight": 82.86276175564178,
+      "source": "Mediatheque Communautaire de Douchy-les-MInes",
+      "target": "Bibliotheque Municipale De Staple"
+    },
+    {
+      "weight": 9.827642377625654,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "Bibliothèque Municipale d'Evry Gregy sur Yerre"
+    },
+    {
+      "weight": 49.51530606596584,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "Bibliotheque de Treuzy-Levelay"
+    },
+    {
+      "weight": 98.67214599860891,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "BIBLIOTHEQUE"
+    },
+    {
+      "weight": 78.6723872294554,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "Bibliothèque Municipale de Bazainville"
+    },
+    {
+      "weight": 76.31106502836924,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "Médiathèque Jacques Prévert"
+    },
+    {
+      "weight": 93.54891917040594,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "Bibliothèque Mennechet de Barival"
+    },
+    {
+      "weight": 89.08932722143268,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "Bucy-le-Long"
+    },
+    {
+      "weight": 29.913184451918678,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 28.067761143225074,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 90.61588593116961,
+      "source": "Médiathèque de Presles-en-Brie",
+      "target": "Bibliothèque de Arcis le Ponsart"
+    },
+    {
+      "weight": 70.58775367210221,
+      "source": "Réseau des bibliothèques Brionnais Sud Bourgone",
+      "target": "BIBLIOTHEQUE LA PYRAMIDE"
+    },
+    {
+      "weight": 88.26188419014609,
+      "source": "Réseau des bibliothèques Brionnais Sud Bourgone",
+      "target": "Relais Lecture"
+    },
+    {
+      "weight": 75.32093065200141,
+      "source": "Réseau des bibliothèques Brionnais Sud Bourgone",
+      "target": "Mairie de Paray-sous-Briailles"
+    },
+    {
+      "weight": 25.016460205380874,
+      "source": "Réseau des bibliothèques Brionnais Sud Bourgone",
+      "target": "Bibliothèque de la Noue"
+    },
+    {
+      "weight": 50.0036284361915,
+      "source": "Réseau des bibliothèques Brionnais Sud Bourgone",
+      "target": "Bibliothèque - Salvizinet"
+    },
+    {
+      "weight": 69.87754163169467,
+      "source": "Réseau des bibliothèques Brionnais Sud Bourgone",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 79.23745309199073,
+      "source": "Réseau des bibliothèques Brionnais Sud Bourgone",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 23.504335808906358,
+      "source": "Réseau des bibliothèques Brionnais Sud Bourgone",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 43.14149090741945,
+      "source": "Médiathèque de Ribeauvillé",
+      "target": "Point lecture d'Avolsheim"
+    },
+    {
+      "weight": 29.958462768476362,
+      "source": "Médiathèque de Ribeauvillé",
+      "target": "Point lecture de Westhouse"
+    },
+    {
+      "weight": 95.75036819493826,
+      "source": "Médiathèque de Ribeauvillé",
+      "target": "Point lecture d'Aschbach"
+    },
+    {
+      "weight": 93.2561883189755,
+      "source": "Bibliothèque municipale de La Couyère",
+      "target": "Bibliothèque Municipale Plessala"
+    },
+    {
+      "weight": 91.92387691019604,
+      "source": "Bibliothèque municipale de La Couyère",
+      "target": "Médiathèque municipale L'ourse"
+    },
+    {
+      "weight": 93.33324601961702,
+      "source": "Bibliothèque municipale de La Couyère",
+      "target": "Bibliothèque de Barenton"
+    },
+    {
+      "weight": 30.75956490342538,
+      "source": "Bibliothèque municipale de La Couyère",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 51.60441647483899,
+      "source": "Bibliothèque municipale de La Couyère",
+      "target": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "weight": 96.44878240101514,
+      "source": "Bibliothèque municipale de La Couyère",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 69.8539063118257,
+      "source": "Bibliothèque municipale de La Couyère",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 26.104056933315345,
+      "source": "Bibliothèque municipale de La Couyère",
+      "target": "Médiathèque de Saint-Vincent-des-Landes"
+    },
+    {
+      "weight": 17.577564401661384,
+      "source": "Point lecture de Castillon-Debats",
+      "target": "Point Lecture de Gondrin"
+    },
+    {
+      "weight": 79.9825955366414,
+      "source": "Point lecture de Castillon-Debats",
+      "target": "Le relais de la Poste"
+    },
+    {
+      "weight": 97.82945023807589,
+      "source": "Point lecture de Castillon-Debats",
+      "target": "Médiatheque Municipale"
+    },
+    {
+      "weight": 48.22171150046898,
+      "source": "Point lecture de Castillon-Debats",
+      "target": "Bibliothèque de Carrère"
+    },
+    {
+      "weight": 87.05276432477005,
+      "source": "Point lecture de Castillon-Debats",
+      "target": "Bibliothèque De La Ville-Dieu-Du-Temple"
+    },
+    {
+      "weight": 74.88138158187009,
+      "source": "Point lecture de Castillon-Debats",
+      "target": "Bibliothèque de Sault-de-Navailles"
+    },
+    {
+      "weight": 58.375758610538824,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliothèque de Fiancey"
+    },
+    {
+      "weight": 76.05302833041249,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliothèque Municipale de Susville"
+    },
+    {
+      "weight": 45.2246625222446,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "BIBLIOTHEQUE LA PYRAMIDE"
+    },
+    {
+      "weight": 74.23533936751667,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliothèque - Salvizinet"
+    },
+    {
+      "weight": 75.2710955204808,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliothèque municipale de brens"
+    },
+    {
+      "weight": 96.60883806109267,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliothèque communale Grignan"
+    },
+    {
+      "weight": 70.67670958909332,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliotheque municipale"
+    },
+    {
+      "weight": 36.15564753023456,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliothèque Municipale de Vatilieu"
+    },
+    {
+      "weight": 10.25793510355372,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliothèque Bibliomotte"
+    },
+    {
+      "weight": 58.17562545163026,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 95.78859841299885,
+      "source": "Bibliothèque communale St-Sorlin-en-Valloire",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 96.44555246936511,
+      "source": "Médiathèque Ludothèque",
+      "target": "Bibliothèque de Maël-Pestivien"
+    },
+    {
+      "weight": 88.32003894369755,
+      "source": "Médiathèque Ludothèque",
+      "target": "Bibliothèque de Plévin"
+    },
+    {
+      "weight": 21.012406430631525,
+      "source": "CCMA - Bibliothèque de Lignières-Orgères",
+      "target": "Médiathèque de Pacé"
+    },
+    {
+      "weight": 44.26525775286185,
+      "source": "CCMA - Bibliothèque de Lignières-Orgères",
+      "target": "Bibliothèque de Barenton"
+    },
+    {
+      "weight": 93.57182468187095,
+      "source": "CCMA - Bibliothèque de Lignières-Orgères",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 43.25497991733656,
+      "source": "CCMA - Bibliothèque de Lignières-Orgères",
+      "target": "Médiathèque Intercommunale du Pays de Falaise"
+    },
+    {
+      "weight": 90.19121664514154,
+      "source": "CCMA - Bibliothèque de Lignières-Orgères",
+      "target": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "weight": 23.254597713987323,
+      "source": "CCMA - Bibliothèque de Lignières-Orgères",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 92.52916009659901,
+      "source": "CCMA - Bibliothèque de Lignières-Orgères",
+      "target": "Bibliothèque de La Loupe"
+    },
+    {
+      "weight": 36.06314423218535,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Réseau du Haut Poitou"
+    },
+    {
+      "weight": 24.247879281512887,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Médiathèque de Saint Eloi"
+    },
+    {
+      "weight": 25.040829936548228,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Bibliothèque Du Vigeant"
+    },
+    {
+      "weight": 57.50151016123151,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Espace culturel Robert Talbot"
+    },
+    {
+      "weight": 99.38861321017953,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Bibliothèque municipale de Fleurat"
+    },
+    {
+      "weight": 46.99046273361818,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 34.81735090186426,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 41.45340523608837,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 65.11645649149882,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 97.29301925100569,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Médiathèque de Nexon"
+    },
+    {
+      "weight": 98.98609229804948,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Bibliotheque Municipale de Tauxigny-Saint-Bauld"
+    },
+    {
+      "weight": 74.83682673479056,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 58.18117019047707,
+      "source": "BIBLIOTHEQUE de GENCAY",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 44.39303013050904,
+      "source": "Bibliothèque Municipale d'Evry Gregy sur Yerre",
+      "target": "Bibliotheque de Treuzy-Levelay"
+    },
+    {
+      "weight": 72.80592060169992,
+      "source": "Bibliothèque Municipale d'Evry Gregy sur Yerre",
+      "target": "Bibliothèque Municipale de Bazainville"
+    },
+    {
+      "weight": 81.25318050311928,
+      "source": "Bibliothèque Municipale d'Evry Gregy sur Yerre",
+      "target": "Médiathèque Jacques Prévert"
+    },
+    {
+      "weight": 98.62007302252613,
+      "source": "Bibliothèque Municipale d'Evry Gregy sur Yerre",
+      "target": "Bucy-le-Long"
+    },
+    {
+      "weight": 22.120836587582033,
+      "source": "Bibliothèque Municipale d'Evry Gregy sur Yerre",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 27.198656823649053,
+      "source": "Bibliothèque Municipale d'Evry Gregy sur Yerre",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 33.61146026844349,
+      "source": "Bibliothèque de Fiancey",
+      "target": "Bibliothèque Municipale de Susville"
+    },
+    {
+      "weight": 82.26869384784109,
+      "source": "Bibliothèque de Fiancey",
+      "target": "BIBLIOTHEQUE LA PYRAMIDE"
+    },
+    {
+      "weight": 85.96165596189282,
+      "source": "Bibliothèque de Fiancey",
+      "target": "Bibliothèque de Sigoyer"
+    },
+    {
+      "weight": 54.96896519521528,
+      "source": "Bibliothèque de Fiancey",
+      "target": "Bibliothèque municipale de brens"
+    },
+    {
+      "weight": 22.242550313396922,
+      "source": "Bibliothèque de Fiancey",
+      "target": "Bibliothèque Municipale de Vatilieu"
+    },
+    {
+      "weight": 61.03861604365485,
+      "source": "Bibliothèque de Fiancey",
+      "target": "Bibliothèque Bibliomotte"
+    },
+    {
+      "weight": 74.71378015893205,
+      "source": "Bibliothèque de Fiancey",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 81.11631216111013,
+      "source": "Bibliotheque Colette Vivier",
+      "target": "Bibliotheque de Treuzy-Levelay"
+    },
+    {
+      "weight": 91.25295646203132,
+      "source": "Bibliotheque Colette Vivier",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 89.81439782042133,
+      "source": "Bibliotheque Colette Vivier",
+      "target": "Bibliothèque de La Loupe"
+    },
+    {
+      "weight": 83.19960632666205,
+      "source": "Bibliotheque Colette Vivier",
+      "target": "Bibliothèque de Châteauvieux"
+    },
+    {
+      "weight": 86.49117806231443,
+      "source": "Médiathèque municipale",
+      "target": "Bibliothèque Mennechet de Barival"
+    },
+    {
+      "weight": 41.64578930280721,
+      "source": "Médiathèque municipale",
+      "target": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "weight": 52.810952977340875,
+      "source": "Médiathèque municipale",
+      "target": "Bibliotheque Municipale De Staple"
+    },
+    {
+      "weight": 98.33702460408232,
+      "source": "Bibliothèque Municipale de Susville",
+      "target": "Bibliotheque Municipale Saint-Etienne les Orgues"
+    },
+    {
+      "weight": 52.49715145851835,
+      "source": "Bibliothèque Municipale de Susville",
+      "target": "Bibliothèque de Sigoyer"
+    },
+    {
+      "weight": 88.14672043402888,
+      "source": "Bibliothèque Municipale de Susville",
+      "target": "Bibliothèque municipale de brens"
+    },
+    {
+      "weight": 88.57679413656963,
+      "source": "Bibliothèque Municipale de Susville",
+      "target": "Bibliothèque communale Grignan"
+    },
+    {
+      "weight": 97.06645725170195,
+      "source": "Bibliothèque Municipale de Susville",
+      "target": "Médiathèque de Château-Arnoux"
+    },
+    {
+      "weight": 82.56981618148414,
+      "source": "Bibliothèque Municipale de Susville",
+      "target": "Médiathèque municipale Buis-les-Baronnies"
+    },
+    {
+      "weight": 46.36011598595305,
+      "source": "Bibliothèque Municipale de Susville",
+      "target": "Bibliothèque Municipale de Vatilieu"
+    },
+    {
+      "weight": 74.14512950490987,
+      "source": "Bibliothèque Municipale de Susville",
+      "target": "Bibliothèque Bibliomotte"
+    },
+    {
+      "weight": 81.68658593751155,
+      "source": "Bibliotheque de Treuzy-Levelay",
+      "target": "BIBLIOTHEQUE"
+    },
+    {
+      "weight": 55.55316323141275,
+      "source": "Bibliotheque de Treuzy-Levelay",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 70.46993105868991,
+      "source": "Bibliotheque de Treuzy-Levelay",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 78.28950686683787,
+      "source": "Réseau du Haut Poitou",
+      "target": "Bibliothèque de Reignac-sur-Indre"
+    },
+    {
+      "weight": 13.718459134156772,
+      "source": "Réseau du Haut Poitou",
+      "target": "Médiathèque de Saint Eloi"
+    },
+    {
+      "weight": 58.864188360334104,
+      "source": "Réseau du Haut Poitou",
+      "target": "Bibliothèque Du Vigeant"
+    },
+    {
+      "weight": 22.12992621510158,
+      "source": "Réseau du Haut Poitou",
+      "target": "Espace culturel Robert Talbot"
+    },
+    {
+      "weight": 77.51753638974763,
+      "source": "Réseau du Haut Poitou",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 8.388833887101477,
+      "source": "Réseau du Haut Poitou",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 64.69913700282656,
+      "source": "Réseau du Haut Poitou",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 97.59575405358933,
+      "source": "Réseau du Haut Poitou",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 73.3251472921023,
+      "source": "Réseau du Haut Poitou",
+      "target": "Bibliotheque Municipale de Tauxigny-Saint-Bauld"
+    },
+    {
+      "weight": 48.791506570495976,
+      "source": "Réseau du Haut Poitou",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 61.04502628607179,
+      "source": "Réseau du Haut Poitou",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 51.654764607705324,
+      "source": "Bibliothèque de Maël-Pestivien",
+      "target": "Bibliothèque Municipale Plessala"
+    },
+    {
+      "weight": 94.38656502032924,
+      "source": "Bibliothèque de Maël-Pestivien",
+      "target": "Médiathèque municipale L'ourse"
+    },
+    {
+      "weight": 24.431671602890688,
+      "source": "Bibliothèque de Maël-Pestivien",
+      "target": "Bibliothèque de Plévin"
+    },
+    {
+      "weight": 80.13327431200116,
+      "source": "Bibliothèque de Maël-Pestivien",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 81.56405895534702,
+      "source": "Bibliothèque de Reignac-sur-Indre",
+      "target": "Médiathèque de Saint Eloi"
+    },
+    {
+      "weight": 75.56622768773151,
+      "source": "Bibliothèque de Reignac-sur-Indre",
+      "target": "Espace culturel Robert Talbot"
+    },
+    {
+      "weight": 73.01645002263791,
+      "source": "Bibliothèque de Reignac-sur-Indre",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 35.47419254164268,
+      "source": "Bibliothèque de Reignac-sur-Indre",
+      "target": "Bibliothèque de Châteauvieux"
+    },
+    {
+      "weight": 6.151106750269466,
+      "source": "Bibliothèque de Reignac-sur-Indre",
+      "target": "Bibliotheque Municipale de Tauxigny-Saint-Bauld"
+    },
+    {
+      "weight": 66.45766404473547,
+      "source": "Bibliothèque de Reignac-sur-Indre",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 63.56143161962039,
+      "source": "Médiathèque de Pacé",
+      "target": "Bibliothèque de Barenton"
+    },
+    {
+      "weight": 54.21311681354948,
+      "source": "Médiathèque de Pacé",
+      "target": "Médiathèque Intercommunale du Pays de Falaise"
+    },
+    {
+      "weight": 90.37288899724801,
+      "source": "Médiathèque de Pacé",
+      "target": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "weight": 36.48522392704948,
+      "source": "Médiathèque de Pacé",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 75.09641386176678,
+      "source": "Médiathèque de Pacé",
+      "target": "Bibliothèque de La Loupe"
+    },
+    {
+      "weight": 97.10067465383528,
+      "source": "Point Lecture de Gondrin",
+      "target": "Le relais de la Poste"
+    },
+    {
+      "weight": 95.65711281222121,
+      "source": "Point Lecture de Gondrin",
+      "target": "Médiatheque Municipale"
+    },
+    {
+      "weight": 61.02189223231509,
+      "source": "Point Lecture de Gondrin",
+      "target": "Bibliothèque de Carrère"
+    },
+    {
+      "weight": 80.11951879122878,
+      "source": "Point Lecture de Gondrin",
+      "target": "Bibliothèque De La Ville-Dieu-Du-Temple"
+    },
+    {
+      "weight": 94.50546796799789,
+      "source": "Point Lecture de Gondrin",
+      "target": "Bibliothèque de Cadillac"
+    },
+    {
+      "weight": 82.79148996898374,
+      "source": "Point Lecture de Gondrin",
+      "target": "Bibliothèque de Sault-de-Navailles"
+    },
+    {
+      "weight": 59.93280301679434,
+      "source": "Médiathèque de Boma",
+      "target": "Bibliothèque de Jaure"
+    },
+    {
+      "weight": 40.313723260991665,
+      "source": "Médiathèque de Boma",
+      "target": "Bibliothèque de Cadillac"
+    },
+    {
+      "weight": 90.27001788526447,
+      "source": "Bibliothèque municipale de Rodome",
+      "target": "Médiathèque de Castres-Sidobre"
+    },
+    {
+      "weight": 94.19770931030114,
+      "source": "Bibliothèque municipale de Rodome",
+      "target": "Bibliothèque municipale de Bourg-Saint-Bernard"
+    },
+    {
+      "weight": 65.99451865797317,
+      "source": "Bibliothèque municipale de Rodome",
+      "target": "Mediatheque Ludovic Massé"
+    },
+    {
+      "weight": 65.5568769790343,
+      "source": "Bibliothèque Municipale De Lalande En Son",
+      "target": "Bibliothèque Municipale de Bazainville"
+    },
+    {
+      "weight": 48.5160121906353,
+      "source": "Bibliothèque Municipale De Lalande En Son",
+      "target": "Médiathèque Jacques Prévert"
+    },
+    {
+      "weight": 86.1291418036154,
+      "source": "Bibliothèque Municipale De Lalande En Son",
+      "target": "Bibliothèque Mennechet de Barival"
+    },
+    {
+      "weight": 84.25320800975356,
+      "source": "Bibliothèque Municipale De Lalande En Son",
+      "target": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "weight": 90.58028464191418,
+      "source": "Bibliothèque Municipale De Lalande En Son",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 41.53412724240085,
+      "source": "Bibliothèque Municipale De Lalande En Son",
+      "target": "Bibliothèque de Graval"
+    },
+    {
+      "weight": 74.95961994155046,
+      "source": "Bibliothèque Municipale De Lalande En Son",
+      "target": "Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon"
+    },
+    {
+      "weight": 52.05676527873857,
+      "source": "Bibliothèque Municipale De Lalande En Son",
+      "target": "Bibliothèque Marc Sangnier"
+    },
+    {
+      "weight": 75.65434676625037,
+      "source": "Bibliothèque Municipale De Lalande En Son",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 70.62277542250976,
+      "source": "Médiathèque de Castres-Sidobre",
+      "target": "Médiatheque Municipale"
+    },
+    {
+      "weight": 45.08564193697975,
+      "source": "Médiathèque de Castres-Sidobre",
+      "target": "Bibliothèque municipale de Bourg-Saint-Bernard"
+    },
+    {
+      "weight": 95.61405686963792,
+      "source": "Médiathèque de Castres-Sidobre",
+      "target": "Bibliothèque De La Ville-Dieu-Du-Temple"
+    },
+    {
+      "weight": 86.89697460927444,
+      "source": "Bibliothèque (Antenne de la Bdp)",
+      "target": "BIBLIOTHEQUE LA PYRAMIDE"
+    },
+    {
+      "weight": 99.330791231395,
+      "source": "Bibliothèque (Antenne de la Bdp)",
+      "target": "Bibliothèque de la Noue"
+    },
+    {
+      "weight": 45.769123788244684,
+      "source": "Bibliothèque (Antenne de la Bdp)",
+      "target": "Bibliothèque municipale de brens"
+    },
+    {
+      "weight": 61.83855362118161,
+      "source": "Bibliothèque (Antenne de la Bdp)",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 91.96941057301517,
+      "source": "Bibliothèque (Antenne de la Bdp)",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 78.78480560511771,
+      "source": "BIBLIOTHEQUE LA PYRAMIDE",
+      "target": "Bibliothèque de la Noue"
+    },
+    {
+      "weight": 47.013247617117045,
+      "source": "BIBLIOTHEQUE LA PYRAMIDE",
+      "target": "Bibliothèque - Salvizinet"
+    },
+    {
+      "weight": 64.01339366580112,
+      "source": "BIBLIOTHEQUE LA PYRAMIDE",
+      "target": "Bibliothèque municipale de brens"
+    },
+    {
+      "weight": 96.62881284583976,
+      "source": "BIBLIOTHEQUE LA PYRAMIDE",
+      "target": "Bibliotheque municipale"
+    },
+    {
+      "weight": 64.01569339972903,
+      "source": "BIBLIOTHEQUE LA PYRAMIDE",
+      "target": "Bibliothèque Municipale de Vatilieu"
+    },
+    {
+      "weight": 54.71493456598379,
+      "source": "BIBLIOTHEQUE LA PYRAMIDE",
+      "target": "Bibliothèque Bibliomotte"
+    },
+    {
+      "weight": 25.466605260173566,
+      "source": "BIBLIOTHEQUE LA PYRAMIDE",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 51.37700033737419,
+      "source": "BIBLIOTHEQUE LA PYRAMIDE",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 45.50598969769678,
+      "source": "Médiathèque de Saint Eloi",
+      "target": "Bibliothèque Du Vigeant"
+    },
+    {
+      "weight": 35.79843366854198,
+      "source": "Médiathèque de Saint Eloi",
+      "target": "Espace culturel Robert Talbot"
+    },
+    {
+      "weight": 69.21447411671222,
+      "source": "Médiathèque de Saint Eloi",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 10.569578263354128,
+      "source": "Médiathèque de Saint Eloi",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 59.18198729227175,
+      "source": "Médiathèque de Saint Eloi",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 83.9115365548095,
+      "source": "Médiathèque de Saint Eloi",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 77.28932342969195,
+      "source": "Médiathèque de Saint Eloi",
+      "target": "Bibliotheque Municipale de Tauxigny-Saint-Bauld"
+    },
+    {
+      "weight": 60.80941336181548,
+      "source": "Médiathèque de Saint Eloi",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 51.99069474146693,
+      "source": "Médiathèque de Saint Eloi",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 73.49862584217531,
+      "source": "Le relais de la Poste",
+      "target": "Bibliothèque de Carrère"
+    },
+    {
+      "weight": 80.92485722533786,
+      "source": "Bibliothèque Du Vigeant",
+      "target": "Espace culturel Robert Talbot"
+    },
+    {
+      "weight": 79.34443749307117,
+      "source": "Bibliothèque Du Vigeant",
+      "target": "Bibliothèque municipale de Fleurat"
+    },
+    {
+      "weight": 46.80898377095263,
+      "source": "Bibliothèque Du Vigeant",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 55.408807249363846,
+      "source": "Bibliothèque Du Vigeant",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 51.56262442865646,
+      "source": "Bibliothèque Du Vigeant",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 40.076243515658994,
+      "source": "Bibliothèque Du Vigeant",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 72.86729730295852,
+      "source": "Bibliothèque Du Vigeant",
+      "target": "Médiathèque de Nexon"
+    },
+    {
+      "weight": 99.87147962945095,
+      "source": "Bibliothèque Du Vigeant",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 55.5900026029798,
+      "source": "Bibliothèque Du Vigeant",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 56.74260424613471,
+      "source": "Bibliothèque Municipale Plessala",
+      "target": "Médiathèque municipale L'ourse"
+    },
+    {
+      "weight": 95.99473996301009,
+      "source": "Bibliothèque Municipale Plessala",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 65.83818424887671,
+      "source": "Bibliothèque Municipale Plessala",
+      "target": "Bibliothèque de Plévin"
+    },
+    {
+      "weight": 38.001530091143856,
+      "source": "Bibliothèque Municipale Plessala",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 69.58241858138763,
+      "source": "BIBLIOTHEQUE",
+      "target": "Médiathèque Nicolas-Jenson"
+    },
+    {
+      "weight": 19.31086036770692,
+      "source": "Point lecture d'Avolsheim",
+      "target": "Point lecture de Westhouse"
+    },
+    {
+      "weight": 54.241774837599365,
+      "source": "Point lecture d'Avolsheim",
+      "target": "Point lecture d'Aschbach"
+    },
+    {
+      "weight": 32.374642684462785,
+      "source": "Médiatheque Municipale",
+      "target": "Bibliothèque municipale de Bourg-Saint-Bernard"
+    },
+    {
+      "weight": 28.477652432721246,
+      "source": "Médiatheque Municipale",
+      "target": "Bibliothèque De La Ville-Dieu-Du-Temple"
+    },
+    {
+      "weight": 33.29487881213738,
+      "source": "Bibliothèque de Carrère",
+      "target": "Bibliothèque de Sault-de-Navailles"
+    },
+    {
+      "weight": 85.14361302264504,
+      "source": "Bibliothèque Municipale de Bazainville",
+      "target": "Médiathèque Jacques Prévert"
+    },
+    {
+      "weight": 51.33682427658704,
+      "source": "Bibliothèque Municipale de Bazainville",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 85.22572354934408,
+      "source": "Bibliothèque Municipale de Bazainville",
+      "target": "Bibliothèque Marc Sangnier"
+    },
+    {
+      "weight": 60.56754007938764,
+      "source": "Bibliothèque Municipale de Bazainville",
+      "target": "Bibliothèque de La Loupe"
+    },
+    {
+      "weight": 54.35709347025555,
+      "source": "Bibliothèque Municipale de Bazainville",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 66.56528544913307,
+      "source": "Point lecture de Westhouse",
+      "target": "Point lecture d'Aschbach"
+    },
+    {
+      "weight": 40.61822273044841,
+      "source": "Médiathèque Jacques Prévert",
+      "target": "Bibliothèque Mennechet de Barival"
+    },
+    {
+      "weight": 68.38014880878526,
+      "source": "Médiathèque Jacques Prévert",
+      "target": "Bucy-le-Long"
+    },
+    {
+      "weight": 65.14598215694333,
+      "source": "Médiathèque Jacques Prévert",
+      "target": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "weight": 79.84292534005804,
+      "source": "Médiathèque Jacques Prévert",
+      "target": "Médiathèque Andrée Chedid"
+    },
+    {
+      "weight": 76.5335727983422,
+      "source": "Médiathèque Jacques Prévert",
+      "target": "Bibliothèque de Graval"
+    },
+    {
+      "weight": 58.652342911813875,
+      "source": "Médiathèque Jacques Prévert",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 91.43539417141244,
+      "source": "Médiathèque Jacques Prévert",
+      "target": "Bibliothèque de Arcis le Ponsart"
+    },
+    {
+      "weight": 36.57357946526313,
+      "source": "Bibliothèque Mennechet de Barival",
+      "target": "Bucy-le-Long"
+    },
+    {
+      "weight": 53.81303327371098,
+      "source": "Bibliothèque Mennechet de Barival",
+      "target": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "weight": 86.71905028457944,
+      "source": "Bibliothèque Mennechet de Barival",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 64.0051785353745,
+      "source": "Bibliothèque Mennechet de Barival",
+      "target": "Bibliothèque de Arcis le Ponsart"
+    },
+    {
+      "weight": 87.28698551234764,
+      "source": "Bucy-le-Long",
+      "target": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre"
+    },
+    {
+      "weight": 93.55810467638486,
+      "source": "Bucy-le-Long",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 27.687523558896743,
+      "source": "Bucy-le-Long",
+      "target": "Bibliothèque de Arcis le Ponsart"
+    },
+    {
+      "weight": 77.13892020962146,
+      "source": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre",
+      "target": "Bibliothèque de Graval"
+    },
+    {
+      "weight": 88.31249220110278,
+      "source": "Médiathèque intercommunale \"La Filature\" - Ribemont-sur-Ancre",
+      "target": "Bibliotheque Municipale De Staple"
+    },
+    {
+      "weight": 90.57894821728735,
+      "source": "Médiathèque municipale L'ourse",
+      "target": "Bibliothèque de Barenton"
+    },
+    {
+      "weight": 75.92405423183823,
+      "source": "Médiathèque municipale L'ourse",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 79.65988568254022,
+      "source": "Médiathèque municipale L'ourse",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 63.07475585859757,
+      "source": "Bibliothèque de Barenton",
+      "target": "Bibliothèque De Marpiré"
+    },
+    {
+      "weight": 66.08455061555794,
+      "source": "Bibliothèque de Barenton",
+      "target": "Médiathèque Intercommunale du Pays de Falaise"
+    },
+    {
+      "weight": 84.25391742262994,
+      "source": "Bibliothèque de Barenton",
+      "target": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "weight": 30.71215659104841,
+      "source": "Bibliothèque de Barenton",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 51.33966477716083,
+      "source": "Bibliothèque De Marpiré",
+      "target": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)"
+    },
+    {
+      "weight": 70.4481708562274,
+      "source": "Bibliothèque De Marpiré",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 84.19886591717638,
+      "source": "Bibliothèque De Marpiré",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 55.54468555313337,
+      "source": "Bibliothèque De Marpiré",
+      "target": "Médiathèque de Saint-Vincent-des-Landes"
+    },
+    {
+      "weight": 50.82430834760304,
+      "source": "Bibliotheque Municipale Saint-Etienne les Orgues",
+      "target": "Bibliothèque de Sigoyer"
+    },
+    {
+      "weight": 81.21219569613892,
+      "source": "Bibliotheque Municipale Saint-Etienne les Orgues",
+      "target": "Bibliothèque communale Grignan"
+    },
+    {
+      "weight": 9.446577852517311,
+      "source": "Bibliotheque Municipale Saint-Etienne les Orgues",
+      "target": "Réseau du pays de Forcalquier"
+    },
+    {
+      "weight": 17.74555209457551,
+      "source": "Bibliotheque Municipale Saint-Etienne les Orgues",
+      "target": "Médiathèque de Château-Arnoux"
+    },
+    {
+      "weight": 95.86284159530753,
+      "source": "Bibliotheque Municipale Saint-Etienne les Orgues",
+      "target": "Bibliothèque de Valliguières"
+    },
+    {
+      "weight": 48.183038452115916,
+      "source": "Bibliotheque Municipale Saint-Etienne les Orgues",
+      "target": "Médiathèque municipale Buis-les-Baronnies"
+    },
+    {
+      "weight": 82.37802300032392,
+      "source": "Bibliotheque Municipale Saint-Etienne les Orgues",
+      "target": "Bibliothèque municipale Bernard-Monge"
+    },
+    {
+      "weight": 99.41449307342346,
+      "source": "Médiathèque Andrée Chedid",
+      "target": "Bibliothèque de La Loupe"
+    },
+    {
+      "weight": 21.525927397643258,
+      "source": "Médiathèque Andrée Chedid",
+      "target": "Bibliothèque Assia Djebar"
+    },
+    {
+      "weight": 63.66681284245296,
+      "source": "Relais Lecture",
+      "target": "Bibliothèque de la Noue"
+    },
+    {
+      "weight": 87.07848364313429,
+      "source": "Relais Lecture",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 84.79543549458992,
+      "source": "Bibliothèque de Plévin",
+      "target": "Les Amis Du Livre"
+    },
+    {
+      "weight": 92.57922942833267,
+      "source": "Mairie de Paray-sous-Briailles",
+      "target": "Bibliothèque de la Noue"
+    },
+    {
+      "weight": 91.48486503041634,
+      "source": "Mairie de Paray-sous-Briailles",
+      "target": "Bibliothèque - Salvizinet"
+    },
+    {
+      "weight": 77.73580180405183,
+      "source": "Mairie de Paray-sous-Briailles",
+      "target": "Médiathèque Municipale de Saint Eloi"
+    },
+    {
+      "weight": 15.569578423416775,
+      "source": "Mairie de Paray-sous-Briailles",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 72.37478644742822,
+      "source": "Mairie de Paray-sous-Briailles",
+      "target": "Bibliothèque de Tallende"
+    },
+    {
+      "weight": 97.98360104090699,
+      "source": "Mairie de Paray-sous-Briailles",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 71.29061613730599,
+      "source": "Bibliothèque de la Noue",
+      "target": "Bibliothèque - Salvizinet"
+    },
+    {
+      "weight": 90.17643594380063,
+      "source": "Bibliothèque de la Noue",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 79.41433564779982,
+      "source": "Bibliothèque de la Noue",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 28.037768528426717,
+      "source": "Bibliothèque de la Noue",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 85.03941315178449,
+      "source": "Bibliothèque de Sigoyer",
+      "target": "Bibliothèque communale Grignan"
+    },
+    {
+      "weight": 60.00217310140475,
+      "source": "Bibliothèque de Sigoyer",
+      "target": "Réseau du pays de Forcalquier"
+    },
+    {
+      "weight": 45.456577492427684,
+      "source": "Bibliothèque de Sigoyer",
+      "target": "Médiathèque de Château-Arnoux"
+    },
+    {
+      "weight": 60.36259030131025,
+      "source": "Bibliothèque de Sigoyer",
+      "target": "Médiathèque municipale Buis-les-Baronnies"
+    },
+    {
+      "weight": 97.38602005173311,
+      "source": "Bibliothèque de Sigoyer",
+      "target": "Bibliothèque Municipale de Vatilieu"
+    },
+    {
+      "weight": 60.21052579653106,
+      "source": "Bibliothèque de Graval",
+      "target": "Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon"
+    },
+    {
+      "weight": 45.09726710462096,
+      "source": "Bibliothèque de Graval",
+      "target": "Bibliothèque Marc Sangnier"
+    },
+    {
+      "weight": 62.67586675044791,
+      "source": "Médiathèque Intercommunale du Pays de Falaise",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 90.66244796081827,
+      "source": "Médiathèque Intercommunale du Pays de Falaise",
+      "target": "Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon"
+    },
+    {
+      "weight": 95.1271391943971,
+      "source": "Médiathèque Intercommunale du Pays de Falaise",
+      "target": "Bibliothèque de La Loupe"
+    },
+    {
+      "weight": 70.2937554864678,
+      "source": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)",
+      "target": "Médiathèque de Lassay-les-Châteaux / CC Mayenne"
+    },
+    {
+      "weight": 54.93660896151311,
+      "source": "CC Château-Gontier Prée-d'Anjou (bibliothèque de Laigné)",
+      "target": "Médiathèque de Saint-Vincent-des-Landes"
+    },
+    {
+      "weight": 78.50951684845317,
+      "source": "Bibliothèque - Salvizinet",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 87.07483797281404,
+      "source": "Bibliothèque - Salvizinet",
+      "target": "Bibliotheque municipale"
+    },
+    {
+      "weight": 89.60858564131418,
+      "source": "Bibliothèque - Salvizinet",
+      "target": "Bibliothèque de Tallende"
+    },
+    {
+      "weight": 79.58434269734764,
+      "source": "Bibliothèque - Salvizinet",
+      "target": "Bibliothèque Bibliomotte"
+    },
+    {
+      "weight": 69.49391733058532,
+      "source": "Bibliothèque - Salvizinet",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 47.79324488101075,
+      "source": "Bibliothèque - Salvizinet",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 95.04340986043809,
+      "source": "Espace culturel Robert Talbot",
+      "target": "Point lecture"
+    },
+    {
+      "weight": 27.65157448215837,
+      "source": "Espace culturel Robert Talbot",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 79.64912225573501,
+      "source": "Espace culturel Robert Talbot",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 69.75744580885093,
+      "source": "Espace culturel Robert Talbot",
+      "target": "Bibliotheque Municipale de Tauxigny-Saint-Bauld"
+    },
+    {
+      "weight": 34.43363089428194,
+      "source": "Espace culturel Robert Talbot",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 77.18192172200357,
+      "source": "Espace culturel Robert Talbot",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 55.978815425553314,
+      "source": "Bibliothèque municipale de Fleurat",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 72.48371249268813,
+      "source": "Bibliothèque municipale de Fleurat",
+      "target": "Médiathèque de Nexon"
+    },
+    {
+      "weight": 65.6824799124541,
+      "source": "Bibliothèque municipale de Fleurat",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 95.83528667645137,
+      "source": "Bibliothèque municipale de Fleurat",
+      "target": "Mairie de Troche"
+    },
+    {
+      "weight": 79.25757379200074,
+      "source": "Point lecture",
+      "target": "Ludotrot"
+    },
+    {
+      "weight": 19.57523466846271,
+      "source": "Point lecture",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 69.32399787521693,
+      "source": "Point lecture",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 86.84266490334588,
+      "source": "Point lecture",
+      "target": "Médiathèque de Nexon"
+    },
+    {
+      "weight": 97.77105425995116,
+      "source": "Point lecture",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 23.125980996755004,
+      "source": "Bibliothèque Café-bib l'oiseau bleu de Saint Wandrille Rançon",
+      "target": "Bibliothèque Marc Sangnier"
+    },
+    {
+      "weight": 56.03369637372626,
+      "source": "Bibliothèque municipale de brens",
+      "target": "Bibliothèque Municipale de Vatilieu"
+    },
+    {
+      "weight": 84.03458353049895,
+      "source": "Bibliothèque municipale de brens",
+      "target": "Bibliothèque Bibliomotte"
+    },
+    {
+      "weight": 41.55691109603999,
+      "source": "Bibliothèque municipale de brens",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 94.59154520836988,
+      "source": "Bibliothèque municipale de brens",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 77.78369414345619,
+      "source": "Les Amis Du Livre",
+      "target": "Médiathèque de Saint-Vincent-des-Landes"
+    },
+    {
+      "weight": 68.14981903077458,
+      "source": "Ludotrot",
+      "target": "Bibliothèque De Melleran"
+    },
+    {
+      "weight": 92.92660611168266,
+      "source": "Ludotrot",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 97.80327634389202,
+      "source": "Ludotrot",
+      "target": "Bibliothèque de Châteauvieux"
+    },
+    {
+      "weight": 68.40293611221635,
+      "source": "Ludotrot",
+      "target": "Bibliotheque Municipale de Tauxigny-Saint-Bauld"
+    },
+    {
+      "weight": 56.834728517081494,
+      "source": "Ludotrot",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 52.72242042866472,
+      "source": "Ludotrot",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 76.19684690580016,
+      "source": "Bibliothèque communale Grignan",
+      "target": "Bibliothèque de Génolhac"
+    },
+    {
+      "weight": 86.12721539761634,
+      "source": "Bibliothèque communale Grignan",
+      "target": "Réseau du pays de Forcalquier"
+    },
+    {
+      "weight": 85.89097043286759,
+      "source": "Bibliothèque communale Grignan",
+      "target": "Bibliotheque municipale"
+    },
+    {
+      "weight": 95.30175041557011,
+      "source": "Bibliothèque communale Grignan",
+      "target": "Médiathèque de Château-Arnoux"
+    },
+    {
+      "weight": 52.74193998695689,
+      "source": "Bibliothèque communale Grignan",
+      "target": "Bibliothèque de Valliguières"
+    },
+    {
+      "weight": 33.05871805457173,
+      "source": "Bibliothèque communale Grignan",
+      "target": "Médiathèque municipale Buis-les-Baronnies"
+    },
+    {
+      "weight": 86.74702466411105,
+      "source": "Bibliothèque communale Grignan",
+      "target": "Bibliothèque Bibliomotte"
+    },
+    {
+      "weight": 73.50007863089408,
+      "source": "Bibliothèque de Génolhac",
+      "target": "Bibliotheque municipale"
+    },
+    {
+      "weight": 61.914959849062576,
+      "source": "Bibliothèque de Génolhac",
+      "target": "Bibliothèque de Valliguières"
+    },
+    {
+      "weight": 60.79767057607954,
+      "source": "Bibliothèque municipale de Bourg-Saint-Bernard",
+      "target": "Bibliothèque De La Ville-Dieu-Du-Temple"
+    },
+    {
+      "weight": 82.47742945561518,
+      "source": "Bibliothèque De Melleran",
+      "target": "Point lecture de Cieux"
+    },
+    {
+      "weight": 78.90195646146748,
+      "source": "Bibliothèque De Melleran",
+      "target": "Bibliotheque De Chiche"
+    },
+    {
+      "weight": 99.28331434186703,
+      "source": "Bibliothèque De Melleran",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 93.04908821189127,
+      "source": "Médiathèque Municipale de Saint Eloi",
+      "target": "Bibliotheque de Creuzier Le Vieux"
+    },
+    {
+      "weight": 35.79009075636077,
+      "source": "Point lecture de Cieux",
+      "target": "Médiathèque de Nexon"
+    },
+    {
+      "weight": 72.03066730483877,
+      "source": "Point lecture de Cieux",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 73.52467658355198,
+      "source": "Point lecture de Cieux",
+      "target": "Mairie de Troche"
+    },
+    {
+      "weight": 60.16270384737518,
+      "source": "Bibliotheque de Creuzier Le Vieux",
+      "target": "Bibliothèque de Tallende"
+    },
+    {
+      "weight": 91.12933386155147,
+      "source": "Bibliotheque de Creuzier Le Vieux",
+      "target": "Bibliothèque Bernard Pivot"
+    },
+    {
+      "weight": 41.44254600703131,
+      "source": "Bibliothèque de Châteauvieux",
+      "target": "Bibliotheque Municipale de Tauxigny-Saint-Bauld"
+    },
+    {
+      "weight": 70.23708032205369,
+      "source": "Bibliothèque de Châteauvieux",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 21.84013657140225,
+      "source": "Réseau du pays de Forcalquier",
+      "target": "Médiathèque de Château-Arnoux"
+    },
+    {
+      "weight": 95.53324456580877,
+      "source": "Réseau du pays de Forcalquier",
+      "target": "Bibliothèque de Valliguières"
+    },
+    {
+      "weight": 53.512906106796066,
+      "source": "Réseau du pays de Forcalquier",
+      "target": "Médiathèque municipale Buis-les-Baronnies"
+    },
+    {
+      "weight": 73.25911078878484,
+      "source": "Réseau du pays de Forcalquier",
+      "target": "Bibliothèque municipale Bernard-Monge"
+    },
+    {
+      "weight": 85.50517259696815,
+      "source": "Bibliothèque de Jaure",
+      "target": "Médiathèque de Nexon"
+    },
+    {
+      "weight": 82.59590111996114,
+      "source": "Bibliothèque de Jaure",
+      "target": "Bibliothèque de Cadillac"
+    },
+    {
+      "weight": 78.76392516493945,
+      "source": "Bibliothèque de Jaure",
+      "target": "Mairie de Troche"
+    },
+    {
+      "weight": 63.73737386096428,
+      "source": "Bibliotheque municipale",
+      "target": "Bibliothèque Bibliomotte"
+    },
+    {
+      "weight": 62.448186350452914,
+      "source": "Médiathèque de Château-Arnoux",
+      "target": "Médiathèque municipale Buis-les-Baronnies"
+    },
+    {
+      "weight": 91.7569130883467,
+      "source": "Médiathèque de Château-Arnoux",
+      "target": "Bibliothèque municipale Bernard-Monge"
+    },
+    {
+      "weight": 62.54514521977673,
+      "source": "Bibliothèque de Valliguières",
+      "target": "Médiathèque municipale Buis-les-Baronnies"
+    },
+    {
+      "weight": 38.34184042909075,
+      "source": "Médiathèque de Nexon",
+      "target": "Mairie de Troche"
+    },
+    {
+      "weight": 66.08703570585196,
+      "source": "Bibliotheque Municipale de Tauxigny-Saint-Bauld",
+      "target": "Bibliotheque Intercommunale - Le Blanc"
+    },
+    {
+      "weight": 39.49771792749306,
+      "source": "Bibliothèque Municipale de Vatilieu",
+      "target": "Bibliothèque Bibliomotte"
+    },
+    {
+      "weight": 62.06787857955751,
+      "source": "Bibliothèque Municipale de Vatilieu",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 79.52969071956679,
+      "source": "Bibliothèque d'Ascain",
+      "target": "Bibliothèque de Sault-de-Navailles"
+    },
+    {
+      "weight": 68.43355951519838,
+      "source": "Bibliothèque Bibliomotte",
+      "target": "Bibliothèque Municipale d'Anthon"
+    },
+    {
+      "weight": 56.322761038359936,
+      "source": "Bibliothèque Municipale d'Anthon",
+      "target": "Bibliothèque Bernard Pivot"
+    }
+  ]
+}
