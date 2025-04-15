@@ -1,4 +1,4 @@
-# Analyse des Bibliothèques Universitaires en France
+# Analyse des Bibliothèques Universitaires en France (Il faut se diriger dans la branche Master pour voir le projet)
 
 Ce projet, réalisé dans le cadre du cours "Graphes et Open Data" (GOD) en licence MIAGE à l’Université de Nanterre, 
 propose une application interactive pour visualiser et analyser les bibliothèques universitaires françaises à partir de données ouvertes.
